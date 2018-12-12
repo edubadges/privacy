@@ -6,7 +6,7 @@ Voor toegang tot de medewerkersomgeving van Edubadges is een account vereist. In
 ## Wat is een Edubadge? 
 Een badge is een digitaal insigne (afbeelding), dat aantoont dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een badge kan deze delen met anderen, bijvoorbeeld op social media, een digitaal cv of met een (potentiële) werkgever. 
 
-Meer informatie over Edubadges is te vinden op [de website van SURF](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html)
+Meer informatie over Edubadges is te vinden op [de website van SURF](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html).
 
 ## Een badge uitgeven
 Studenten kunnen zich via Edubadges inschrijven voor een badge. Na inschrijving en te hebben voldaan aan de vereisten voor de badge kan de onderwijsinstelling de badge toekennen aan de student. Binnen Edubadges zijn er verschillende rollen voor medewerkers, hieronder worden deze rollen kort uitgelegd.
@@ -37,4 +37,4 @@ Heb je nog vragen of opmerkingen, neem dan contact op met [info@edubadges.nl](ma
 **Toestemming**
 Ik geef hierbij toestemming om in het kader van de pilot Edubadges mijn persoonsgegevens te verwerken en neem daarmee op vrijwillige basis deel aan deze pilot. 
 
-<IK GEEF TOESTEMMING>					<IK GEEF GEEN TOESTEMMING>
+IK GEEF TOESTEMMING					IK GEEF GEEN TOESTEMMING

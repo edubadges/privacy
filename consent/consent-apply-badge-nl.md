@@ -1,5 +1,4 @@
 # Toestemmingsverklaring aanvragen badge
-
 Om deze badge aan te vragen worden enkele persoonsgegevens verwerkt. In deze toestemmingsverklaring kun je hier alles over lezen en kun je toestemming geven voor de verwerking van deze persoonsgegevens.
 
 ## Aanvragen badge
@@ -19,4 +18,4 @@ Wil je meer weten over de verwerking van je persoonsgegevens, hoe we deze besche
 **Toestemming**
 Ik geef hierbij toestemming om mijn persoonsgegevens te verwerken voor het  aanvragen en toekennen van deze badge.
 
-<IK GEEF TOESTEMMING>					<IK GEEF GEEN TOESTEMMING>
+IK GEEF TOESTEMMING					IK GEEF GEEN TOESTEMMING

@@ -6,7 +6,7 @@ Om je de gekozen badge te sturen, heb je een Edubadgeaccount nodig. Met deze toe
 ## Wat is een badge? 
 Een badge is een digitaal insigne (afbeelding), dat aantoont dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een badge kan deze delen met anderen, bijvoorbeeld op social media, een digitaal cv of met een (potentiële) werkgever.
 
-Meer informatie over Edubadges is te vinden op [de website van SURF](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html)
+Meer informatie over Edubadges is te vinden op [de website van SURF](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html).
 
 ## Een badge ontvangen
 Na het aanmaken van een Edubadgeaccount kun je jezelf inschrijven voor een badge. Nadat je hebt voldaan aan de vereisten van de badge dan kan de onderwijsinstelling de badge aan jou toekennen. Voor het aanmaken van dit Edubadgeaccount zijn persoonsgegevens vereist, in deze toestemmingsverklaring wordt hiervoor toestemming gevraagd.
@@ -28,4 +28,4 @@ Heb je nog vragen of opmerkingen, neem dan contact op met [info@edubadges.nl](ma
 **Toestemming**
 Ik geef hierbij toestemming om in het kader van de pilot Edubadges mijn persoonsgegevens te verwerken en neem daarmee op vrijwillige basis deel aan deze pilot. 
 
-<IK GEEF TOESTEMMING>					<IK GEEF GEEN TOESTEMMING>
+IK GEEF TOESTEMMING					IK GEEF GEEN TOESTEMMING
