@@ -2,7 +2,7 @@
 Goed dat je de privacyverklaring voor de Pilot Edubadges bekijkt! Het Team Edubadges van SURFnet heeft veel aandacht besteed aan de bescherming van jouw persoonsgegevens en hier kun je daar alles over lezen. Als er tijdens het lezen van deze privacyverklaring toch nog vragen of zorgen zijn, stuur dan gerust een e-mail naar [info@edubadges.nl](mailto:info@edubadges.nl) of neem contact op met je eigen onderwijsinstelling.
 
 ## 1 Introductie Edubadges
-Een badge is een digitaal insigne (afbeelding), dat aantoont dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een badge kan deze delen met anderen, bijvoorbeeld op social media, een digitaal cv of met een (potentiële) werkgever. De Pilot Edubadges faciliteert onderwijsinstellingen, studenten en medewerkers om te experimenteren met deze badges. Meer informatie over Edubadges is te vinden op de [website van SURF](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html).
+Een badge is een digitaal insigne (afbeelding), dat aantoont dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een badge kan deze delen met anderen, bijvoorbeeld op sociale media, een digitaal cv of met een (potentiële) werkgever. De Pilot Edubadges faciliteert onderwijsinstellingen, studenten en medewerkers om te experimenteren met deze badges. Meer informatie over Edubadges is te vinden op de [website van SURF](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html).
 
 ## 2 Persoonsgegevens
 ### Welke gegevens gebruiken we en waarom?
@@ -14,7 +14,7 @@ Voor de werking van Edubadges en het inschrijven, uitgeven en ontvangen van badg
 In de tabel hieronder zijn de verwerkte persoonsgegevens met bijbehorend(e) doel(en) en grondslag opgenomen.
 
 | **Persoonsgegeven** | **Doel** | **Grondslag** |
-| --- | --- | --- |
+| ------------------- | -------- | ------------- |
 | Voornaam | Identificatie bij Badgeuitgifte | Toestemming |
 | Achternaam| Identificatie bij Badgeuitgifte | Toestemming |
 | E-mailadres | Melding over uitgegeven badges en serviceberichten | Toestemming |
@@ -28,7 +28,7 @@ In de tabel hieronder zijn de verwerkte persoonsgegevens met bijbehorend(e) doel
 In de tabel hieronder zijn de verwerkte persoonsgegevens met bijbehorend(e) doel(en) en grondslag opgenomen.
 
 | **Persoonsgegeven** | **Doel** | **Grondslag** |
-| --- | --- | --- |
+| ------------------- | -------- | ------------- |
 | E-mailadres | Melding over badges en serviceberichten en extra identifier | Toestemming |
 | Persistent NameID | Unieke identifier voor medewerkers | Toestemming |
 | EntityID | Technisch noodzakelijk uniek databasenummer | Toestemming |
