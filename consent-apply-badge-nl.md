@@ -13,7 +13,7 @@ Tot slot kan de onderwijsinstelling aanvullend bewijs toevoegen aan de badge. Bi
 Wil je de gegeven toestemming weer intrekken? Dit kun je melden in een e-mail gericht aan info@edubadges.nl. Binnen drie werkdagen zal contact worden opgenomen om de verdere procedure af te stemmen.
 
 ## Meer informatie
-Wil je meer weten over de verwerking van je persoonsgegevens, hoe we deze beschermen en welke rechten je hebt? Kijk dan in de [Privacyverklaring](https://pilot.edubadges.nl/public/privacy-policy).
+Wil je meer weten over de verwerking van je persoonsgegevens, hoe we deze beschermen en welke rechten je hebt? Kijk dan in de [privacyverklaring](https://pilot.edubadges.nl/public/privacy-policy).
 
 **Toestemming**
 Ik geef hierbij toestemming om mijn persoonsgegevens te verwerken voor het  aanvragen en toekennen van deze badge.

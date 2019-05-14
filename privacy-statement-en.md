@@ -12,6 +12,7 @@ Various kinds of personal data are required for the operation of Edubadges and f
 
 ### Students
 The tables below shows the personal data processed, their purpose(s) and legal ground.
+
 | Personal data | Purpose | Legal ground |
 | --- | --- | --- |
 | First name | Identification at badge issue | Consent |
@@ -25,6 +26,7 @@ The tables below shows the personal data processed, their purpose(s) and legal g
 
 ### Employees
 The tables below shows the personal data processed, their purpose(s) and legal ground.
+
 | Personal data | Purpose | Legal ground |
 | --- | --- | --- |
 | Email address | Notification about badges and service messages and additional identifier | Consent |
@@ -63,7 +65,7 @@ You have the following rights in relation to your personal data:
 * You may submit a request to restrict the processing of your data with regard to the processing of data to which you have objected, which you deem unlawful, for which you have disputed the correctness of the personal data or if we no longer require the personal data, but you require said data as part of legal proceedings. 
 * You may request, in a structured and commonly used format, a copy of your data that we process and you have the right to transfer this data to a different service provider. 
 * You may withdraw your consent to your personal data being processed. However, the withdrawal of your consent does not affect the lawfulness of the processing based on your consent prior to its withdrawal. 
-* If you are of the opinion that SURF is not handling your personal data correctly, you may file a complaint with SURF. However, if you and SURF are unable to resolve the issue and SURF's response to your complaint does not lead to an acceptable result, you have the right to submit a complaint about SURF to the Data Protection Authority. You can find more information about the Data Protection Authority and how to submit a complaint at www.autoriteitpersoonsgegevens.nl. 
+* If you are of the opinion that SURF is not handling your personal data correctly, you may file a complaint with SURF. However, if you and SURF are unable to resolve the issue and SURF's response to your complaint does not lead to an acceptable result, you have the right to submit a complaint about SURF to the Data Protection Authority. You can find more information about the Data Protection Authority and how to submit a complaint at the website of the [Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
 To exercise these rights, please contact info@edubadges.nl or your own educational institution. 
 
