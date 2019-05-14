@@ -30,7 +30,7 @@ Deze gegevens worden uitsluitend verwerkt door jouw onderwijsinstelling en diens
 Wil je de gegeven toestemming weer intrekken? Dit kun je melden in een e-mail gericht aan [info@edubadges.nl](mailto:info@edubadges.nl). Binnen drie werkdagen zal contact worden opgenomen om de verdere procedure af te stemmen. Na intrekking van de toestemming zullen alle persoonsgegevens van jou verwijderd worden.
 
 ## Meer informatie
-Wil je meer weten over de verwerking van je persoonsgegevens, hoe we deze beschermen en welke rechten je hebt? Kijk dan in de [Privacyverklaring](https://pilot.edubadges.nl/public/privacy-policy) bij de pilot.
+Wil je meer weten over de verwerking van je persoonsgegevens, hoe we deze beschermen en welke rechten je hebt? Kijk dan in de [privacyverklaring](https://pilot.edubadges.nl/public/privacy-policy) bij de pilot.
 
 Heb je nog vragen of opmerkingen, neem dan contact op met [info@edubadges.nl](mailto:info@edubadges.nl).
 
