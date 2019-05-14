@@ -31,7 +31,7 @@ If you would like to know more about the processing of your personal data, how w
 
 If you have any questions or comments, please contact us on [info@edubadges.nl](mailto:info@edubadges.nl).
 
-**Consent**
+## **Consent**
 I hereby consent to the processing of my personal data within the context of the Edubadges pilot project, and am therefore participating in this pilot project on a voluntary basis. 
 
-<I CONSENT> 	<I DO NOT CONSENT>
+I CONSENT> 	I DO NOT CONSENT
