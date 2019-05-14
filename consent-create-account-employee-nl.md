@@ -12,9 +12,7 @@ Meer informatie over Edubadges is te vinden op [de website van SURF](https://www
 Studenten kunnen zich via Edubadges inschrijven voor een badge. Na inschrijving en te hebben voldaan aan de vereisten voor de badge kan de onderwijsinstelling de badge toekennen aan de student. Binnen Edubadges zijn er verschillende rollen voor medewerkers, hieronder worden deze rollen kort uitgelegd.
 
 1. Issuers zijn actief op opleidingsniveau en kunnen – afhankelijk van de toegekende rechten – aangevraagde badges toekennen aan studenten en badgeclasses maken en/of bewerken.
-
 2. Faculteitsadministrators kunnen nieuwe issuers met bijbehorende rechten binnen de faculteit aanmaken.
-
 3. Instellingsadministrators kunnen faculteiten en nieuwe faculteitsadministrators aanmaken.
 
 Als je in het kader van deze pilot een van bovenstaande rollen op je wil nemen, dan kan dat door toestemming te geven om jouw persoonsgegevens te verwerken. Deze persoonsgegevens zijn nodig om jou te koppelen aan een rol (bijvoorbeeld issuer) en de studenten die zich ingeschreven hebben voor een badge.
@@ -34,7 +32,7 @@ Wil je meer weten over de verwerking van je persoonsgegevens, hoe we deze besche
 
 Heb je nog vragen of opmerkingen, neem dan contact op met [info@edubadges.nl](mailto:info@edubadges.nl).
 
-**Toestemming**
+## **Toestemming**
 Ik geef hierbij toestemming om in het kader van de pilot Edubadges mijn persoonsgegevens te verwerken en neem daarmee op vrijwillige basis deel aan deze pilot. 
 
 IK GEEF TOESTEMMING					IK GEEF GEEN TOESTEMMING
