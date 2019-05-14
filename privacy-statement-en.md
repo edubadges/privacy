@@ -1,4 +1,4 @@
-# EDUBADGE PRIVACY STATEMENT
+# Edubadges Privacy Statement
 Thank you for checking out the privacy statement for the Edubadges pilot! The SURFnet Edubadges Team has paid a great deal of attention to the protection of your personal data and you can read all about it here. If you have any questions or concerns while reading this privacy statement, please send an email to info@edubadges.nl or contact your own educational institution. 
 
 ## 1 Introduction to Edubadges 
