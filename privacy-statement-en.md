@@ -6,11 +6,12 @@ A badge is a digital badge (image) that demonstrates that the recipient has cert
 
 ## 2 Personal data 
 ### What data do we use and why? 
-In 2018, educational institutions that fall within SURFnet's target group were given the opportunity to take part in the Edubadges pilot. Within the scope of this pilot project, the educational institution sets its own objectives with regard to the use of Edubadges and, within the framework of the General Data Protection Regulation (GDPR), it is the data controller. SURFnet provides the technical infrastructure for Edubadges and acts as a processor within the framework of the GDPR. Various kinds of personal data are required for the operation of Edubadges and for registering, issuing and receiving badges. Because the Edubadges pilot is an optional programme, permission for almost all personal data is requested. All personal data will be used exclusively for Edubadges. Do you wish to withdraw your consent? You can inform us in an e-mail to info@edubadges.nl. We will contact you within three working days to coordinate the next stage of the procedure. Once you have withdrawn your consent, all of your badges and personal data will be deleted. 
+In 2018, educational institutions that fall within SURFnet's target group were given the opportunity to take part in the Edubadges pilot. Within the scope of this pilot project, the educational institution sets its own objectives with regard to the use of Edubadges and, within the framework of the General Data Protection Regulation (GDPR), it is the data controller. SURFnet provides the technical infrastructure for Edubadges and acts as a processor within the framework of the GDPR.
 
-The tables below shows the personal data processed, their purpose(s) and legal ground.
+Various kinds of personal data are required for the operation of Edubadges and for registering, issuing and receiving badges. Because the Edubadges pilot is an optional programme, permission for almost all personal data is requested. All personal data will be used exclusively for Edubadges. Do you wish to withdraw your consent? You can inform us in an e-mail to info@edubadges.nl. We will contact you within three working days to coordinate the next stage of the procedure. Once you have withdrawn your consent, all of your badges and personal data will be deleted. 
 
 ### Students
+The tables below shows the personal data processed, their purpose(s) and legal ground.
 | Personal data | Purpose | Legal ground |
 | --- | --- | --- |
 | First name | Identification at badge issue | Consent |
@@ -22,7 +23,8 @@ The tables below shows the personal data processed, their purpose(s) and legal g
 | Badge class | Required for registration with badge | Consent |
 | IP address | Find out availability of Edubadges and abuse. The importance of SURFnet for availability and security outweighs the interest  of the person concerned. | Legitimate interest |
 
-### Employees 
+### Employees
+The tables below shows the personal data processed, their purpose(s) and legal ground.
 | Personal data | Purpose | Legal ground |
 | --- | --- | --- |
 | Email address | Notification about badges and service messages and additional identifier | Consent |
@@ -56,7 +58,7 @@ The following security measures, among others, have been taken to protect the pe
 You have the following rights in relation to your personal data: 
 
 * You may submit a request to amend, complete or delete your data if it is incorrect or no longer relevant. 
-* You may submit a request to review the data we are processing about you. 
+* You may submit a request to be informed about the data we are processing about you. 
 * You may object to the processing of your data if we process your data based on a legitimate interest or based on executing a task carried out in the public interest. 
 * You may submit a request to restrict the processing of your data with regard to the processing of data to which you have objected, which you deem unlawful, for which you have disputed the correctness of the personal data or if we no longer require the personal data, but you require said data as part of legal proceedings. 
 * You may request, in a structured and commonly used format, a copy of your data that we process and you have the right to transfer this data to a different service provider. 
