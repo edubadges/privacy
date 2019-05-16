@@ -9,7 +9,7 @@ A badge is a digital identifier (image) that proves the recipient possesses cert
 More information on Edubadges is available on [SURF's website](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html).
 
 ## Issuing a badge
-Students can register for a badge through Edubadges. The education institution can allot the badge to the student after they have registered and satisfied the requirements for it. There are various roles for employees within Edubadges and these are briefly explained below.
+Students can register for a badge through Edubadges. The education institution can award the badge to the student after they have registered and satisfied the requirements for it. There are various roles for employees within Edubadges and these are briefly explained below.
 
 1. Issuers are active at study programme level and – depending on the rights granted – can grant requested badges to students and create and/or edit badge classes.
 2. Faculty administrators can create new issuers with corresponding rights within the faculty.
