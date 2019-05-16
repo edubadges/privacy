@@ -6,7 +6,7 @@ You need an Edubadges account to receive your chosen badge. Consent to the creat
 ## What is a badge? 
 A badge is a digital identifier (image) that proves the recipient possesses certain knowledge or skills. A badge recipient can share it with others, for example on social media, in a digital CV or with a (potential) employer.
 
-More information on Edubadges is available on [SURFnet's website](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html).
+More information on Edubadges is available on [SURF's website](https://www.surf.nl/innovatieprojecten/onderwijsinnovatie-met-ict/edubadges-en-microcredentialing.html).
 
 ## Receiving a badge
 You can register for a badge after creating an Edubadge account. The education institution can award you the badge after you have satisfied the requirements for it. Personal data is required to create this Edubadge account and consent for this is requested in this statement of consent.
