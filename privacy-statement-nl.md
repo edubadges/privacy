@@ -65,8 +65,8 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt een verzoek indienen tot beperking van de verwerking van je gegevens ten aanzien van de verwerking van gegevens waartegen je bezwaar hebt gemaakt, die je onrechtmatig acht, waarvan je de juistheid van de persoonsgegevens hebt betwist of wanneer we de persoonsgegevens niet meer nodig hebben, maar je ze nodig hebt in het kader van een rechtsvordering.
 * Je kunt een overzicht, in een gestructureerde en gangbare vorm opvragen van de gegevens die we van jou verwerken en je hebt het recht op overdraagbaarheid van deze gegevens naar een andere dienstverlener.
 * Je kunt de door jou gegeven toestemming voor het verwerken van je persoonsgegevens intrekken. Het intrekken van je toestemming doet echter geen afbreuk aan de rechtmatigheid van de verwerking op basis van je toestemming vóór de intrekking daarvan.
-* Als je van mening bent dat SURF niet goed omgaat met je persoonsgegevens kun je een klacht indienen bij SURF.
-* Als jij en SURF er echter niet samen uitkomen en het antwoord van SURF op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht over SURF in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl).
+* Als je van mening bent dat SURFnet niet goed omgaat met je persoonsgegevens kun je een klacht indienen bij SURFnet.
+* Als jij en SURFnet er echter niet samen uitkomen en het antwoord van SURFnet op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht over SURFnet in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl).
 
 Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [info@edubadges.nl](mailto@info@edubadges.nl) of je eigen onderwijsinstelling.
 
