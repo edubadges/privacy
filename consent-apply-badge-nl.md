@@ -17,5 +17,3 @@ Wil je meer weten over de verwerking van je persoonsgegevens, hoe we deze besche
 
 **Toestemming**
 Ik geef hierbij toestemming om mijn persoonsgegevens te verwerken voor het  aanvragen en toekennen van deze badge.
-
-IK GEEF TOESTEMMING					IK GEEF GEEN TOESTEMMING

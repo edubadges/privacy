@@ -17,5 +17,3 @@ If you would like to know more about the processing of your personal data, how w
 
 ## **Consent**
 I hereby consent to the processing of my personal data for the purpose of requesting and awarding this badge.
-
-I CONSENT				I DO NOT CONSENT

@@ -27,5 +27,3 @@ Heb je nog vragen of opmerkingen, neem dan contact op met [info@edubadges.nl](ma
 
 **Toestemming**
 Ik geef hierbij toestemming om in het kader van de pilot Edubadges mijn persoonsgegevens te verwerken en neem daarmee op vrijwillige basis deel aan deze pilot. 
-
-IK GEEF TOESTEMMING					IK GEEF GEEN TOESTEMMING
