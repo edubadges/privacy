@@ -14,7 +14,7 @@ You can register for a badge after creating an Edubadge account. The education i
 Note: participating in this pilot is not mandatory and not participating has no further consequences.
 
 ## Personal data
-Some personal data is required for the technical operation of Edubadges. These are the eduID as identifier, your first name, surname and email address. This data will only be processed by your education institution and its processor: SURFnet. The data will be kept until 31 December 2020.
+Some personal data is required for the technical operation of Edubadges. These are the eduID as identifier, your first name, surname, whether you are a student or employee and email address. This data will only be processed by your education institution and its processor: SURFnet. The data will be kept until 31 December 2020.
 
 ## Withdrawal of consent
 If you wish to withdraw the consent you have given, send an email to that effect to [info@edubadges.nl](mailto:info@edubadges.nl). You will be contacted within three working days to discuss the further procedure. All badges and personal data concerning you will be erased after the withdrawal of consent.

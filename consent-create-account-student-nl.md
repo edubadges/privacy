@@ -14,7 +14,7 @@ Na het aanmaken van een Edubadgeaccount kun je jezelf inschrijven voor een badge
 Let op: meedoen aan deze pilot is niet verplicht en niet deelnemen heeft geen verdere gevolgen.
 
 ## Persoonsgegevens
-Voor de technische werking van Edubadges zijn enkele persoonsgegevens noodzakelijk. Dit gaat om het eduID als identifier, jouw voornaam, achternaam en e-mailadres.
+Voor de technische werking van Edubadges zijn enkele persoonsgegevens noodzakelijk. Dit gaat om het eduID als identifier, jouw voornaam, achternaam, of je een student of medewerker bent en e-mailadres.
 Deze gegevens worden uitsluitend verwerkt door jouw onderwijsinstelling en diens verwerker: SURFnet. De gegevens worden tot en met 31 december 2020 bewaard.
 
 ## Toestemming intrekken

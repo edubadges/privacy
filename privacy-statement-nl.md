@@ -20,6 +20,7 @@ In de tabel hieronder zijn de verwerkte persoonsgegevens met bijbehorend(e) doel
 | E-mailadres | Melding over uitgegeven badges en serviceberichten | Toestemming |
 | EduID | Mogelijk maken uitwisselbaarheid tussen onderwijsinstellingen | Toestemming |
 | EntityID | Technisch noodzakelijk uniek databasenummer | Toestemming |
+| Affiliation | Technisch noodzakelijk voor onderscheid medewerker en student | Toestemming |
 | Toestemming | Of er toestemming gegeven is: verplicht bij toestemming als grondslag | Toestemming |
 | Badgeclass | Nodig voor inschrijving bij badge | Toestemming |
 | IP-adres | Beschikbaarheid Edubadges en misbruik achterhalen. Belang SURFnet voor beschikbaarheid en beveiliging weegt zwaarder dan belang betrokkene | Gerechtvaardigd belang |
@@ -32,6 +33,7 @@ In de tabel hieronder zijn de verwerkte persoonsgegevens met bijbehorend(e) doel
 | E-mailadres | Melding over badges en serviceberichten en extra identifier | Toestemming |
 | Persistent NameID | Unieke identifier voor medewerkers | Toestemming |
 | EntityID | Technisch noodzakelijk uniek databasenummer | Toestemming |
+| Affiliation | Technisch noodzakelijk voor onderscheid medewerker en student | Toestemming |
 | Toestemming | Of er toestemming gegeven is: verplicht bij toestemming als grondslag | Toestemming |
 | Organisatie | Koppelen medewerker aan instelling/faculteit/opleiding/badgeclass | Toestemming |
 | Faculteit | Koppelen medewerker aan faculteit/opleiding/badgeclass | Toestemming |

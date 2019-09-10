@@ -22,6 +22,7 @@ The tables below shows the personal data processed, their purpose(s) and legal b
 | Email address | Notification of badges issued and service messages | Consent |
 | EduID | Enable interchangeability between educational institutions | Consent |
 | EntityID | Technically necessary unique database number | Consent |
+| Affiliaton | Technically neccessary to distinguish employees and students |
 | Consent | Whether consent has been given: mandatory with consent as a basis | Consent |
 | Badge class | Required for registration with badge | Consent |
 | IP address | Availability of Edubadges and abuse. The importance of availability and security outweighs the interest of the person concerned. | Legitimate interest |
@@ -34,6 +35,7 @@ The tables below shows the personal data processed, their purpose(s) and legal b
 | Email address | Notification about badges and service messages and additional identifier | Consent |
 | Persistent NameID | Unique identifier for employees | Consent |
 | EntityID | Technically necessary unique database number | Consent |
+| Affiliaton | Technically neccessary to distinguish employees and students |
 | Consent | Whether consent has been given: mandatory with consent as a basis | Consent |
 | Organisation | Linking employee to institution/faculty/training/badge class | Consent |
 | Faculty | Linking employee to faculty/training/badge class | Consent |
