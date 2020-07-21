@@ -1,1 +1,6 @@
-PLACEHOLDER-TODO
+EDUBADGES TERMS OF SERVICE - EN
+===============================
+
+ 
+
+(Placeholder - real tekst soon)
