@@ -1,5 +1,5 @@
-Edubadges Service Agreement - EN
-================================
+Formal Edubadges Agreement - NL
+===============================
 
  
 
