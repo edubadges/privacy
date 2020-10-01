@@ -9,10 +9,12 @@ Aan het gebruik van edubadges zijn onderstaande gebruiksvoorwaarden verbonden. B
 # BEGRIPPEN
 In deze gebruiksvoorwaarden wordt een aantal begrippen gehanteerd, die hebben de betekenis zoals hieronder is opgenomen:
 
-**Dienst**: de dienst edubadges.
-**Gebruiker**: de natuurlijke persoon die gebruik maakt van de dienst edubadges.
-**Gebruiksvoorwaarden**: deze gebruiksvoorwaarden.
-**Misbruik**: gebruik van de dienst edubadges op een wijze die niet bedoeld is. Onder Misbruik vallen in ieder geval de volgende situaties:
+| Begrip | Betekenis |
+| ------ | --------- |
+| **Dienst** | de dienst edubadges |
+| **Gebruiker** | de natuurlijke persoon die gebruik maakt van de dienst edubadges |
+| **Gebruiksvoorwaarden** | deze gebruiksvoorwaarden |
+| **Misbruik** | gebruik van de dienst edubadges op een wijze die niet bedoeld is. Onder Misbruik vallen in ieder geval de volgende situaties |
 
 * De persoonlijke levenssfeer van anderen wordt geschonden, bijvoorbeeld voor het zonder toestemming of noodzaak verzamelen of verspreiden van persoonsgegevens van derden.
 * Via edubadges worden (persoons)gegevens van jezelf of derden, waaronder maar niet beperkt tot voornaam, achternaam, e-mailadres, onderwijsinstelling en eduID gebruikt om een onjuiste weerspiegeling te geven van de (digitale) werkelijkheid.

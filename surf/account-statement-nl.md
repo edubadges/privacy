@@ -21,9 +21,9 @@ De dienst edubadges is opgedeeld in twee delen:
   * Opslaan van edubadges in backpack
   * Valideren van edubadges
 * Uitgeven van edubadges (2)
- * Inschrijven voor edubadge
- * Genereren van edubadge
- * Versturen van edubadge
+  * Inschrijven voor edubadge
+  * Genereren van edubadge
+  * Versturen van edubadge
 
 Voor het gebruikersaccount, de opslag van edubadges en de validatie van edubadges (1) is SURF de verwerkingsverantwoordelijke. Deze privacyverklaring heeft vooral betrekking op deze verwerking. Met vragen over deze verwerking kun je terecht bij [info@edubadges.nl](mailto:info@edubadges.nl).
 
@@ -44,7 +44,7 @@ Bij de verwerkingen worden twee groepen gebruikers onderscheiden:
 1. Edubadge-ontvangers	    Natuurlijke personen met een gebruikersaccount.
 2. Gasten			        Natuurlijke personen die edubadges zonder account bezoeken.
 
-**Edubadge-ontvangers**
+#### Edubadge-ontvangers
 In de tabel hieronder staan de persoonsgegevens (met doel en grondslag) die verwerkt worden voor edubadge-ontvangers. Deze persoonsgegevens worden verkregen door een koppeling met het eduID-account van de gebruiker.
 
 | Persoonsgegeven |	Doel | Grondslag |
@@ -62,7 +62,7 @@ Een edubadge bevat je eduID. Verder bevat de edubadge informatie zoals het tijds
 
 Als eigenaar van een edubadge kun je de edubadge in je account/backpack publiekelijk beschikbaar maken. Op die manier kan de edubadge geverifieerd worden, bijvoorbeeld door een potentiële werkgever of een onderwijsinstelling.
 
-**Gasten**
+#### Gasten
 Gasten zijn bezoekers van edubadges die (nog) niet ingelogd zijn. Er worden geen persoonsgegevens verwerkt van gasten.
 
 ### 4.2 Aan wie verstrekken we de gegevens?
