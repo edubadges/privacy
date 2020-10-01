@@ -1,7 +1,7 @@
 # Privacyverklaring edubadges
 `Versie 1.1 – 29 september 2020`
 
-Goed dat je de privacyverklaring van de SURF-dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [info@edubadges.nl](mailto:info@edubadges.nl) of neem contact op met je eigen onderwijsinstelling.
+Goed dat je de privacyverklaring van de SURF-dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [support@edubadges.nl](mailto:support@edubadges.nl) of neem contact op met je eigen onderwijsinstelling.
 
 ## 1 Over SURF
 Wij zijn SURFnet B.V. (“SURF”), gevestigd aan het Moreelsepark 48, 3511 EP Utrecht. We zijn te bereiken via `+31-887873000`. SURFnet is onderdeel van de coöperatie SURF, de ICT-samenwerkingsorganisatie van het onderwijs en onderzoek in Nederland. In de coöperatie SURF werken de Nederlandse universiteiten, hogescholen, universitaire medische centra, onderzoeksinstellingen en mbo-instellingen samen aan ICT-innovatie. [Meer over de coöperatie](https://surf.nl/over-surf/cooperatie-surf).
@@ -25,7 +25,7 @@ De dienst edubadges is opgedeeld in twee delen:
   * Genereren van edubadge
   * Versturen van edubadge
 
-Voor het gebruikersaccount, de opslag van edubadges en de validatie van edubadges (1) is SURF de verwerkingsverantwoordelijke. Deze privacyverklaring heeft vooral betrekking op deze verwerking. Met vragen over deze verwerking kun je terecht bij [info@edubadges.nl](mailto:info@edubadges.nl).
+Voor het gebruikersaccount, de opslag van edubadges en de validatie van edubadges (1) is SURF de verwerkingsverantwoordelijke. Deze privacyverklaring heeft vooral betrekking op deze verwerking. Met vragen over deze verwerking kun je terecht bij [support@edubadges.nl](mailto:support@edubadges.nl).
 
 Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsverantwoordelijke en is SURF de verwerker. Bij het aanvragen van edubadges wordt de privacyinformatie van de betreffende onderwijsinstelling getoond. Met vragen over deze verwerking kun je terecht bij je eigen onderwijsinstelling met de onderstaande contactgegevens.
 
@@ -96,7 +96,7 @@ Onder andere de volgende beveiligingsmaatregelen zijn getroffen om de persoonsge
 * Als je van mening bent dat SURF niet goed omgaat met je persoonsgegevens kun je een klacht indienen bij SURF.
 * Als jij en SURF er echter niet samen uitkomen en het antwoord van SURF op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht over SURF in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de website van de [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl).
 
-Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [info@edubadges.nl](mailto@info@edubadges.nl) of je eigen onderwijsinstelling.
+Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [support@edubadges.nl](mailto:support@edubadges.nl) of je eigen onderwijsinstelling.
 
 ## 7 Wijziging privacyverklaring
 Er kunnen wijzigingen worden aangebracht in deze privacyverklaring. We raden je daarom aan om deze privacyverklaring geregeld te raadplegen.
