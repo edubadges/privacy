@@ -14,11 +14,7 @@ In deze gebruiksvoorwaarden wordt een aantal begrippen gehanteerd, die hebben de
 | **Dienst** | de dienst edubadges |
 | **Gebruiker** | de natuurlijke persoon die gebruik maakt van de dienst edubadges |
 | **Gebruiksvoorwaarden** | deze gebruiksvoorwaarden |
-| **Misbruik** | gebruik van de dienst edubadges op een wijze die niet bedoeld is. Onder Misbruik vallen in ieder geval de volgende situaties |
-
-* De persoonlijke levenssfeer van anderen wordt geschonden, bijvoorbeeld voor het zonder toestemming of noodzaak verzamelen of verspreiden van persoonsgegevens van derden.
-* Via edubadges worden (persoons)gegevens van jezelf of derden, waaronder maar niet beperkt tot voornaam, achternaam, e-mailadres, onderwijsinstelling en eduID gebruikt om een onjuiste weerspiegeling te geven van de (digitale) werkelijkheid.
-* Schending van de intellectuele eigendomsrechten van de eigenaar van de Dienst.
+| **Misbruik** | gebruik van de dienst edubadges op een wijze die niet bedoeld is. Onder Misbruik vallen in ieder geval de volgende situaties:<br>1. De persoonlijke levenssfeer van anderen wordt geschonden, bijvoorbeeld voor het zonder toestemming of noodzaak verzamelen of verspreiden van persoonsgegevens van derden.<br>2. Via edubadges worden (persoons)gegevens van jezelf of derden, waaronder maar niet beperkt tot voornaam, achternaam, e-mailadres, onderwijsinstelling en eduID gebruikt om een onjuiste weerspiegeling te geven van de (digitale) werkelijkheid.<br> 3. Schending van de intellectuele eigendomsrechten van de eigenaar van de Dienst. |
 
 # 1. Voorwaarden voor gebruik
 **1.1** Het doel van SURF is het leveren van een dienst waarmee de Gebruiker eenvoudig edubadges kan aanvragen bij zijn of haar onderwijsinstelling. De Gebruiker maakt gebruik van edubadges onder de voorwaarden zoals opgenomen in deze Gebruiksvoorwaarden.
