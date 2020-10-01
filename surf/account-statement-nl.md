@@ -9,9 +9,9 @@ Wij zijn SURFnet B.V. (“SURF”), gevestigd aan het Moreelsepark 48, 3511 EP U
 ## 2 Introductie edubadges
 Een edubadge is een digitaal insigne (afbeelding), dat aantoont dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een edubadge kan deze delen met anderen, bijvoorbeeld op sociale media, een digitaal cv, een onderwijsinstelling of met een (potentiële) werkgever.
 
-Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig. SURF heeft deze infrastructuur voor het uitgeven van edubadges ontwikkeld, waarbij de edubadges veilig binnen SURF worden opgeslagen en gevalideerd kunnen worden. Meer informatie over edubadges is te vinden op de [website van SURF](https://surf.nl/edubadges-nationale-aanpak-voor-inzet-van-badges).
+Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig. SURF heeft deze infrastructuur voor het uitgeven van edubadges ontwikkeld, waarbij de edubadges veilig binnen SURF worden opgeslagen en gevalideerd kunnen worden. Meer informatie over edubadges is te vinden op de [website van SURF](https://surf.nl/edubadges).
 
-Kom je er niet uit? Bekijk dan onze [handleidingen](https://surf.nl/edubadges).
+Kom je er niet uit? Bekijk dan onze [handleidingen](https://www.surf.nl/starten-met-edubadges).
 
 ## 3 Verwerkingen
 De dienst edubadges is opgedeeld in twee delen:
