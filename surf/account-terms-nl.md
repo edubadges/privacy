@@ -40,7 +40,7 @@ In deze gebruiksvoorwaarden wordt een aantal begrippen gehanteerd, die hebben de
 **3.1** Aan het gebruik en gebruiksrecht van edubadges zijn geen kosten verbonden.
 
 # 4. Persoonsgegevens
-**4.1** Door het gebruik van edubadges worden er persoonsgegevens verwerkt door SURF. Deze persoonsgegevens zullen worden verwerkt conform de [privacyverklaring](https://edubadges.nl/privacy).
+**4.1** Door het gebruik van edubadges worden er persoonsgegevens verwerkt door SURF. Deze persoonsgegevens zullen worden verwerkt conform de [privacyverklaring](https://github.com/edubadges/privacy/blob/master/surf/account-statement-nl.md).
 
 # 5. Beschikbaarheid en onderhoud
 **5.1** SURF spant zich in om edubadges zoveel mogelijk beschikbaar te laten zijn, maar garandeert geen ononderbroken beschikbaarheid en kan bij onderhoud, storingen of gevallen van Misbruik edubadges tijdelijk beperken of staken.
