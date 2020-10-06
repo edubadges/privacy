@@ -41,8 +41,8 @@ Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsg
 
 Bij de verwerkingen worden twee groepen gebruikers onderscheiden:
 
-1. Edubadge-ontvangers	    Natuurlijke personen met een gebruikersaccount.
-2. Gasten			        Natuurlijke personen die edubadges zonder account bezoeken.
+1. Edubadge-ontvangers: Natuurlijke personen met een gebruikersaccount.
+2. Gasten: Natuurlijke personen die edubadges zonder account bezoeken.
 
 #### Edubadge-ontvangers
 In de tabel hieronder staan de persoonsgegevens (met doel en grondslag) die verwerkt worden voor edubadge-ontvangers. Deze persoonsgegevens worden verkregen door een koppeling met het eduID-account van de gebruiker.
@@ -71,12 +71,12 @@ Medewerkers van je onderwijsinstelling hebben, nadat je een edubadge aanvraagt, 
 ## 5 Beveiliging
 Onder andere de volgende beveiligingsmaatregelen zijn getroffen om de persoonsgegevens te beschermen:
 
-* Enkel het persoonsgegevens eduID wordt in de edubadge opgeslagen.
+* Enkel het persoonsgegeven eduID wordt in de edubadge opgeslagen.
 * Communicatie tussen systemen is versleuteld conform moderne standaarden en best practices.
 * Er heeft een uitgebreide externe security audit (code review en penetration test) voor livegang plaatsgevonden.
 * De dienst edubadges wordt regelmatig geaudit.
 * De toegang tot servers is beveiligd conform moderne beveiligingsstandaarden en best practices.
-* Alle fysieke en virtuele servers en data bevinden zich in SURFdatacentra in Nederland. De dienst edubadges wordt redundant gehost op SURF-locaties Nikhef en InterXion.
+* Alle fysieke en virtuele servers en data bevinden zich in SURFdatacentra in Nederland. De dienst edubadges wordt redundant gehost op de SURF-locaties Nikhef en InterXion.
 * Alle besturingssystemen en software worden up-to-date gehouden.
 * De toegang tot de beheerkant van de dienst edubadges is afgeschermd door middel van VPN en geharde configuratie voor de toegang zelf.
 * Er worden dagelijks backups gemaakt van de productieomgeving.
@@ -86,7 +86,7 @@ Onder andere de volgende beveiligingsmaatregelen zijn getroffen om de persoonsge
 * De rollen voor medewerkersaccounts in edubadges zijn wat betreft toegang beperkt tot louter relevante persoonsgegevens.
 
 ## 6 Je rechten met betrekking tot je (persoons)gegevens
-* Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
+Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt een verzoek indienen tot wijziging, aanvulling of verwijdering van je gegevens wanneer deze onjuist of niet (meer) relevant zijn.
 * Je kunt een verzoek indienen om inzage te verkrijgen in de gegevens die we van jou verwerken.
 * Je kunt bezwaar maken tegen verwerking van je gegevens, als we je gegevens verwerken op basis van een eigen gerechtvaardigd belang of op basis van de uitvoering van een taak van algemeen belang.
