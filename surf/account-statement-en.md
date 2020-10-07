@@ -4,7 +4,7 @@
 Thank you for taking the time to read the privacy statement of the SURF edubadges service! We have devoted a great deal of attention to the protection of your personal data and you can read all about this in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please feel free to send an e-mail to [support@edubadges.nl](mailto:support@edubadges.nl) or contact your own educational institution.
 
 ## 1 About SURF
-We are SURFnet B.V. ("SURF"), located at 48 Moreelsepark, 3511 EP Utrecht, the Netherlands. You can call us on `31-887873000`. SURFnet is part of the SURF cooperative, the collaborative organisation for ICT in Dutch education and research. More than 100 education and research institutions in the Netherlands work together within the SURF cooperative to fully utilise the opportunities of digital transformation. More about the [cooperative](https://www.surf.nl/en/about-surf/the-surf-cooperative).
+We are SURFnet B.V. ("SURF"), located at 48 Moreelsepark, 3511 EP Utrecht, the Netherlands. You can call us on `31-887873000`. SURFnet is part of the SURF cooperative, the collaborative organisation for ICT in Dutch education and research. More than 100 education and research institutions in the Netherlands work together within the SURF cooperative to fully utilise the opportunities of digital transformation. More about the [SURF cooperative](https://www.surf.nl/en/about-surf/the-surf-cooperative).
 
 ## 2 Introduction to edubadges
 An edubadge is a digital badge (image) which shows that the holder has certain knowledge or skills. The recipient of an edubadge can share it with others, for example on social media, on a digital CV, or with an educational institution or (potential) employer.
