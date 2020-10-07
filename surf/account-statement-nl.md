@@ -11,7 +11,7 @@ Een edubadge is een digitaal insigne (afbeelding), dat aantoont dat de ontvanger
 
 Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig. SURF heeft deze infrastructuur voor het uitgeven van edubadges ontwikkeld, waarbij de edubadges veilig binnen SURF worden opgeslagen en gevalideerd kunnen worden. Meer informatie over edubadges is te vinden op de [website van SURF](https://surf.nl/edubadges).
 
-Kom je er niet uit? Bekijk dan onze [handleidingen](https://www.surf.nl/starten-met-edubadges).
+Kom je er niet uit? Bekijk dan [Starten met edubadges](https://www.surf.nl/starten-met-edubadges).
 
 ## 3 Verwerkingen
 De dienst edubadges is opgedeeld in twee delen:
@@ -27,11 +27,7 @@ De dienst edubadges is opgedeeld in twee delen:
 
 Voor het gebruikersaccount, de opslag van edubadges en de validatie van edubadges (1) is SURF de verwerkingsverantwoordelijke. Deze privacyverklaring heeft vooral betrekking op deze verwerking. Met vragen over deze verwerking kun je terecht bij [support@edubadges.nl](mailto:support@edubadges.nl).
 
-Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsverantwoordelijke en is SURF de verwerker. Bij het aanvragen van edubadges wordt de privacyinformatie van de betreffende onderwijsinstelling getoond. Met vragen over deze verwerking kun je terecht bij je eigen onderwijsinstelling met de onderstaande contactgegevens.
-
-| Onderwijsinstelling |	Privacycontactgegevens |
-| ------------------- | ---------------------- |
-| placeholder | placeholder@domain.tld |
+Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsverantwoordelijke en is SURF de verwerker. Bij het aanvragen van edubadges wordt de privacyinformatie van de betreffende onderwijsinstelling getoond. Met vragen over deze verwerking kun je terecht bij je eigen onderwijsinstelling.
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).
 
