@@ -1,3 +1,5 @@
+# Onze Gebruiksvoorwaarden
+
 Hieronder staan de belangrijkste punten over edubadges en jouw privacy. De volledige versie van de Gebruiksvoorwaarden tussen SURF en jou is onder deze tekst te vinden. Het aanmaken van het account en het koppelen van dit account aan eduID is noodzakelijk om edubadges te kunnen ontvangen. Het account valt onder de verwerkingsverantwoordelijkheid van SURF.
 
 * SURF maakt een account voor je op basis van je eduID. Dit account blijft bestaan tot je dit account verwijdert.
