@@ -1,3 +1,5 @@
+# Please take notice of our terms
+
 Below are the key points about edubadges and the protection of your personal data. The full version of the Terms of Use between SURF and you can be found below this text. You must create an account and link it to your eduID before you can receive edubadges. The data controller for the purposes of your account is SURF.
 
 * SURF will create an account for you based on your eduID. This account will continue to exist until you delete it.
