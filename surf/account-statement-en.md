@@ -4,14 +4,14 @@
 Thank you for taking the time to read the privacy statement of the SURF edubadges service! We have devoted a great deal of attention to the protection of your personal data and you can read all about this in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please feel free to send an e-mail to [support@edubadges.nl](mailto:support@edubadges.nl) or contact your own educational institution.
 
 ## 1 About SURF
-We are SURFnet B.V. ("SURF"), located at 48 Moreelsepark, 3511 EP Utrecht, the Netherlands. You can call us on `31-887873000`. SURFnet is part of the SURF cooperative, the collaborative organisation for ICT in Dutch education and research. More than 100 education and research institutions in the Netherlands work together within the SURF cooperative to fully utilise the opportunities of digital transformation. More about the [cooperative](https://surf.nl/over-surf/cooperatie-surf).
+We are SURFnet B.V. ("SURF"), located at 48 Moreelsepark, 3511 EP Utrecht, the Netherlands. You can call us on `31-887873000`. SURFnet is part of the SURF cooperative, the collaborative organisation for ICT in Dutch education and research. More than 100 education and research institutions in the Netherlands work together within the SURF cooperative to fully utilise the opportunities of digital transformation. More about the [cooperative](https://www.surf.nl/en/about-surf/the-surf-cooperative).
 
 ## 2 Introduction to edubadges
 An edubadge is a digital badge (image) which shows that the holder has certain knowledge or skills. The recipient of an edubadge can share it with others, for example on social media, on a digital CV, or with an educational institution or (potential) employer.
 
-A technical infrastructure is required in order to create and award edubadges. SURF has developed the infrastructure for issuing edubadges; the edubadges are stored securely and can be validated within SURF's systems. More information about edubadges can be found on [SURF's website](https://surf.nl/edubadges).
+A technical infrastructure is required in order to create and award edubadges. SURF has developed the infrastructure for issuing edubadges; the edubadges are stored securely and can be validated within SURF's systems. More information about edubadges can be found on [SURF's website](https://www.surf.nl/en/edubadges-issuing-digital-certificates-to-students).
 
-Can't find what you're looking for? Take a look at our [Manuals](https://www.surf.nl/starten-met-edubadges).
+Can't find what you're looking for? Take a look at [Getting started with edubadges](https://www.surf.nl/en/getting-started-with-edubadges).
 
 ## 3 Data processing
 The edubadges service is divided into two parts:
@@ -23,21 +23,17 @@ The edubadges service is divided into two parts:
 * Issuing edubadges (2)
   * Registering for edubadges
   * Creating an edubadge
-  * Sending an edubadge
+  * Issuing an edubadge
 
 SURF is the data controller for the processing of data in the user account, storing edubadges and validating edubadges (1). This privacy statement primarily relates to this data processing. If you have any questions about this data processing, please contact [support@edubadges.nl](mailto:support@edubadges.nl).
 
-For the issue of edubadges (2), your educational institution is the data controller and SURF is the data processor. When applying for an edubadge, the educational institution in question will present you its privacy policy. If you have any questions about this processing, please contact your own educational institution using the contact details below.
-
-| Educational institution | Data protection contact details |
-| ----------------------- | ------------------------------- |
-| placeholder | placeholder@domain.tld |
+For the issuing of edubadges (2), your educational institution is the data controller and SURF is the data processor. When applying for an edubadge, the educational institution in question will present you its privacy policy. If you have any questions about this processing, please contact your own educational institution.
 
 Below is the privacy statement for the data processing operations associated with 'Account/backpack' (1).
 
 ## 4 Personal data
 ### 4.1 What personal data do we process and why?
-In order for the edubadges platform to function, it is necessary to process personal data. The legal basis for the creation of the user account is the 'performance of an agreement'. The applicable Terms of Use will be displayed when a user account is created.
+In order for the edubadges platform to function, it is necessary to process personal data. The legal basis for the creation of the user account is the 'performance of an agreement'. The applicable Terms of Use will be displayed when an user account is created.
 
 Two groups of users are distinguished during data processing operations:
 
@@ -85,7 +81,7 @@ Security measures, including the following, have been taken to protect personal 
 * Employee account roles access in edubadges is limited to only the personal data that is relevant to them.
 
 ## 6 Your personal data rights
-* You have the following rights with regard to your own personal data:
+You have the following rights with regard to your own personal data:
 * You may submit a request to modify, supplement or delete your data if it is incorrect or no longer relevant.
 * You may submit a request to access the data about you that we process.
 * You may object to the processing of your data if we process your data on the legal basis of a legitimate interest or the performance of a task in the public interest.
