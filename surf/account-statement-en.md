@@ -41,8 +41,8 @@ In order for the edubadges platform to function, it is necessary to process pers
 
 Two groups of users are distinguished during data processing operations:
 
-1. Edubadge recipients Natural persons having a user account.
-2. Guests Natural persons viewing edubadges without an account.
+1. Edubadge recipients: Natural persons having a user account.
+2. Guests: Natural persons viewing edubadges without an account.
 
 #### Edubadge recipients
 The table below shows the personal data processed for edubadge recipients (along with the purpose and the legal basis). This personal data is obtained by means of a link to the user's eduID account.
