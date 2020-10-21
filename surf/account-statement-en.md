@@ -25,7 +25,7 @@ The edubadges service is divided into two parts:
   * Creating an edubadge
   * Issuing an edubadge
 
-SURF is the data controller for the processing of data in the user account, storing edubadges and validating edubadges (1). This privacy statement primarily relates to this data processing. If you have any questions about this data processing, please contact [support@edubadges.nl](mailto:support@edubadges.nl).
+SURF is the data controller for the processing of data in the user account, storing edubadges and validating edubadges (1). This privacy statement primarily relates to this data processing. If you have any questions about this data processing, please contact [support@edubadges.nl](mailto:support@edubadges.nl). De edubadge 'Edubadge account complete' will be awarded automatically after user account creation. With this edubadge, the functionality of edubadges.nl can be explored. This edubadge can be rejected by clicking 'Reject this edubadge' inside the edubadge's page.
 
 For the issuing of edubadges (2), your educational institution is the data controller and SURF is the data processor. When applying for an edubadge, the educational institution in question will present you its privacy policy. If you have any questions about this processing, please contact your own educational institution.
 
