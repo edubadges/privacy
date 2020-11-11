@@ -23,7 +23,7 @@ De dienst edubadges is opgedeeld in twee delen:
   * Genereren van edubadge
   * Versturen van edubadge
 
-# 3.1 Persoonsgegevens
+# 3 Persoonsgegevens
 Voor het verweren van jouw badge aanvraag, moeten de volgende persoonsgegevens worden opgeslagen en verwerkt:
 
 * EduID (identifier)

@@ -24,7 +24,7 @@ The edubadges service is divided into two parts:
   * Creating an edubadge
   * Issuing an edubadge
 
-# 3.1 What personal data do we process and why?
+# 3 What personal data do we process and why?
 In order to process your edubadge request, it is necessary to store and process the following personal data:
 * EduID (identifier)
 * First name(s)
