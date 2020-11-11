@@ -5,6 +5,7 @@ This repository contains mostly externally oriented privacy documentation for th
 | Dutch (NL) | English (EN) | File names |
 | ---------- | ------------ | ---------- |
 | account | account | account |
+| edubadges | edubadges | edubadges |
 | formele edubadges | formal edubadges | formal |
 | niet-formele edubadges | non-formal edubadges | nonformal |
 | privacyverklaring | privacy statement | statement |
@@ -17,8 +18,12 @@ Consistency is important, follow the layout guidelines below for all future edit
 * Privacy documentation for the platform edubadges can be found in the folder `surf`.
 * For each educational institution there is a dedicated folder which is named after their official full name. Spaces are replaced by hyphens (e.g. `universiteit-van-amsterdam`).
 * File names consist of the following components and order:
-  * subject (options: (1) `account` (2) `formal` (3) `informal`)
+  * subject (options: (1) `account` (2) `edubadges`)
+  * variant (only for subject `edubadges`)(options: (1) `formal` (2) `informal`)
   * type (options: (1) `statement` (2) `terms` (3) `excerpt`)
   * language (options: (1) `nl` (2) `en`)
-  * E.g. `account-statement-nl` or `formal-excerpt-nl`.
-* `account` can only be used by the SURF organisation.
+  * `account` can only be used by the SURF organisation.
+
+Some examples:
+* Account: `account-statement-nl`, `account-terms-en`.
+* Edubadge: `edubadge-statement-en`, `edubadges-formal-excerpt-nl`, `edubadges-terms-nl`.

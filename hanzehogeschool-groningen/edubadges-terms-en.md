@@ -1,4 +1,4 @@
-`Version 1.1 – 2 November 2020`
+`Version 1.0 – 2 November 2020`
 
 We are glad that you’re reading the privacy statement of the Hanze University for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl).
 

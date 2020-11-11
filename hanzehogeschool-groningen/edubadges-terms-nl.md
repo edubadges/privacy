@@ -1,4 +1,4 @@
-`Versie 1.1 – 2 november 2020`
+`Versie 1.0 – 2 november 2020`
 
 Goed dat je de privacyverklaring van de Hanzehogeschool voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl)..
 
