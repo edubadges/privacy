@@ -27,3 +27,10 @@ Consistency is important, follow the layout guidelines below for all future edit
 Some examples:
 * Account: `account-statement-nl`, `account-terms-en`.
 * Edubadge: `edubadge-statement-en`, `edubadges-formal-excerpt-nl`, `edubadges-terms-nl`.
+
+## Used legal basis
+| Educational Institution | Formal basis | Nonformal basis |
+| ----------------------- | ------------ | --------------- |
+| Hanzehogeschool Groningen | none | legitimate interest |
+| Maastricht University | none | legitimate interest |
+| Universiteit Twente | agreement | legitimate interest |

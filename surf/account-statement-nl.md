@@ -27,7 +27,12 @@ De dienst edubadges is opgedeeld in twee delen:
 
 Voor het gebruikersaccount, de opslag van edubadges en de validatie van edubadges (1) is SURF de verwerkingsverantwoordelijke. Deze privacyverklaring heeft vooral betrekking op deze verwerking. Met vragen over deze verwerking kun je terecht bij [support@edubadges.nl](mailto:support@edubadges.nl). De edubadge 'Edubadge account complete' wordt automatisch uitgegeven na het aanmaken van het gebruikersaccount. Met deze eerste edubadge kun je de functionaliteiten van edubadges.nl verkennen. Deze edubadge kun je verwijderen door op 'Weiger deze edubadge' te klikken op de edubadgepagina.
 
-Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsverantwoordelijke en is SURF de verwerker. Bij het aanvragen van edubadges wordt de privacyinformatie van de betreffende onderwijsinstelling getoond. Met vragen over deze verwerking kun je terecht bij je eigen onderwijsinstelling.
+Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsverantwoordelijke en is SURF de verwerker. Bij het aanvragen van edubadges wordt de privacyinformatie van de betreffende onderwijsinstelling getoond. Met vragen over deze verwerking kun je terecht bij je eigen onderwijsinstelling. In de tabel hieronder staan de contactgegevens.
+
+| Instelling | Contactgegevens |
+| ---------- | --------------- |
+| Hanzehogeschool Groningen | [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl) |
+| Maastricht University | [privacy@maastrichtuniversity.nl](mailto:privacy@maastrichtuniversity.nl) |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).
 
