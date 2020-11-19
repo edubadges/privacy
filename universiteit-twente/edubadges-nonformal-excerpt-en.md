@@ -7,4 +7,4 @@ University of Twente is the controller for issuing edubadges. For the edubadges 
 * An edubadge contains your eduID, which you can create via SURF. The edubadge also contains information such as the time of issue, the publisher (UT) and information about the achievement, educational module and/or learning outcome.
 * If you have any questions about the privacy concerning edubadges, please contact [dpo@utwente.nl](mailto:dpo@utwente.nl).
 
-By clicking on ’I agree’, you are agreeing to the [full Agreement](link). For more information, please also view our privacy statement of the UT.
+By clicking on ’I agree’, you are agreeing to the [full Agreement](link). For more information, please also view our [privacy statement of the UT](https://www.utwente.nl/en/about-our-website/).

@@ -88,7 +88,7 @@ Ter bescherming van persoonsgegevens zijn onder meer de volgende beveiligingsmaa
 * De toegangsrechten voor werknemersaccounts in edubadges zijn beperkt tot relevante persoonlijke gegevens.
   
 # 5. Uw rechten met betrekking tot uw (persoons) gegevens:
-Verwezen wordt naar de Privacyverklaring van de Universiteit Twente.
+Verwezen wordt naar de [Privacyverklaring van de Universiteit Twente](https://www.utwente.nl/en/about-our-website/).
 
 Om eventuele rechten uit te oefenen kunt u contact opnemen met [dpo@utwente.nl](mailto:dpo@utwente.nl).
 

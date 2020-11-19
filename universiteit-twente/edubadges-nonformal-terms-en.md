@@ -46,7 +46,7 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 | Privacy interaction	| Whether the Terms of Use have been agreed to | Legitimate interest |
 
 ## Generating edubadge
-Data subject: Badge recipient. In the table below are the personal data (with purpose and basis) that are processed for generating an Edubadge. This personal data is obtained by linking to the user's eduID account.
+Data subject: Badge recipient. In the table below are the personal data (with purpose and basis) that are processed for generating an edubadge. This personal data is obtained by linking to the user's eduID account.
 
 | Personal data	| Purpose	| Basis |
 | ------------- | ------- | ----- |
@@ -72,7 +72,7 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 An edubadge contains your eduID. Furthermore, the edubadge contains information such as the time of issue, the publisher (University of Twente) and information about the performance, educational module and/or learning outcome.
 
 ## To whom do we provide the data?
-The University of Twente have access to your first name, last name and email address after you apply for an Edubadge. SURF and its management party has access to all personal data. The personal data are not provided to other third parties.
+The University of Twente have access to your first name, last name and email address after you apply for an edubadge. SURF and its management party has access to all personal data. The personal data are not provided to other third parties.
 
 # 5 Security
 Among other things, the following security measures have been put in place to protect personal data:
@@ -90,7 +90,7 @@ Among other things, the following security measures have been put in place to pr
 * The access permissions for employee accounts in edubadges are limited to relevant personal data.
 
 # 6 Your rights in relation to your (personal) data
-See Privacy statement University of Twente.
+See [Privacy statement University of Twente](https://www.utwente.nl/en/about-our-website/).
 
 In order to exercise these rights, you can contact [dpo@utwente.nl](mailto:dpo@utwente.nl).
 

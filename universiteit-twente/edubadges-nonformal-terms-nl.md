@@ -1,11 +1,11 @@
 `Versie 1.0 – 18 november 2020`
 
-We zijn blij dat u de privacyverklaring van de Universiteit Twente (UT) voor de dienst Edubadges leest! We hebben veel aandacht besteed aan de bescherming van uw persoonsgegevens en u leest er alles over in deze privacyverklaring. Mocht u na het lezen van deze privacyverklaring nog vragen en/of opmerkingen hebben, stuur dan een e-mail naar [fg@utwente.nl](mailto:fg@utwente.nl).
+We zijn blij dat u de privacyverklaring van de Universiteit Twente (UT) voor de dienst edubadges leest! We hebben veel aandacht besteed aan de bescherming van uw persoonsgegevens en u leest er alles over in deze privacyverklaring. Mocht u na het lezen van deze privacyverklaring nog vragen en/of opmerkingen hebben, stuur dan een e-mail naar [fg@utwente.nl](mailto:fg@utwente.nl).
 
 # 1 Introductie edubadges
-Een Edubadge is een digitaal insigne (een digitaal certificaat) dat laat zien dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een Edubadge kan deze delen via social media met anderen zoals een potentiele werkgever of onderwijsinstelling.
+Een edubadge is een digitaal insigne (een digitaal certificaat) dat laat zien dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een edubadge kan deze delen via social media met anderen zoals een potentiele werkgever of onderwijsinstelling.
 
-Technische infrastructuur is vereist om Edubadges te creëren. SURF heeft een infrastructuur voor uitgifte van Edubadges ontwikkeld, waarin de Edubadges veilig kunnen worden opgeslagen en gevalideerd binnen SURF. Meer informatie over Edubadges is te vinden op de [website van SURF](https://surf.nl/edubadges).
+Technische infrastructuur is vereist om edubadges te creëren. SURF heeft een infrastructuur voor uitgifte van edubadges ontwikkeld, waarin de edubadges veilig kunnen worden opgeslagen en gevalideerd binnen SURF. Meer informatie over edubadges is te vinden op de [website van SURF](https://surf.nl/edubadges).
 
 # 2 Verwerkingen
 De dienst edubadges is onderverdeeld in twee delen:
@@ -33,7 +33,7 @@ Voor het uitgeven van edubadges zien we drie verwerkingen:
 3. Versturen van edubadge
 
 ## Inschrijven van edubadge
-Betrokkene (Badge-ontvanger): in de onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voordat u zich aanmeldt voor een Edubadge. Deze persoonlijke gegevens worden verkregen door te koppelen aan het EduID-account van de gebruiker.
+Betrokkene (Badge-ontvanger): in de onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voordat u zich aanmeldt voor een edubadge. Deze persoonlijke gegevens worden verkregen door te koppelen aan het EduID-account van de gebruiker.
 
 | Persoonsgegeven | Doel | Grondslag |
 | --------------- | ---- | --------- |
@@ -57,7 +57,7 @@ Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (m
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
 
 ## Versturen van edubadge
-Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voor het versturen van een Edubadge. Deze persoonlijke gegevens worden verkregen door te linken naar het eduID-account van de gebruiker.
+Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voor het versturen van een edubadge. Deze persoonlijke gegevens worden verkregen door te linken naar het eduID-account van de gebruiker.
 
 | Persoonsgegeven | Doel | Grondslag |
 | --------------- | ---- | --------- |
@@ -71,26 +71,26 @@ Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (m
 Een edubadge bevat je eduID. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (Hanzehogeschool) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst.
 
 ## Aan wie verstrekken we de gegevens?
-De Universiteit Twente heeft toegang tot uw voornaam, achternaam en e-mailadres nadat je een Edubadge hebt aangevraagd. SURF en haar beheermaatschappij hebben toegang tot alle persoonsgegevens. De persoonlijke gegevens worden niet aan derde partijen verstrekt.
+De Universiteit Twente heeft toegang tot uw voornaam, achternaam en e-mailadres nadat je een edubadge hebt aangevraagd. SURF en haar beheermaatschappij hebben toegang tot alle persoonsgegevens. De persoonlijke gegevens worden niet aan derde partijen verstrekt.
 
 # 4 Beveiliging
 Ter bescherming van persoonsgegevens zijn onder meer de volgende beveiligingsmaatregelen getroffen:
 
-* Edubadges wijken af van de standaard persoonsgegevens in de Open Badge 2.0 specificatie (voornaam, achternaam, e-mailadres). Alleen de EduID wordt in de Edubadges opgeslagen als persoonsgegevens.
+* edubadges wijken af van de standaard persoonsgegevens in de Open Badge 2.0 specificatie (voornaam, achternaam, e-mailadres). Alleen de EduID wordt in de edubadges opgeslagen als persoonsgegevens.
 * Communicatie tussen systemen is versleuteld in overeenstemming met moderne standaarden en best practices.
-* Er heeft een uitgebreide externe beveiligingsaudit (code review en penetratietest) plaatsgevonden voor live passage. De Edubadges-service wordt regelmatig gecontroleerd.
+* Er heeft een uitgebreide externe beveiligingsaudit (code review en penetratietest) plaatsgevonden voor live passage. De edubadges-service wordt regelmatig gecontroleerd.
 * Toegang tot servers wordt beschermd in overeenstemming met moderne beveiligingsnormen en best practices.
-* Alle fysieke en virtuele servers en data staan in datacenters van SURF in Nederland. De dienst Edubadges wordt redundant gehost op SURF-locaties Nikhef en InterXion.
+* Alle fysieke en virtuele servers en data staan in datacenters van SURF in Nederland. De dienst edubadges wordt redundant gehost op SURF-locaties Nikhef en InterXion.
 * Alle besturingssystemen en software worden up-to-date gehouden.
-* Toegang tot de beheerzijde van de Edubadges-service is afgeschermd via VPN en een geharde configuratie voor toegang zelf.
+* Toegang tot de beheerzijde van de edubadges-service is afgeschermd via VPN en een geharde configuratie voor toegang zelf.
 * Er worden dagelijks back-ups gemaakt van de productieomgeving.
 * Servers, besturingssystemen en / of applicaties worden beschermd door een restrictieve firewall.
 * Acties in het besturingssysteem en acties van werknemersaccounts worden gelogd.
 * De webserver maakt gebruik van een geharde configuratie en security headers in overeenstemming met best practices.
-* De toegangsrechten voor werknemersaccounts in Edubadges zijn beperkt tot relevante persoonlijke gegevens.
+* De toegangsrechten voor werknemersaccounts in edubadges zijn beperkt tot relevante persoonlijke gegevens.
 
 # 5 Uw rechten met betrekking tot je (persoons)gegevens
-Verwezen wordt naar de Privacyverklaring van de Universiteit Twente.
+Verwezen wordt naar de [Privacyverklaring van de Universiteit Twente](https://www.utwente.nl/en/about-our-website/).
 
 Om eventuele rechten uit te oefenen kunt u contact opnemen met [dpo@utwente.nl](mailto:dpo@utwente.nl).
 

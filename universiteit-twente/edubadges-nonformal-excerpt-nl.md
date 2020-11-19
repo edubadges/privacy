@@ -8,4 +8,4 @@ UT is aan te merken als verwerkingsverantwoordelijke voor het uitgeven van eduba
 * Een edubadge bevat je EduID, die je via SURF kunt aanmaken. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (UT) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst.
 * Met vragen over de privacy rondom edubadges kun je contact opnemen met [fg@utwente.nl](mailto:fg@utwente.nl).
 
-Door op ‘Ik ga akkoord’ te klikken, ga je akkoord met de [volledige gebruiksvoorwaarden](link) bij deze edubadge. Voor meer informatie kun je ook de privacyverklaring van de Universiteit Twente raadplegen.
+Door op ‘Ik ga akkoord’ te klikken, ga je akkoord met de [volledige gebruiksvoorwaarden](link) bij deze edubadge. Voor meer informatie kun je ook de [privacyverklaring van de Universiteit Twente raadplegen](https://www.utwente.nl/en/about-our-website/).

@@ -88,7 +88,7 @@ Among other things, the following security measures have been put in place to pr
 * The access permissions for employee accounts in edubadges are limited to relevant personal data.
  
 # 5. Your rights in relation to your (personal) data
-See Privacy statement University of Twente.
+See [Privacy statement University of Twente](https://www.utwente.nl/en/about-our-website/).
 
 In order to exercise these rights, you can contact [dpo@utwente.nl](mailto:dpo@utwente.nl).
 
