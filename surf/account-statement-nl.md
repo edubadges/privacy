@@ -32,7 +32,9 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Instelling | Contactgegevens |
 | ---------- | --------------- |
 | Hanzehogeschool Groningen | [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl) |
+| Hogeschool Rotterdam | [privacy@hr.nl](mailto:privacy@hr.nl) |
 | Maastricht University | [privacy@maastrichtuniversity.nl](mailto:privacy@maastrichtuniversity.nl) |
+| Universiteit Twente | [dpo@utwente.nl](mailto:dpo@utwente.nl) |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).
 
