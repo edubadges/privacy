@@ -35,6 +35,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Maastricht University | [privacy@maastrichtuniversity.nl](mailto:privacy@maastrichtuniversity.nl) |
 | Rotterdam University of Applied Sciences | [privacy@hr.nl](mailto:privacy@hr.nl) |
 | University of Twente | [dpo@utwente.nl](mailto:dpo@utwente.nl) |
+| Wageningen University & Research | [privacy@wur.nl](mailto:privacy@wur.nl) |
 
 Below is the privacy statement for the data processing operations associated with 'Account/backpack' (1).
 

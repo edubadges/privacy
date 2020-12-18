@@ -31,7 +31,9 @@ Some examples:
 ## Used legal basis
 | Educational Institution | Formal basis | Nonformal basis |
 | ----------------------- | ------------ | --------------- |
+| Fontys Hogescholen | | |
 | Hanzehogeschool Groningen | none | legitimate interest |
+| Hogeschool Rotterdam | | |
 | Maastricht University | none | legitimate interest |
 | Universiteit Twente | agreement | legitimate interest |
-| Hogeschool Rotterdam | | |
+| Wageningen University Research | | |

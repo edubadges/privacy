@@ -35,6 +35,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Hogeschool Rotterdam | [privacy@hr.nl](mailto:privacy@hr.nl) |
 | Maastricht University | [privacy@maastrichtuniversity.nl](mailto:privacy@maastrichtuniversity.nl) |
 | Universiteit Twente | [dpo@utwente.nl](mailto:dpo@utwente.nl) |
+| Wageningen University & Research | [privacy@wur.nl](mailto:privacy@wur.nl) |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).
 
