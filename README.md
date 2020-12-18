@@ -36,4 +36,4 @@ Some examples:
 | Hogeschool Rotterdam | | |
 | Maastricht University | none | legitimate interest |
 | Universiteit Twente | agreement | legitimate interest |
-| Wageningen University Research | | |
+| Wageningen University Research | legitimate interest | legitimate interest |
