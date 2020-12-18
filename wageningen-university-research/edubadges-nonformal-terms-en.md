@@ -1,102 +1,40 @@
-`Version 1.0 – 2 November 2020`
+# Privacy Statement edubadges
+`December 2020`
 
-We are glad that you’re reading the privacy statement of the Hanze University for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl).
+Welcome to the edubadges platform. edubadges is the digital certificates platform for the Dutch education community and is hosted by SURF. Wageningen University & Research (WUR) is handing out edubadges to recognize achieved learning outcomes. With this Privacy Statement, WUR indicates which personal data is collected and for which purpose. In addition, you can read about your rights as a data subject and how to contact us.  
 
-# 2 Introduction edubadges
-An edubadge is a digital insignia (pictured) that shows that the recipient has certain knowledge or skills. The recipient of an edubadge can share it with others, for example on social media, a digital cv, an educational institution or with a potential employer.
+## What we do with your personal data
+WUR in cooperation with SURF collect personal data obtained through the use of the edubadges platform. The edubadges - if requested by students - are stored in the platform. Students can collect edubadges on the platform in their edubadges backpack and can decide themselves where and with whom to share them, e.g. with employers or other educational institutions. This data has been collected for the following purposes.
 
-A technical infrastructure is required to create and award edubadges. SURF has developed this edubadges publishing infrastructure, in which the edubadges can be stored and validated safely within SURF. More information about edubadges can be found on [SURF's website](https://www.surf.nl/en/edubadges-issuing-digital-certificates-to-students).
+*	Issuing badges; (required) Full name, EduID, email address, publishing institute, owned badges (including module and achievement), education, date and time of issuing badges;
 
-# 3 Processing
-The edubadges service is divided into two parts:
+## Do we share personal data?
+As a general principle, WUR nor SURF edubadges do not disclose your personal data to third parties, unless this is necessary for the functioning of the app and/or the provision of a service. This means that, for example, we try to minimize the use of cookies and keep the sharing of data with partners to a minimum.
 
-* Account/backpack (1) -> SURF is controller, see [SURF's privacy statement](https://edubadges.nl/privacy).
-  * Creating and maintaining an account
-  * Storing edubadges in the backpack
-  * Validating edubadges
-* Issuing edubadges (2) -> Hanze University of Applied Sciences is controller
-  * Registering for edubadges
-  * Creating an edubadge
-  * Issuing an edubadge
+The student shares this data with the host of the edubadges platform, SURF, whereby data is not further shared. This is necessary, because SURF is the host of the edubadges platform. The student can itself decide whether data may be shared to others.
 
-For the user account, the storage of edubadges and the validation of edubadges (1), SURF is the controller. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions about this processing.
+An important exception is the sharing of personal data when it is required under applicable law or in course of any legal proceedings. In that case, the WUR and/or SURF must share data with authoritative bodies, for example with law enforcement. This will occur, however, under supervision of a privacy officer.
 
-For the issue of edubadges (2), the Hanze University is the controller and SURF is the processor. This privacy statement relates primarily to the processing by the Hanze University.
+## How long we retain your data
+edubadges are stored in perpetuity. As a badge owner one can decide to remove the Edubadge from the platform. Only thereafter it will be deleted. This also occurs when a student end their subscription to this platform.
 
-# 4 Personal data
-## 4.1 What personal data do we use and why?
-For the functioning of the edubadges platform, it is necessary to process personal data. The students receive edubadges as part of the total Honors certificate for the Honors talentprogramme, so that they can demonstrate that they have completed parts of this Honors talentprogramme.
+## How do we protect your personal data?
+Obviously, the processing of personal data includes appropriate security measures. Therefore, edubadges is secured and we also demand that of our partners. WUR’s starting point is NEN-EN-ISO/IEC 27002:2017 to make sure that personal data is optimally secured. This edubadges service has been checked by these WUR standards. 
 
-For issueing of edubadges, we see three forms of processing:
+In our [security policy](https://www.wur.nl/nl/Waardecreatie-Samenwerking/Informatiebeveiliging.htm) you can read more about the type of measures WUR takes and how we ensure a safe app.
 
-1. Registering for edubadge
-2. Generating edubadge
-3. Sending edubadge
+## Contact?
+Should you have a privacy question about this Website/App please contact us at [privacy@wur.nl](mailto:privacy@wur.nl). WUR ensures that your question is answered as quickly and complete as possible. This can be a general question, but also by submitting a request to exercise your rights to:
 
-### Registration of edubadge
-Data subject: Badge recipient
-In the table below are the personal data (with purpose and basis) that are processed before registering for an edubadge. This personal data is obtained by linking to the user's eduID account.
+* Receive an explanation of what personal data we collect and what we do with the data;
+* Obtain access to the personal data concerning you;
+* Have your personal data rectified or corrected if applicable;
+* Withdraw consent;
+* Object to a particular use of your data.
 
-| Personal data	| Purpose	| Basis |
-| ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Legitimate interest |
-| First name | User identification | Legitimate interest |
-| Surname	| User identification	| Legitimate interest |
-| Email address	| User Notification	| Legitimate interest |
-| Scoped affiliation	| Demarcation available edubadges |	Legitimate interest |
-| Privacy interaction	| Whether the Terms of Use have been agreed to | Legitimate interest |
+It is important to describe your question as fully as possible, mention what your concern is and to clarify who you are. This is necessary in order to provide you with a more specific and quicker answer.
 
-### Generating edubadge
-Data subject: Badge recipient
-In the table below are the personal data (with purpose and basis) that are processed for generating an edubadge. This personal data is obtained by linking to the user's eduID account.
+If you and WUR are unable to find a solution, you could contact the Dutch Data Protection Authority. You can read how to file a complaint at [autoriteitpersoonsgegevens.nl](https://autoriteitpersoonsgegevens.nl)).
 
-| Personal data	| Purpose	| Basis |
-| ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Legitimate interest |
-| First name | User identification | Legitimate interest |
-| Surname	| User identification	| Legitimate interest |
-| Email address	| User Notification	| Legitimate interest |
-| Scoped affiliation	| Demarcation available edubadges |	Legitimate interest |
-| Privacy interaction	| Whether the Terms of Use have been agreed to | Legitimate interest |
-
-### Sending edubadge
-Data subject: Badge recipient
-In the table below are the personal data (with purpose and basis) that are processed for sending an edubadge. This personal data is obtained by linking to the user's eduID account.
-
-| Personal data	| Purpose	| Basis |
-| ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Legitimate interest |
-| First name | User identification | Legitimate interest |
-| Surname	| User identification	| Legitimate interest |
-| Email address	| User Notification	| Legitimate interest |
-| Scoped affiliation	| Demarcation available edubadges |	Legitimate interest |
-| Privacy interaction	| Whether the Terms of Use have been agreed to | Legitimate interest |
-
-An edubadge contains your eduID. Furthermore, the edubadge contains information such as the time of issue, the publisher (Hanze University) and information about the performance, educational module and/or learning outcome.
-
-## 4.2 To whom do we provide the data?
-Hanze University of Applied Science Staff have access to your first name, last name and email address after you apply for an edubadge. SURF and its management party has access to all personal data. The personal data are not provided to other third parties.
-
-# 5 Security
-Among other things, the following security measures have been put in place to protect personal data:
-* Edubadges deviate from the standard personal data in the Open Badge 2.0 specification (first name, last name, email address). Only the eduID is stored in the edubadges as personal data.
-* Communication between systems is encrypted in accordance with modern standards and best practices.
-* A comprehensive external security audit (code review and penetration test) has taken place for live passage. The edubadges service is regularly audited.
-* Access to servers is protected in accordance with modern security standards and best practices.
-* All physical and virtual servers and data are located in SURF data centres in the Netherlands. The edubadges service is hosted redundantly at SURF locations Nikhef and InterXion.
-* All operating systems and software are kept up-to-date.
-* Access to the management side of the edubadges service is shielded through VPN and hardened configuration for access itself.
-* Daily backups are made of the production environment.
-* Servers, operating systems and/or applications are protected by a restrictive firewall.
-* Actions in the operating system and actions of employee accounts are logged.
-* The web server uses a hardened configuration and security headers in accordance with best practices.
-* The access permissions for employee accounts in edubadges are limited to relevant personal data.
-
-# 6 Your rights in relation to your (personal) data
-See [privacy statement HG](https://www.hanze.nl/eng/organisation/hanze-uas/privacy-statement-hanze-university-applied-sciences).
-
-In order to exercise these rights, you can contact ICT [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl).
-
-# 7 Change in privacy statement
-Changes may be made to this privacy statement. We therefore recommend that you consult this privacy statement regularly.
-
+## Adjustments in this Privacy Statement 
+Our Privacy Statement can be adjusted as a result of changed activities on our Website/App. Please pay attention to the date above and check regularly for new versions. We do our utmost best to announce changes in time through different channels of communication.
