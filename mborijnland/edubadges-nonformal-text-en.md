@@ -10,6 +10,8 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
+mboRijnland values skills and the development of students by giving edubadges.
+
 The edubadges service is divided into two parts:
 
 * Account/backpack (1):
@@ -21,7 +23,7 @@ The edubadges service is divided into two parts:
   * Creating an edubadge
   * Issuing an edubadge
 
-For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), Stichting mboRijnland is the controller and SURF is the processor. mboRijnland values skills and the development of students by giving edubadges. This privacy statement relates primarily to the processing by Stichting mboRijnland.
+For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), Stichting mboRijnland is the controller and SURF is the processor. This privacy statement relates primarily to the processing by Stichting mboRijnland.
 
 # 3 Personal data
 

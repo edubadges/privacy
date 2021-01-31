@@ -10,6 +10,8 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
+mboRijnland waardeert vaardigheden en de ontwikkeling van studenten door het uitgeven van edubadges.
+
 De edubadgesservice is onderverdeeld in twee delen:
 
 * Account/backpack (1):
@@ -23,7 +25,7 @@ De edubadgesservice is onderverdeeld in twee delen:
 
 Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://edubadges.nl/privacy). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
 
-Voor het uitgeven van edubadges (2) is Stichting mboRijnland de verwerkingsverantwoordelijke en is SURF de verwerker. mboRijnland waardeert vaardigheden en de ontwikkeling van studenten door het uitgeven van edubadges. Deze privacyverklaring heeft vooral betrekking op deze verwerkingen door Stichting mboRijnland.
+Voor het uitgeven van edubadges (2) is Stichting mboRijnland de verwerkingsverantwoordelijke en is SURF de verwerker. Deze privacyverklaring heeft vooral betrekking op deze verwerkingen door Stichting mboRijnland.
 
 # 3 Persoonsgegevens
 
