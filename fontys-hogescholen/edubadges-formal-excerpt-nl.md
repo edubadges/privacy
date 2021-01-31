@@ -1,10 +1,9 @@
-# Gebruiksvoorwaarden bij deze edubadge
-Hieronder staan de belangrijkste punten over edubadges en jouw privacy. De volledige versie van de privacyverklaring is onder deze tekst te vinden. Het koppelen van de eduID en het verwerken van de onderstaande persoonsgegevens is noodzakelijk om formele edubadges aan te kunnen maken. Dit valt onder verwerkingsverantwoordelijkheid van Fontys.
+# edubadges en jouw privacy
 
-* Fontys maakt een formele edubadge aan op basis van behaalde resultaten en gekoppeld aan je eduID. Dit blijft bestaan tot het opheffen van je eduID account.
-* Fontys verwerkt hiervoor persoonsgegevens: voornaam, achternaam, e-mailadres en eduID.
-* Fontys verwerkt hiervoor beoordelingen en bewijslast die van toepassing is op de edubadge.
+Hieronder staan de belangrijkste punten over deze edubadges en jouw privacy. In de [volledige versie](link) wordt in detail ingegaan op deze verwerking.
 
-Met vragen over jouw privacy in relatie tot edubadges kun je ons bereiken via [im-fhict@fontys.nl](mailto:im-fhict@fontys.nl). Voor algemene vragen en/of klachten over privacy en de AVG kun je contact opnemen met de Functionaris Gegevensbescherming via [isp-office@fontys.nl](mailto:isp-office@fontys.nl).
+Fontys is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. Fontys faciliteert digitale certificaten voor studenten..
 
-Voor meer informatie kun je ook onze [uitgebreide privacyverklaring](LINK) bekijken.
+Voor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (Fontys) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [isp-office@fontys.nl](mailto:isp-office@fontys.nl).
+
+Door op 'Ik heb dit gelezen' te klikken verklaar je de [volledige privacyverklaring](link) gelezen te hebben.

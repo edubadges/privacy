@@ -1,10 +1,9 @@
 # Terms of use for this edubadge
-You requested a non-formal edubadge. The key points with regard to edubadges and your privacy are set out below. The full version of the privacy statement can be found below this text. Linking the eduID and processing the personal data below is necessary in order to create non-formal edubadges. This falls under Fontys' responsibility as a data processor.
 
-* Fontys will create a non-formal badge linked to your eduID on the basis of your extracurricular activities. This edubadge will expire when your eduID account is deactivated.
-* To this end, Fontys will process the following personal data: first name, surname, email address and eduID.
-* Fontys will also process information regarding the activities relevant to the edubadge.
+Below are the most important points about edubadges and your privacy. In the [full version](link) detailed information about this processing can be found.
 
-If you have any questions regarding your privacy or edubadges, please feel free to contact us at [im-fhict@fontys.nl](mailto:im-fhict@fontys.nl). For general questions and/or complaints regarding privacy, please contact the data protection officer at [isp-office@fontys.nl](isp-office@fontys.nl).
+Fontys is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. Fontys ....
 
-See our detailed [privacy statement](LINK) for further information.
+To issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (Fontys) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [isp-office@fontys.nl](mailto:isp-office@fontys.nl).
+
+By clicking 'I agree', you are agreeing to the [full version of these terms of use](link).
