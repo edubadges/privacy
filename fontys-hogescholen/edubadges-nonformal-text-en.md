@@ -1,4 +1,4 @@
-01-02-2021
+07-02-2021
 
 We are glad that you’re reading the terms of use of Fontys for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email isp-office@fontys.nl.
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-Fontys ...
+Fontys facilitates digital certificates for student.
 
 The edubadges service is divided into two parts:
 
@@ -18,7 +18,7 @@ The edubadges service is divided into two parts:
   * Creating and maintaining an account
   * Storing edubadges in the backpack
   * Validating edubadges
-* Issuing edubadges (2):
+* Issuing an edubadges (2):
   * Registering for edubadges
   * Creating an edubadge
   * Issuing an edubadge
@@ -42,7 +42,7 @@ The edubadge recipient is the data subject. In the table below are the personal 
 | Surname	| User identification	| Performance of an agreement |
 | Email address	| User Notification	| Performance of an agreement |
 | Educational institution | Demarcation of available edubadges |	Performance of an agreement |
-| Privacy interaction	| Whether the privacy statement has been accepted to | Performance of an agreement |
+| Privacy interaction	| Whether the privacy statement has been read | Performance of an agreement |
 
 Fontys has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.\m
 # 4 Security
@@ -72,7 +72,6 @@ You have the following rights with regard to your own personal data:
 * You may object to the processing of your data if we process your data on the legal basis of a legitimate interest or the performance of a task in the public interest.
 * You may submit a request to limit the processing of your data in relation to the processing of data which you have objected to, which you consider to be unlawful, whose accuracy you have disputed, or where we no longer need the personal data, but you need it in the context of legal action.
 * You may request an export of the data we process on you, in a structured and common format, and you have the right to portability of this data to another service provider.
-* You may withdraw your consent for the processing of your personal data. However, the withdrawal of your consent does not affect the lawfulness of any processing based on your consent prior to its withdrawal.
 * If you believe that we have not handled your personal data properly, you may submit a complaint.
 
 However, if you and Fontys disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).

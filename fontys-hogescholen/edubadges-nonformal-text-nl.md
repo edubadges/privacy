@@ -1,4 +1,4 @@
-01-02-2021
+07-02-2021
 
 Goed dat je de gebruiksvoorwaarden van Fontys voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om deze edubadge te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar isp-office@fontys.nl.
 
@@ -10,18 +10,18 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-Fontys ...
+Fontys faciliteert digitale certificaten voor studenten.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
 * Account/backpack (1):
-  * Aanmaken en in stand houden van van Account
-  * Opslaan van edubadges in backpack
+  * Aanmaken en in stand houden van een account
+  * Opslaan van edubadges in een backpack
   * Valideren van edubadges
 * Uitgeven van edubadges (2):
-  * Inschrijven voor edubadge
-  * Genereren van edubadge
-  * Versturen van edubadge
+  * Inschrijven voor een edubadge
+  * Genereren van een edubadge
+  * Versturen van een edubadge
 
 Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://edubadges.nl/privacy). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
 
@@ -35,7 +35,7 @@ Voor de uitgifte van edubadges zijn drie verwerkingen relevant:
 2. Het aanmaken van een edubadge
 3. Het verzenden van een edubadge
 
-The edubadgeontvanger is de betrokkene. In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die worden verwerkt als jij een edubadge aanvraagt, wanneer de edubadge gemaakt wordt en wanneer de edubadge verzonden wordt. Deze persoonsgegevens worden verkregen door te koppen aan het eduID-account van de gebruiker.
+De edubadgeontvanger is de betrokkene. In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die worden verwerkt als jij een edubadge aanvraagt, wanneer de edubadge gemaakt wordt en wanneer de edubadge verzonden wordt. Deze persoonsgegevens worden verkregen door te koppelen aan jouw eduID-account.
 
 | Persoonsgegeven | Doel | Grondslag |
 | --------------- | ---- | --------- |
@@ -74,7 +74,6 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt bezwaar maken tegen verwerking van je gegevens, als we je gegevens verwerken op basis van een eigen gerechtvaardigd belang of op basis van de uitvoering van een taak van algemeen belang.
 * Je kunt een verzoek indienen tot beperking van de verwerking van je gegevens ten aanzien van de verwerking van gegevens waartegen je bezwaar hebt gemaakt, die je onrechtmatig acht, waarvan je de juistheid van de persoonsgegevens hebt betwist of wanneer we de persoonsgegevens niet meer nodig hebben, maar je ze nodig hebt in het kader van een rechtsvordering.
 * Je kunt een overzicht, in een gestructureerde en gangbare vorm opvragen van de gegevens die we van jou verwerken en je hebt het recht op overdraagbaarheid van deze gegevens naar een andere dienstverlener.
-* Je kunt de door jou gegeven toestemming voor het verwerken van je persoonsgegevens intrekken. Het intrekken van je toestemming doet echter geen afbreuk aan de rechtmatigheid van de verwerking op basis van je toestemming vóór de intrekking daarvan.
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
 * Als jij en Fontys er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
