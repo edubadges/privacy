@@ -31,9 +31,13 @@ Some examples:
 ## Used legal basis
 | Educational Institution | Formal basis | Nonformal basis |
 | ----------------------- | ------------ | --------------- |
-| Fontys Hogescholen | | |
+| Fontys Hogescholen | Legitimate interest | Contract |
 | Hanzehogeschool Groningen | none | legitimate interest |
 | Hogeschool Rotterdam | | |
 | Maastricht University | none | legitimate interest |
-| Universiteit Twente | agreement | legitimate interest |
+| mboRijnland | none | Legitimate interest |
+| Universiteit Twente | Contract | legitimate interest |
 | Wageningen University Research | legitimate interest | legitimate interest |
+
+## easyprivacydocs
+`easyprovacytools.sh` is a tool for creating privacy required edubadges privacy documentation the easy way.
