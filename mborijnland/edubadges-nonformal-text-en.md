@@ -1,6 +1,6 @@
-01-02-2021
+07-02-2021
 
-We are glad that you’re reading the privacy statement of Stichting mboRijnland for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email privacy@mborijnland.nl.
+We are glad that you’re reading the privacy statement of mboRijnland for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email privacy@mborijnland.nl.
 
 # 1 Introduction
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-mboRijnland values skills and the development of students by giving edubadges.
+mboRijnland wants to provide students with digital evidence by awarding edubadges. With edubadges students can demonstrate that they possess certain skills and/or knowledge.
 
 The edubadges service is divided into two parts:
 
@@ -18,12 +18,12 @@ The edubadges service is divided into two parts:
   * Creating and maintaining an account
   * Storing edubadges in the backpack
   * Validating edubadges
-* Issuing edubadges (2):
+* Issuing an edubadges (2):
   * Registering for edubadges
   * Creating an edubadge
   * Issuing an edubadge
 
-For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), Stichting mboRijnland is the controller and SURF is the processor. This privacy statement relates primarily to the processing by Stichting mboRijnland.
+For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), mboRijnland is the controller and SURF is the processor. This privacy statement relates primarily to the processing by mboRijnland.
 
 # 3 Personal data
 
@@ -33,7 +33,7 @@ For issuing edubadges, there are three forms of processing:
 2. Creating the edubadge
 3. Sending the edubadge
 
-The edubadge recipient is the data subject. In the table below are the personal data (with purpose and basis) that are processed when registering for an edubadge, when the edubadge is created and when the edubadge is send to the recipient. This personal data is obtained by linking to the user his/her eduID account.
+In the table below are the personal data (with purpose and basis) that are processed when registering for an edubadge, when the edubadge is created and when the edubadge is send to the recipient. This personal data is obtained by linking to the user his/her eduID account.
 
 | Personal data	| Purpose	| Basis |
 | ------------- | ------- | ----- |
@@ -42,9 +42,9 @@ The edubadge recipient is the data subject. In the table below are the personal 
 | Surname	| User identification	| Legitimate interest |
 | Email address	| User Notification	| Legitimate interest |
 | Educational institution | Demarcation of available edubadges |	Legitimate interest |
-| Privacy interaction	| Whether the privacy statement has been accepted to | Legitimate interest |
+| Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |
 
-Stichting mboRijnland has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
+mboRijnland has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
 
 # 4 Security
 
@@ -73,10 +73,9 @@ You have the following rights with regard to your own personal data:
 * You may object to the processing of your data if we process your data on the legal basis of a legitimate interest or the performance of a task in the public interest.
 * You may submit a request to limit the processing of your data in relation to the processing of data which you have objected to, which you consider to be unlawful, whose accuracy you have disputed, or where we no longer need the personal data, but you need it in the context of legal action.
 * You may request an export of the data we process on you, in a structured and common format, and you have the right to portability of this data to another service provider.
-* You may withdraw your consent for the processing of your personal data. However, the withdrawal of your consent does not affect the lawfulness of any processing based on your consent prior to its withdrawal.
 * If you believe that we have not handled your personal data properly, you may submit a complaint.
 
-However, if you and Stichting mboRijnland disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
+However, if you and mboRijnland disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
 To exercise these rights, please contact [privacy@mborijnland.nl](mailto:privacy@mborijnland.nl).
 
