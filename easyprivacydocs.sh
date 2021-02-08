@@ -267,16 +267,16 @@ TEXT_TABLE_FORMAL_CONTRACT_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------
 TEXT_TABLE_FORMAL_OBLIGATIONS_NL=''
 TEXT_TABLE_FORMAL_OBLIGATIONS_EN=''
 
-TEXT_PROVIDE_NONFORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartnet hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
+TEXT_PROVIDE_NONFORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
 TEXT_PROVIDE_NONFORMAL_LEGITIMATE_EN="\n\n${INSTITUTION_NAME_EN} has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties."
-TEXT_PROVIDE_NONFORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartnet hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
+TEXT_PROVIDE_NONFORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
 TEXT_PROVIDE_NONFORMAL_CONTRACT_EN="\n\n${INSTITUTION_NAME_EN} has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties."
 TEXT_PROVIDE_NONFORMAL_OBLIGATIONS_NL=''
 TEXT_PROVIDE_NONFORMAL_OBLIGATIONS_EN=''
 
-TEXT_PROVIDE_FORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartnet hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
+TEXT_PROVIDE_FORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
 TEXT_PROVIDE_FORMAL_LEGITIMATE_EN="\n\n${INSTITUTION_NAME_EN} has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties."
-TEXT_PROVIDE_FORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartnet hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
+TEXT_PROVIDE_FORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
 TEXT_PROVIDE_FORMAL_CONTRACT_EN="\n\n${INSTITUTION_NAME_EN} has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties."
 TEXT_PROVIDE_FORMAL_OBLIGATIONS_NL=''
 TEXT_PROVIDE_FORMAL_OBLIGATIONS_EN=''
