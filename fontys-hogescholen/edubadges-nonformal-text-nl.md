@@ -46,7 +46,7 @@ De edubadgeontvanger is de betrokkene. In de onderstaande tabel staan de persoon
 | Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
 
-Fontys heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartnet hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.\m
+Fontys heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
 # 4 Beveiliging
 
 Onder andere de volgende beveiligingsmaatregelen zijn getroffen om de persoonsgegevens te beschermen:
