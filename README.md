@@ -40,4 +40,4 @@ Some examples:
 | Wageningen University Research | legitimate interest | legitimate interest |
 
 ## easyprivacydocs
-`easyprovacytools.sh` is a tool for creating privacy required edubadges privacy documentation the easy way.
+`easyprivacytools.sh` is a tool for creating privacy required edubadges privacy documentation the easy way.
