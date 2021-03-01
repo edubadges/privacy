@@ -31,12 +31,13 @@ Some examples:
 ## Used legal basis
 | Educational Institution | Formal basis | Nonformal basis |
 | ----------------------- | ------------ | --------------- |
-| Fontys Hogescholen | Legitimate interest | Contract |
+| Albeda | contract | contract |
+| Fontys Hogescholen | legitimate interest | contract |
 | Hanzehogeschool Groningen | none | legitimate interest |
 | Hogeschool Rotterdam | | |
 | Maastricht University | none | legitimate interest |
-| mboRijnland | none | Legitimate interest |
-| Universiteit Twente | Contract | legitimate interest |
+| mboRijnland | none | legitimate interest |
+| Universiteit Twente | contract | legitimate interest |
 | Wageningen University Research | legitimate interest | legitimate interest |
 
 ## easyprivacydocs
