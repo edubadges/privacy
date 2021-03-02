@@ -16,20 +16,21 @@ This repository contains mostly externally oriented privacy documentation for th
 Consistency is important, follow the layout guidelines below for all future edits of this repository.
 
 * Privacy documentation for the platform edubadges can be found in the folder `surf`.
-* For each educational institution there is a dedicated folder which is named after their official full name. Spaces are replaced by hyphens (e.g. `universiteit-van-amsterdam`).
+* For each educational institution there is a dedicated folder which is named after their official full name. Spaces are replaced by hyphens (e.g. `universiteit-van-harderwijk`).
 * File names consist of the following components and order:
   * subject (options: (1) `account` (2) `edubadges`)
+  * variant (only for subject `account`)(options: (1) `excerpt` (2) `statement` (3) `terms`)
   * variant (only for subject `edubadges`)(options: (1) `formal` (2) `nonformal`)
-  * type (options: (1) `statement` (2) `terms` (3) `excerpt`)
+  * type (options: (1) `text` (3) `excerpt`)
   * language (options: (1) `nl` (2) `en`)
   * `account` can only be used by the SURF organisation.
 
 Some examples:
 * Account: `account-statement-nl`, `account-terms-en`.
-* Edubadge: `edubadge-statement-en`, `edubadges-formal-excerpt-nl`, `edubadges-terms-nl`.
+* Edubadge: `edubadges-formal-text-en`, `edubadges-nonformal-excerpt-nl`.
 
-## Used legal basis
-| Educational Institution | Formal basis | Nonformal basis | privacy documentation | status |
+## Privacy documentation overview
+| Educational Institution | Formal basis | Nonformal basis | documentation | status |
 | ----------------------- | ------------ | --------------- | --------------------- | ------ |
 | Albeda | contract | contract | easyprivacydocs | done |
 | Deltion College | | | easyprivacydocs | concept |
@@ -38,9 +39,10 @@ Some examples:
 | Hogeschool Rotterdam | | | custom | done |
 | Hogeschool Utrecht | | | custom | concept |
 | Maastricht University | none | legitimate interest | custom | done |
-| mboRijnland | none | legitimate interest | easyprivacydocs | |
-| Universiteit Twente | contract | legitimate interest | custom | |
+| mboRijnland | none | legitimate interest | easyprivacydocs | done |
+| NHL Stenden Hogeschool | | | | concept |
+| Universiteit Twente | contract | legitimate interest | custom | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
 ## easyprivacydocs
-`easyprivacydocs.sh` is a tool for creating privacy required edubadges privacy documentation the easy way.
+`easyprivacydocs.sh` is a tool for creating the required edubadges privacy documentation the easy way.
