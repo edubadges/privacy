@@ -29,16 +29,18 @@ Some examples:
 * Edubadge: `edubadge-statement-en`, `edubadges-formal-excerpt-nl`, `edubadges-terms-nl`.
 
 ## Used legal basis
-| Educational Institution | Formal basis | Nonformal basis |
-| ----------------------- | ------------ | --------------- |
-| Albeda | contract | contract |
-| Fontys Hogescholen | legitimate interest | contract |
-| Hanzehogeschool Groningen | none | legitimate interest |
-| Hogeschool Rotterdam | | |
-| Maastricht University | none | legitimate interest |
-| mboRijnland | none | legitimate interest |
-| Universiteit Twente | contract | legitimate interest |
-| Wageningen University Research | legitimate interest | legitimate interest |
+| Educational Institution | Formal basis | Nonformal basis | privacy documentation | status |
+| ----------------------- | ------------ | --------------- | --------------------- | ------ |
+| Albeda | contract | contract | easyprivacydocs | done |
+| Deltion College | | | easyprivacydocs | concept |
+| Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
+| Hanzehogeschool Groningen | none | legitimate interest | custom | done |
+| Hogeschool Rotterdam | | | custom | done |
+| Hogeschool Utrecht | | | custom | concept |
+| Maastricht University | none | legitimate interest | custom | done |
+| mboRijnland | none | legitimate interest | easyprivacydocs | |
+| Universiteit Twente | contract | legitimate interest | custom | |
+| Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
 ## easyprivacydocs
-`easyprivacytools.sh` is a tool for creating privacy required edubadges privacy documentation the easy way.
+`easyprivacydocs.sh` is a tool for creating privacy required edubadges privacy documentation the easy way.
