@@ -43,6 +43,7 @@ Some examples:
 | Maastricht University | none | legitimate interest | custom | done |
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
 | NHL Stenden Hogeschool | | | | concept |
+| Hogeschool Saxion | contract | contract easyprivacydocs | done |
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
