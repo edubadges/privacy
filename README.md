@@ -33,6 +33,7 @@ Some examples:
 | Educational Institution | Formal basis | Nonformal basis | documentation | status |
 | ----------------------- | ------------ | --------------- | --------------------- | ------ |
 | Albeda | contract | contract | easyprivacydocs | done |
+| Avans | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Deltion College | | | easyprivacydocs | concept |
 | Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
 | Hanzehogeschool Groningen | none | legitimate interest | custom | done |
