@@ -14,3 +14,5 @@ Below is an outline of the most important aspects of edubadges and your privacy.
 * To request access, rectification and additions, restriction of processing, data portability and erasure of your personal data, you can submit a request to the privacy organisation via the digital portal. [Click here](https://privacyportal-de.onetrust.com/webform/90b843a2-b043-48eb-8220-434fd5283264/eec4558a-fb83-44cc-8c58-568a505aaeb6) to exercise your rights.
 * If the EUR processes your personal data on the grounds of a legitimate interest, you have the right to object to the processing.
 * You are also entitled to lodge a complaint with the Dutch Data Protection Authority.
+
+In the [full version](https://raw.githubusercontent.com/edubadges/privacy/master/erasmus-universiteit-rotterdam/edubadges-nonformal-text-en.md) detailed information about this processing can be found.
