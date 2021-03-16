@@ -9,5 +9,5 @@ The UT is the controller and SURF is the processor for issuing edubadges. For th
 * An edubadge contains your eduID, which you can create via SURF. The edubadge also contains information such as the time of issue, the publisher (UT) and information about the performance, educational module and / or learning outcome;
 * If you have any questions about the privacy surrounding edubadges, please contact [dpo@utwente.nl](mailto:dpo@utwente.nl).
 
-By clicking "I Agree", you agree to the [full terms of use](link) accompanying this edubadge. For more information, you can also consult the [privacy statement of the University of Twente](https://www.utwente.nl/en/about-our-website/).
+By clicking "I Agree", you agree to the [full terms of use](https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-formal-terms-en.md) accompanying this edubadge. For more information, you can also consult the [privacy statement of the University of Twente](https://www.utwente.nl/en/about-our-website/).
 

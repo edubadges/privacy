@@ -8,4 +8,4 @@ De Hanzehogeschool is de verwerkingsverantwoordelijke voor het uitgeven van edub
 * Een edubadge bevat je eduID, die je via SURF kunt aanmaken. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (Hanzehogeschool) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst.
 * Met vragen over de privacy rondom edubadges kun je contact opnemen met [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl).
 
-Door op ‘Ik ga akkoord’ te klikken, ga je akkoord met de [volledige Gebruiksvoorwaarden bij deze edubadge](link). Voor meer informatie kun je ook onze [privacyverklaring](https\www.hanze.nl\nld\organisatie\hanzehogeschool\privacyverklaring-hanzehogeschool-groningen).
+Door op ‘Ik ga akkoord’ te klikken, ga je akkoord met de [volledige Gebruiksvoorwaarden bij deze edubadge](https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-terms-nl.md). Voor meer informatie kun je ook onze [privacyverklaring](https\www.hanze.nl\nld\organisatie\hanzehogeschool\privacyverklaring-hanzehogeschool-groningen).

@@ -5,4 +5,4 @@ De Wageningen University & Research (WUR) is de verwerkingsverantwoordelijke voo
  
 Met vragen over de privacy rondom edubadges kun je contact opnemen met [privacy@wur.nl](mailto:privacy@wur.nl).
  
-Voor meer informatie kun je ook onze [privacyverklaring](link) lezen.
+Voor meer informatie kun je ook onze [privacyverklaring](https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-nonformal-terms-nl.md) lezen.

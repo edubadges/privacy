@@ -29,3 +29,33 @@ FORMAL_PURPOSE_EN='Albeda wants to experiment further with edubadges with the ai
 
 # the institution directory name on git must be set
 INSTITUTION_DIRECTORY_NAME='albeda'   # e.g. hogeschool-surf
+
+################################################################################
+# AVANS
+################################################################################
+
+# both variables must be filled. use articles when it's part of the name
+INSTITUTION_NAME_NL='Avans Hogeschool'          # e.g. Hogeschool SURF
+INSTITUTION_NAME_EN='Avans University of Applied Sciences'          # e.g. University of Applied Sciences SURF
+
+# both contacts are required
+EDUBADGES_CONTACT=''            # e.g. edubadges@hogeschoolsurf.nl
+PRIVACY_CONTACT='privacy@avans.nl'              # e.g. privacy@hogeschoolsurf.nl
+
+# enable (1) or disable (0) types of edubadges
+NONFORMAL_EDUBADGES='1'
+FORMAL_EDUBADGES='1'
+
+# the legal basis can be 0 (n/a), 1 (legitimate interest),
+# 2 (performance of contract) or 3 (legal obligation)
+NONFORMAL_LEGAL_BASIS='1'
+FORMAL_LEGAL_BASIS='1'
+
+# the purpose must be a sentence with a trailing dot
+NONFORMAL_PURPOSE_NL='Avans Hogeschool faciliteert met edubadges digitale certificaten voor studenten.'
+NONFORMAL_PURPOSE_EN='Avans University of Applied Sciences uses edubadges to facilitate digital certificates to students.'
+FORMAL_PURPOSE_NL='Avans Hogeschool faciliteert met edubadge digitale certificaten voor studenten.'
+FORMAL_PURPOSE_EN='Avans University of Applied Sciences uses edubadges to facilitate digital certificates to students.'
+
+# the institution directory name on git must be set
+INSTITUTION_DIRECTORY_NAME='avans'   # e.g. hogeschool-surf

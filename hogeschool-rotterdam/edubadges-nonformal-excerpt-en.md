@@ -7,4 +7,4 @@ Rotterdam University of Applied Sciences is the controller for issuing Edubadges
 * An edubadge contains your eduID, which you can create via SURF. The edubadge also contains information such as the time of issue, the publisher (Rotterdam University of Applied Sciences) and information about the achievement, educational module and/or learning outcome.
 * If you have any questions about the privacy concerning edubadges, please contact [edubadges@hr.nl](mailto:edubadges@hr.nl).
 
-By clicking on ’I agree’, you are agreeing to the [full Agreement](link). For more information, please also view our [privacy statement](https://hint.hr.nl/nl/HR/Over-de-HR/Rechten-en-plichten/Gebruik-persoonsgegevens/).
+By clicking on ’I agree’, you are agreeing to the [full Agreement](https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-nonformal-terms-en.md). For more information, please also view our [privacy statement](https://hint.hr.nl/nl/HR/Over-de-HR/Rechten-en-plichten/Gebruik-persoonsgegevens/).

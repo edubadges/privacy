@@ -10,4 +10,4 @@ Studenten ontvangen edubadges als een erkenning voor het leveren van een prestat
 * Een edubadge bevat je eduID, die je via SURF kunt aanmaken. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (Hogeschool Rotterdam) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst.
 * Met vragen over de privacy rondom edubadges kun je contact opnemen met [privacy@hr.nl](mailto:privacy@hr.nl).
 
-Door op ‘Ik ga akkoord’ te klikken, ga je akkoord met de [volledige Gebruiksvoorwaarden bij deze edubadge](link). Voor meer informatie kun je ook de [privacyverklaring](https://hint.hr.nl/nl/HR/Over-de-HR/Rechten-en-plichten/Gebruik-persoonsgegevens/) van Hogeschool Rotterdam raadplegen.
+Door op ‘Ik ga akkoord’ te klikken, ga je akkoord met de [volledige Gebruiksvoorwaarden bij deze edubadge](https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-formal-terms-nl.md). Voor meer informatie kun je ook de [privacyverklaring](https://hint.hr.nl/nl/HR/Over-de-HR/Rechten-en-plichten/Gebruik-persoonsgegevens/) van Hogeschool Rotterdam raadplegen.

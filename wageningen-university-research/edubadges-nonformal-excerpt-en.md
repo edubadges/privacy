@@ -5,4 +5,4 @@ WUR is the controller for issuing edubadges. For the Edubadges platform to funct
 
 If you have any questions about the privacy concerning edubadges, please contact [privacy@wur.nl](mailto:privacy@wur.nl).
 
-For more information, please also view our [privacy statement](link).
+For more information, please also view our [privacy statement](https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-nonformal-terms-en.md).
