@@ -1,4 +1,4 @@
-16-03-2021
+23-03-2021
 
 
 Goed dat je de gebruiksvoorwaarden van Hogeschool Saxion voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [functionarisgegevensbescherming@saxion.nl](mailto:functionarisgegevensbescherming@saxion.nl).
@@ -11,7 +11,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-Waarderen en erkennen door middel van edubadges voor activiteiten die buiten het curriculum vallen.
+Edubadges worden uitgegeven als aanvullend middel van waardering en erkenning voor activiteiten die binnen het curriculum vallen.
 
 De edubadgesservice is onderverdeeld in twee delen:
 

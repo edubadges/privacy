@@ -1,4 +1,4 @@
-16-03-2021
+23-03-2021
 
 We are glad that you’re reading the terms of use of Saxion University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [functionarisgegevensbescherming@saxion.nl](mailto:functionarisgegevensbescherming@saxion.nl).
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-Waarderen en erkennen door middel van edubadges voor activiteiten die binnen het curriculum vallen.
+Edubadges are awarded as a additional means of appreciation and recognition for activities within the curriculum.
 
 The edubadges service is divided into two parts:
 
