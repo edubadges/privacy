@@ -2,7 +2,7 @@
 
 Erasmus Universiteit Rotterdam (hierna: EUR) gaat op zorgvuldige wijze met persoonsgegevens om en handelt binnen de grenzen van de Algemene Verordening Gegevensbescherming (AVG).
 
-Hieronder staan de belangrijkste punten over edubadges en jouw privacy. De volledige tekst met informatie over hoe de EUR jouw gegevens verwerkt om edubadges uit te geven is onder deze tekst te vinden. Het aanvragen van een edubadge valt onder de verwerkingsverantwoordelijkheid van de EUR.
+Hieronder staan de belangrijkste punten over edubadges en jouw privacy. De volledige tekst met informatie over hoe de EUR jouw gegevens verwerkt om edubadges uit te geven kun je [hier](https://raw.githubusercontent.com/edubadges/privacy/master/erasmus-universiteit-rotterdam/edubadges-nonformal-text-nl.md) vinden. Het aanvragen van een edubadge valt onder de verwerkingsverantwoordelijkheid van de EUR.
 
 * EUR kent een edubadge toe met als doel je eigen professionele ontwikkeling verder te stimuleren en zichtbaar te maken. Met de toekenning van een edubadge toon je o.a. aan dat je bepaalde vaardigheden of kennis beheerst.
 * EUR verwerkt hiervoor persoonsgegevens om de edubadge toe te kennen: voornaam, achternaam, e-mailadres, instellingsnaam en eduID.
@@ -14,5 +14,3 @@ Hieronder staan de belangrijkste punten over edubadges en jouw privacy. De volle
 * Voor een verzoek tot inzage, rectificatie en aanvulling, beperking van de verwerking, , dataportabiliteit, verwijderingvan jouw persoonsgegevens kun je via het digitaal loket een verzoek indienen bij de privacy organisatie. [Klik hier](https://privacyportal-de.onetrust.com/webform/90b843a2-b043-48eb-8220-434fd5283264/eec4558a-fb83-44cc-8c58-568a505aaeb6) om je rechten uit te oefenen.
 * Wanneer de EUR jouw persoonsgegevens verwerkt op basis van een gerechtvaardigd belang, heb je het recht om bezwaar te maken tegen de verwerking ervan.
 * Ook heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens.
-
-In de [volledige versie](https://raw.githubusercontent.com/edubadges/privacy/master/erasmus-universiteit-rotterdam/edubadges-nonformal-text-nl.md) wordt in detail ingegaan op deze verwerking.
