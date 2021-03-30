@@ -1,6 +1,6 @@
 18-02-2021
 
-We are glad that you’re reading the privacy statement of Deltion for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email privacy@deltion.nl.
+We are glad that you’re reading the privacy statement of Deltion for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email the privacy officer (via the ASP, [3333@deltion.nl](mailto:3333@deltion.nl)).
 
 # 1 Introduction
 
@@ -9,8 +9,6 @@ An edubadge is a digital badge (image) which shows that the holder has certain k
 A technical infrastructure is required in order to create and award edubadges. SURF has developed the infrastructure for issuing edubadges and the edubadges are stored securely and can be validated within SURF's systems. More information about edubadges can be found on [SURF's website](https://surf.nl/edubadges).
 
 # 2 Purpose and processing
-
-Docentprofessionalisering is ...
 
 The edubadges service is divided into two parts:
 
@@ -66,18 +64,7 @@ Security measures, including the following, have been taken to protect personal 
 
 # 5 Your personal data rights
 
-You have the following rights with regard to your own personal data:
-
-* You may submit a request to modify, supplement or delete your data if it is incorrect or no longer relevant.
-* You may submit a request to access the data about you that we process.
-* You may object to the processing of your data if we process your data on the legal basis of a legitimate interest or the performance of a task in the public interest.
-* You may submit a request to limit the processing of your data in relation to the processing of data which you have objected to, which you consider to be unlawful, whose accuracy you have disputed, or where we no longer need the personal data, but you need it in the context of legal action.
-* You may request an export of the data we process on you, in a structured and common format, and you have the right to portability of this data to another service provider.
-* If you believe that we have not handled your personal data properly, you may submit a complaint.
-
-However, if you and Deltion disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
-
-To exercise these rights, please contact [privacy@deltion.nl](mailto:privacy@deltion.nl).
+The Privacy Rules of Deltion for employees applies to the issuing of edubadges. You will find the document on the intranet (Sharepoint) of Deltion. It explains what rights you have with regard to your own personal data and how you can exercise these rights.
 
 # 6 Amendments to the privacy statement
 
