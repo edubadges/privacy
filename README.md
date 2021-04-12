@@ -37,6 +37,7 @@ Some examples:
 | Deltion College | none | contract | easyprivacydocs | done |
 | Erasmus Universiteit Rotterdam | none | legitimate interest | custom | done |
 | Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
+| Han University of Applied Sciences | none | legitimate interest | easyprivacydocs | done |
 | Hanzehogeschool Groningen | none | legitimate interest | custom | done |
 | Hogeschool Rotterdam | | | custom | done |
 | Hogeschool Utrecht | | | custom | concept |
