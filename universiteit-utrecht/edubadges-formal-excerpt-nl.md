@@ -6,4 +6,4 @@ Hieronder staan de belangrijkste punten over edubadges en de privacy van de stud
 * De Universiteit Utrecht verwerkt hiervoor persoonsgegevens, namelijk de edubadge gelinkt aan jouw account.
 * Voor vragen over de badge en/of privacy is de Universiteit Utrecht te bereiken via privacy@uu.nl.
 * 
-Door op ‘ik heb het gelezen’ te klikken, geeft u aan dat wij in opdracht de edubadge aan u zullen verstrekken. Klik [hier](https://raw.githubusercontent.com/edubadges/privacy/master/universiteut-utrecht/edubadges-formal-terms-nl.md) voor de bijbehorende uitgebreide Privacyverklaring.
+Door op ‘ik heb het gelezen’ te klikken, geeft u aan dat wij in opdracht de edubadge aan u zullen verstrekken. Klik [hier](https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-formal-terms-nl.md) voor de bijbehorende uitgebreide Privacyverklaring.
