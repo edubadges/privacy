@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-Tekst met doel hier.
+Tekst met doel hiuer.
 
 The edubadges service is divided into two parts:
 

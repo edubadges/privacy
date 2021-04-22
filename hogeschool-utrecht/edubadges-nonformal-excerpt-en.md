@@ -1,9 +1,9 @@
-# Terms of use for this edubadge
+# edubadges and your privacy
 
-Below are the most important points about edubadges and your privacy. In the [full version](link) detailed information about this processing can be found.
+Below are the most important points about edubadges and your privacy. In the [full version](https://raw.githubusercontent.com/edubadges/privacy/master/https://github.com/edubadges/privacy/blob/master/hogeschool-utrecht//edubadges-nonformal-text-en.md) detailed information about this processing can be found.
 
-Hogeschool Utrecht is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. Text with purpose here..
+Utrecht University of Applied Sciences is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. Tekst met doel hier..
 
-To issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (Hogeschool Utrecht) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [privacy@hu.nl](mailto:privacy@hu.nl).
+To issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (Utrecht University of Applied Sciences) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [askprivacy@hu.nl](mailto:askprivacy@hu.nl).
 
-By clicking 'I agree', you are agreeing to the [full version of these terms of use](link).
+By clicking 'I have read this', you declare that you have read the [full privacy statement](https://raw.githubusercontent.com/edubadges/privacy/master/https://github.com/edubadges/privacy/blob/master/hogeschool-utrecht//edubadges-nonformal-text-en.md).

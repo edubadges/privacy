@@ -20,7 +20,7 @@ De edubadgesservice is onderverdeeld in twee delen:
   * Valideren van edubadges
 * Uitgeven van edubadges (2):
   * Inschrijven voor een edubadge
-  * Genereren van een edubadge
+  * Genereren van edubadge
   * Versturen van een edubadge
 
 Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://edubadges.nl/privacy). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
