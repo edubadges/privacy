@@ -46,6 +46,7 @@ Some examples:
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
 | NHL Stenden Hogeschool | | | | concept |
 | Universiteit Twente | contract | legitimate interest | custom | done |
+| Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
 ## easyprivacydocs
