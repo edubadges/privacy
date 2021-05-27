@@ -44,9 +44,10 @@ Some examples:
 | Hogeschool Saxion | contract | contract | easyprivacydocs | done |
 | Maastricht University | none | legitimate interest | custom | done |
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
-| NHL Stenden Hogeschool | | | | concept |
+| NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
+| Vista College | contract | contract | easyprivacydocs | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
 ## easyprivacydocs

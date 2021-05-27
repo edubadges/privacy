@@ -1,6 +1,6 @@
 27-05-2021
 
-We are glad that you’re reading the privacy statement of NHL Stenden Hogeschool for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [](mailto:).
+We are glad that you’re reading the privacy statement of NHL Stenden University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [](mailto:).
 
 # 1 Introduction
 
@@ -23,7 +23,7 @@ The edubadges service is divided into two parts:
   * Creating an edubadge
   * Issuing an edubadge
 
-For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), NHL Stenden Hogeschool is the controller and SURF is the processor. This privacy statement relates primarily to the processing by NHL Stenden Hogeschool.
+For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), NHL Stenden University of Applied Sciences is the controller and SURF is the processor. This privacy statement relates primarily to the processing by NHL Stenden University of Applied Sciences.
 
 # 3 Personal data
 
@@ -44,7 +44,7 @@ In the table below are the personal data (with purpose and basis) that are proce
 | Educational institution | Demarcation of available edubadges |	Legitimate interest |
 | Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |
 
-NHL Stenden Hogeschool has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
+NHL Stenden University of Applied Sciences has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
 
 # 4 Security
 
@@ -75,7 +75,7 @@ You have the following rights with regard to your own personal data:
 * You may request an export of the data we process on you, in a structured and common format, and you have the right to portability of this data to another service provider.
 * If you believe that we have not handled your personal data properly, you may submit a complaint.
 
-However, if you and NHL Stenden Hogeschool disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
+However, if you and NHL Stenden University of Applied Sciences disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
 To exercise these rights, please contact [](mailto:).
 
