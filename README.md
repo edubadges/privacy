@@ -47,7 +47,7 @@ Some examples:
 | NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
-| Vista College | contract | contract | easyprivacydocs | done |
+| Vista College | contract | contract | easyprivacydocs | concept |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
 ## easyprivacydocs
