@@ -1,7 +1,7 @@
 19-02-2021
 # *For demonstration purposes only!*
 
-We are glad that you’re reading the terms of use of *surf.nl* for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [support@edubadges.nl](mailto:support@edubadges.nl).
+We are glad that you’re reading the terms of use of *yale-uni-example* for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [support@edubadges.nl](mailto:support@edubadges.nl).
 
 # 1 Introduction
 
@@ -11,7 +11,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-*surf.nl* facilitates digital certificates for student.
+*yale-uni-example* facilitates digital certificates for student.
 
 The edubadges service is divided into two parts:
 
@@ -24,7 +24,7 @@ The edubadges service is divided into two parts:
   * Creating an edubadge
   * Issuing an edubadge
 
-For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://raw.githubusercontent.com/edubadges/privacy/master/surf/account-statement-en.md) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), *surf.nl* is the controller and SURF is the processor. This privacy statement relates primarily to the processing by *surf.nl*.
+For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://raw.githubusercontent.com/edubadges/privacy/master/surf/account-statement-en.md) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), *yale-uni-example* is the controller and SURF is the processor. This privacy statement relates primarily to the processing by *yale-uni-example*.
 
 # 3 Personal data
 
@@ -45,7 +45,7 @@ The edubadge recipient is the data subject. In the table below are the personal 
 | Educational institution | Demarcation of available edubadges |	Performance of an agreement |
 | Privacy interaction	| Whether the privacy statement has been read | Performance of an agreement |
 
-*surf.nl* has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.\m
+*yale-uni-example* has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.\m
 # 4 Security
 
 Security measures, including the following, have been taken to protect personal data:
@@ -75,6 +75,6 @@ You have the following rights with regard to your own personal data:
 * You may request an export of the data we process on you, in a structured and common format, and you have the right to portability of this data to another service provider.
 * If you believe that we have not handled your personal data properly, you may submit a complaint.
 
-However, if you and *surf.nl* disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
+However, if you and *yale-uni-example* disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
 To exercise these rights, please contact [support@edubadges.nl](mailto:support@edubadges.nl).

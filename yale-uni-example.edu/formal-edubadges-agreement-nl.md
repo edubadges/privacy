@@ -1,7 +1,8 @@
-19-02-2021
+26-05-2021 - 
+
 # *Alleen voor demonstratie doeleinden!*
 
-Goed dat je de gebruiksvoorwaarden van *surfuniversity.org* voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om deze edubadge te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [support@edubadges.nl](mailto:support@edubadges.nl).
+Goed dat je de privacyverklaring van *yale-uni-example* voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [support@edubadges.nl](mailto:support@edubadges.nl).
 
 # 1 Wat zijn edubadges
 
@@ -11,7 +12,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-*surfuniversity.org* faciliteert digitale certificaten voor studenten.
+*yale-uni-example* faciliteert digitale certificaten voor studenten.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
@@ -21,12 +22,12 @@ De edubadgesservice is onderverdeeld in twee delen:
   * Valideren van edubadges
 * Uitgeven van edubadges (2):
   * Inschrijven voor een edubadge
-  * Genereren van een edubadge
+  * Genereren van edubadge
   * Versturen van een edubadge
 
-Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://raw.githubusercontent.com/edubadges/privacy/master/surf/account-statement-nl.md). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
+Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://raw.githubusercontent.com/edubadges/privacy/master/surf/account-terms-nl.md). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
 
-Voor het uitgeven van edubadges (2) is *surfuniversity.org* de verwerkingsverantwoordelijke en is SURF de verwerker. Deze privacyverklaring heeft vooral betrekking op deze verwerkingen door *surfuniversity.org*.
+Voor het uitgeven van edubadges (2) is *yale-uni-example* de verwerkingsverantwoordelijke en is SURF de verwerker. Deze privacyverklaring heeft vooral betrekking op deze verwerkingen door *yale-uni-example*.
 
 # 3 Persoonsgegevens
 
@@ -40,14 +41,15 @@ De edubadgeontvanger is de betrokkene. In de onderstaande tabel staan de persoon
 
 | Persoonsgegeven | Doel | Grondslag |
 | --------------- | ---- | --------- |
-| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |
-| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |
-| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |
-| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
-| Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
-| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
+| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |
+| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |
+| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |
+| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
+| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
+| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
 
-*surfuniversity.org* heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
+*yale-uni-example* heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
+
 # 4 Beveiliging
 
 Onder andere de volgende beveiligingsmaatregelen zijn getroffen om de persoonsgegevens te beschermen:
@@ -76,6 +78,10 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt een verzoek indienen tot beperking van de verwerking van je gegevens ten aanzien van de verwerking van gegevens waartegen je bezwaar hebt gemaakt, die je onrechtmatig acht, waarvan je de juistheid van de persoonsgegevens hebt betwist of wanneer we de persoonsgegevens niet meer nodig hebben, maar je ze nodig hebt in het kader van een rechtsvordering.
 * Je kunt een overzicht, in een gestructureerde en gangbare vorm opvragen van de gegevens die we van jou verwerken en je hebt het recht op overdraagbaarheid van deze gegevens naar een andere dienstverlener.
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
-* Als jij en *surfuniversity.org* er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
+* Als jij en *yale-uni-example* er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
 Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [support@edubadges.nl](mailto:support@edubadges.nl).
+
+# 6 Wijziging privacyverklaring
+
+Er kunnen wijzigingen worden aangebracht in deze privacyverklaring. We raden je daarom aan om deze privacyverklaring geregeld te raadplegen.

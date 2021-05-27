@@ -1,8 +1,8 @@
-19-02-2021 
+26-05-2021 
 
 # *For demonstration purposes only!*
 
-We are glad that you’re reading the privacy statement of *surfuniversity.org* for
+We are glad that you’re reading the privacy statement of *yale-uni-example* for
 the service edubadges! We have paid a lot of attention to the protection of your
 personal data, and you can read all about it in this privacy statement. If you
 have any questions, comments or concerns after reading this privacy statement,
@@ -24,7 +24,7 @@ about edubadges can be found on [SURF's website](https://surf.nl/edubadges).
 2 Purpose and processing
 ========================
 
-*surfuniversity.org* facilitates digital certificates for students.
+*yale-uni-example* facilitates digital certificates for students.
 
 The edubadges service is divided into two parts:
 
@@ -47,8 +47,8 @@ The edubadges service is divided into two parts:
 For the account/backpack (1), SURF is the controller. See the [privacy statement
 of edubadges.nl](https://raw.githubusercontent.com/edubadges/privacy/master/surf/account-terms-en.md) for more information. You can
 contact <support@edubadges.nl> with questions. For issuing edubadges (2),
-*surfuniversity.org* is the controller and SURF is the processor. This privacy
-statement relates primarily to the processing by *surfuniversity.org*.
+*yale-uni-example* is the controller and SURF is the processor. This privacy
+statement relates primarily to the processing by *yale-uni-example*.
 
 3 Personal data
 ===============
@@ -76,7 +76,7 @@ account.
 | Educational institution | Demarcation of available edubadges          | Legitimate interest |
 | Privacy interaction     | Whether the privacy statement has been read | Legitimate interest |
 
-*surfuniversity.org* has access to your first name, last name and email address.
+*yale-uni-example* has access to your first name, last name and email address.
 SURF and its management partner has access to all personal data. The personal
 data are not provided to other parties.
 
@@ -148,7 +148,7 @@ You have the following rights with regard to your own personal data:
 -   If you believe that we have not handled your personal data properly, you may
     submit a complaint.
 
-However, if you and *surfuniversity.org* disagree and the response to your
+However, if you and *yale-uni-example* disagree and the response to your
 complaint does not lead to an acceptable outcome, you have the right to submit a
 complaint to the Dutch Data Protection Authority. More information on the Dutch
 Data Protection Authority and the procedure for submitting complaints can be
