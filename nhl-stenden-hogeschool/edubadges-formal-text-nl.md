@@ -1,6 +1,6 @@
-27-05-2021
+01-06-2021
 
-Goed dat je de privacyverklaring van NHL Stenden Hogeschool voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [](mailto:).
+Goed dat je de privacyverklaring van NHL Stenden Hogeschool voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [privacy-en-security@nhlstenden.com](mailto:privacy-en-security@nhlstenden.com).
 
 # 1 Wat zijn edubadges
 
@@ -78,7 +78,7 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
 * Als jij en NHL Stenden Hogeschool er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [](mailto:).
+Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [privacy-en-security@nhlstenden.com](mailto:privacy-en-security@nhlstenden.com).
 
 # 6 Wijziging privacyverklaring
 

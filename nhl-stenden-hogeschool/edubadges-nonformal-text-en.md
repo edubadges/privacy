@@ -1,6 +1,6 @@
-27-05-2021
+01-06-2021
 
-We are glad that you’re reading the privacy statement of NHL Stenden University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [](mailto:).
+We are glad that you’re reading the privacy statement of NHL Stenden University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [privacy-en-security@nhlstenden.com](mailto:privacy-en-security@nhlstenden.com).
 
 # 1 Introduction
 
@@ -77,7 +77,7 @@ You have the following rights with regard to your own personal data:
 
 However, if you and NHL Stenden University of Applied Sciences disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
-To exercise these rights, please contact [](mailto:).
+To exercise these rights, please contact [privacy-en-security@nhlstenden.com](mailto:privacy-en-security@nhlstenden.com).
 
 # 6 Amendments to the privacy statement
 
