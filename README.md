@@ -49,7 +49,7 @@ Some examples:
 | Tilburg University | none | contract | easyprivacydocs with custom addition | concept |
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
-| Vista College | contract | contract | easyprivacydocs | concept |
+| VISTA College | contract | contract | easyprivacydocs | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
 ## easyprivacydocs
