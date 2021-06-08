@@ -1,4 +1,4 @@
-07-06-2021
+08-06-2021
 
 We are glad that you’re reading the terms of use of VISTA college for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [ibp@vistacollege.nl](mailto:ibp@vistacollege.nl).
 
@@ -10,7 +10,6 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-# 2 Purpose of processing
 VISTA college uses edubadges for parts of its educational programs and curriculum, and for activities that contribute to social and or personal development of students. For this purpose there are two tracks, one for students and one for employees.
 1. Students: edubadges for parts of the educational program and activities that contribute to social and or personal development of students. For example the membership of the student council.
 2. Employees: edubadges for professional improvement of employees.
