@@ -1,4 +1,4 @@
-22-04-2021
+14-06-2021
 
 Goed dat je de privacyverklaring van Hogeschool Utrecht voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [askprivacy@hu.nl](mailto:askprivacy@hu.nl).
 
@@ -10,7 +10,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-Tekst met doel hier.
+Hogeschool Utrecht wil de studenten en cursisten in staat stellen met digitale (edu)badges hun verworven competenties zichtbaar te maken o.a bij andere onderwijsinstellingen en op sociale media zoals LinkedIN. Met badges is de student en/of cursist in staat zelf regie te voeren en persoonlijke keuzes te maken in het leren en het daarbij passende leerpad.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
@@ -47,6 +47,11 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
 
 Hogeschool Utrecht heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
+
+## Uitleg grondslag gerechtvaardigd belang
+De verwerking vindt plaats op grond van de grondslag gerechtvaardigd belang. In het kader van dit gerechtvaardigde belang is het volgende overwogen:
+
+Hogeschool Utrecht wil graag innoveren en op verschillende manieren invulling geven aan het onderwijs en het waarderen van prestaties van studenten. Dit willen we graag doen door het uitgeven van Edubadges. Om in te loggen en om de edubadges uit te reiken moeten we wel een aantal persoonsgegevens van jou verwerken, zoals je contactgegevens, je prestaties en de edubadge zelf. We hebben hierbij de afweging gemaakt of het doel van de edubadges opweegt tegen het gebruik van jouw persoonsgegevens. Wij vinden dat dit inderdaad zo is; door het gebruik van edubadges kunnen we jouw onderwijsprestaties op een specifieke manier waarderen en komt dit ook ten goede aan jouw studieloopbaan en ontwikkeling. Mocht je niet willen dat wij jouw persoonsgegevens hiervoor gebruiken, dan kun je afzien van het deelnemen aan edubadges.
 
 # 4 Beveiliging
 

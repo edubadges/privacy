@@ -1,4 +1,4 @@
-22-04-2021
+14-06-2021
 
 We are glad that you’re reading the privacy statement of Utrecht University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [askprivacy@hu.nl](mailto:askprivacy@hu.nl).
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-Tekst met doel hier.
+By using digital badges, Hogeschool Utrecht enables the students and participant to visibly present their acquired competences at other educational institutions and social media such as LinkedIN. With badges the students and participants are enabled to be in charge of their own choices regarding the learning progress and respective learning process.
 
 The edubadges service is divided into two parts:
 
@@ -45,6 +45,15 @@ In the table below are the personal data (with purpose and basis) that are proce
 | Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |
 
 Utrecht University of Applied Sciences has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
+
+## Explanation lawful basis legitimate interest
+The processing takes place on the basis of legitimate interest. In this context, the following has been considered:
+
+Hogeschool Utrecht would like to innovate and interpret education and the appreciation of student performance in various ways. We would like to do this by issuing edubadges. In order to login and to issue the edubadges, we must process a number of personal data about you, such as your contact details, information about your performance and the edubadge itself.
+
+We have considered whether the purpose of the edubadges outweighs the use of your personal data. We believe that this is indeed the case; by using edubadges we can value your educational performance in a specific way and this also benefits your study career and development.
+
+In case you do not want us to use your personal data for this, you can opt out of participating in EduBadges.
 
 # 4 Security
 
