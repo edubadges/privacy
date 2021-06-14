@@ -40,7 +40,7 @@ Some examples:
 | Han University of Applied Sciences | none | legitimate interest | easyprivacydocs | done |
 | Hanzehogeschool Groningen | none | legitimate interest | custom | done |
 | Hogeschool Rotterdam | | | custom | done |
-| Hogeschool Utrecht | | | custom | concept |
+| Hogeschool Utrecht | legitimate interest | legitimate interest| custom | done |
 | Hogeschool Saxion | contract | contract | easyprivacydocs | done |
 | Maastricht University | none | legitimate interest | custom | done |
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
