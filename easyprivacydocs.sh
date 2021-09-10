@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ################################################################################
-# Version 1.1.0-STABLE (01-03-2021)
+# Version 1.2.0-STABLE (08-06-2021)
 ################################################################################
 
 ################################################################################
@@ -9,7 +9,7 @@
 # Version 3. See https://www.gnu.org/licenses/#AGPL.
 #
 # Contact:
-# > e-mail      info@surf.nl
+# > e-mail      sebas.veeke@surf.nl
 # > GitHub      https://github.com/edubadges/privacy
 ################################################################################
 
@@ -25,13 +25,15 @@
 INSTITUTION_NAME_NL=''          # e.g. Hogeschool SURF
 INSTITUTION_NAME_EN=''          # e.g. University of Applied Sciences SURF
 
-# both contacts are required
-EDUBADGES_CONTACT=''            # e.g. edubadges@hogeschoolsurf.nl
+# privacy contact is required
 PRIVACY_CONTACT=''              # e.g. privacy@hogeschoolsurf.nl
 
 # enable (1) or disable (0) types of edubadges
 NONFORMAL_EDUBADGES='0'
 FORMAL_EDUBADGES='0'
+
+# enable (1) or disable (0) direct awarding
+DIRECT_AWARD='0'
 
 # the legal basis can be 0 (n/a), 1 (legitimate interest),
 # 2 (performance of contract) or 3 (legal obligation)
@@ -97,7 +99,7 @@ check_institution_input() {
     fi
 
     # check whether either edubadges or privacy contact has been used
-    if [ "${EDUBADGES_CONTACT}" = '' ] && [ "${PRIVACY_CONTACT}" = '' ]; then
+    if [ "${PRIVACY_CONTACT}" = '' ]; then
         error_missing_contact
     fi
 
@@ -187,19 +189,34 @@ EXCERPT_ROLES_FORMAL_CONTRACT_EN="\n\n${INSTITUTION_NAME_EN} is the controller a
 #EXCERPT_ROLES_FORMAL_OBLIGATION_NL=''
 #EXCERPT_ROLES_FORMAL_OBLIGATION_EN=''
 
-EXCERPT_PII_NONFORMAL_LEGITIMATE_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-EXCERPT_PII_NONFORMAL_LEGITIMATE_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-EXCERPT_PII_NONFORMAL_CONTRACT_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-EXCERPT_PII_NONFORMAL_CONTRACT_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-#EXCERPT_PII_NONFORMAL_OBLIGATION_NL=''
-#EXCERPT_PII_NONFORMAL_OBLIGATION_EN=''
+# PII has two templates, one for badge request and one for direct award
+EXCERPT_PII_NONFORMAL_LEGITIMATE_REQUEST_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_NONFORMAL_LEGITIMATE_REQUEST_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_NONFORMAL_CONTRACT_REQUEST_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_NONFORMAL_CONTRACT_REQUEST_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+#EXCERPT_PII_NONFORMAL_OBLIGATION_REQUEST_NL=''
+#EXCERPT_PII_NONFORMAL_OBLIGATION_REQUEST_EN=''
 
-EXCERPT_PII_FORMAL_LEGITIMATE_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-EXCERPT_PII_FORMAL_LEGITIMATE_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-EXCERPT_PII_FORMAL_CONTRACT_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-EXCERPT_PII_FORMAL_CONTRACT_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-#EXCERPT_PII_FORMAL_OBLIGATION_NL=''
-#EXCERPT_PII_FORMAL_OBLIGATION_EN=''
+EXCERPT_PII_FORMAL_LEGITIMATE_REQUEST_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_FORMAL_LEGITIMATE_REQUEST_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_FORMAL_CONTRACT_REQUEST_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_FORMAL_CONTRACT_REQUEST_EN="\n\nTo issue edubadges, your first name, last name and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+#EXCERPT_PII_FORMAL_OBLIGATION_REQUEST_NL=''
+#EXCERPT_PII_FORMAL_OBLIGATION_REQUEST_EN=''
+
+EXCERPT_PII_NONFORMAL_LEGITIMATE_AWARD_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_NONFORMAL_LEGITIMATE_AWARD_EN="\n\nTo issue edubadges, your first name, last name, a unique identifier and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_NONFORMAL_CONTRACT_AWARD_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_NONFORMAL_CONTRACT_AWARD_EN="\n\nTo issue edubadges, your first name, last name, a unique identifier and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+#EXCERPT_PII_NONFORMAL_OBLIGATION_AWARD_NL=''
+#EXCERPT_PII_NONFORMAL_OBLIGATION_AWARD_EN=''
+
+EXCERPT_PII_FORMAL_LEGITIMATE_AWARD_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_FORMAL_LEGITIMATE_AWARD_EN="\n\nTo issue edubadges, your first name, last name, a unique identifier and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_FORMAL_CONTRACT_AWARD_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_FORMAL_CONTRACT_AWARD_EN="\n\nTo issue edubadges, your first name, last nam, a unique identifiere and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+#EXCERPT_PII_FORMAL_OBLIGATION_AWARD_NL=''
+#EXCERPT_PII_FORMAL_OBLIGATION_AWARD_EN=''
 
 EXCERPT_FOOTER_NONFORMAL_LEGITIMATE_NL="\n\nDoor op 'Ik heb dit gelezen' te klikken verklaar je de [volledige privacyverklaring](${INSTITUTION_DIRECTORY}/edubadges-nonformal-text-nl.md) gelezen te hebben."
 EXCERPT_FOOTER_NONFORMAL_LEGITIMATE_EN="\n\nBy clicking 'I have read this', you declare that you have read the [full privacy statement](${INSTITUTION_DIRECTORY}/edubadges-nonformal-text-en.md)."
@@ -355,7 +372,11 @@ generate_excerpt_nonformal_legitimate_nl() {
     printf "${EXCERPT_TITLE_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-excerpt-nl.md
     printf "${EXCERPT_PREFACE_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-excerpt-nl.md
     printf "${EXCERPT_ROLES_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-excerpt-nl.md
-    printf "${EXCERPT_PII_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-excerpt-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_NONFORMAL_LEGITIMATE_AWARD_NL}" >> edubadges-nonformal-excerpt-nl.md
+    else
+        printf "${EXCERPT_PII_NONFORMAL_LEGITIMATE_REQUEST_NL}" >> edubadges-nonformal-excerpt-nl.md
+    fi
     printf "${EXCERPT_FOOTER_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-excerpt-nl.md
 }
 
@@ -364,7 +385,11 @@ generate_excerpt_nonformal_legitimate_en() {
     printf "${EXCERPT_TITLE_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-excerpt-en.md
     printf "${EXCERPT_PREFACE_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-excerpt-en.md
     printf "${EXCERPT_ROLES_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-excerpt-en.md
-    printf "${EXCERPT_PII_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-excerpt-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_NONFORMAL_LEGITIMATE_AWARD_EN}" >> edubadges-nonformal-excerpt-en.md
+    else
+        printf "${EXCERPT_PII_NONFORMAL_LEGITIMATE_REQUEST_EN}" >> edubadges-nonformal-excerpt-en.md
+    fi
     printf "${EXCERPT_FOOTER_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-excerpt-en.md
 }
 
@@ -373,7 +398,11 @@ generate_excerpt_nonformal_contract_nl() {
     printf "${EXCERPT_TITLE_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-excerpt-nl.md
     printf "${EXCERPT_PREFACE_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-excerpt-nl.md
     printf "${EXCERPT_ROLES_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-excerpt-nl.md
-    printf "${EXCERPT_PII_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-excerpt-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_NONFORMAL_CONTRACT_AWARD_NL}" >> edubadges-nonformal-excerpt-nl.md
+    else
+        printf "${EXCERPT_PII_NONFORMAL_CONTRACT_REQUEST_NL}" >> edubadges-nonformal-excerpt-nl.md
+    fi
     printf "${EXCERPT_FOOTER_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-excerpt-nl.md
 }
 
@@ -382,7 +411,11 @@ generate_excerpt_nonformal_contract_en() {
     printf "${EXCERPT_TITLE_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-excerpt-en.md
     printf "${EXCERPT_PREFACE_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-excerpt-en.md
     printf "${EXCERPT_ROLES_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-excerpt-en.md
-    printf "${EXCERPT_PII_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-excerpt-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_NONFORMAL_CONTRACT_AWARD_EN}" >> edubadges-nonformal-excerpt-en.md
+    else
+        printf "${EXCERPT_PII_NONFORMAL_CONTRACT_REQUEST_EN}" >> edubadges-nonformal-excerpt-en.md
+    fi
     printf "${EXCERPT_FOOTER_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-excerpt-en.md
 }
 
@@ -399,7 +432,11 @@ generate_excerpt_formal_legitimate_nl() {
     printf "${EXCERPT_TITLE_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-excerpt-nl.md
     printf "${EXCERPT_PREFACE_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-excerpt-nl.md
     printf "${EXCERPT_ROLES_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-excerpt-nl.md
-    printf "${EXCERPT_PII_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-excerpt-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_FORMAL_LEGITIMATE_AWARD_NL}" >> edubadges-formal-excerpt-nl.md
+    else
+        printf "${EXCERPT_PII_FORMAL_LEGITIMATE_REQUEST_NL}" >> edubadges-formal-excerpt-nl.md
+    fi
     printf "${EXCERPT_FOOTER_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-excerpt-nl.md
 }
 
@@ -408,7 +445,11 @@ generate_excerpt_formal_legitimate_en() {
     printf "${EXCERPT_TITLE_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-excerpt-en.md
     printf "${EXCERPT_PREFACE_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-excerpt-en.md
     printf "${EXCERPT_ROLES_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-excerpt-en.md
-    printf "${EXCERPT_PII_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-excerpt-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_FORMAL_LEGITIMATE_AWARD_EN}" >> edubadges-formal-excerpt-en.md
+    else
+        printf "${EXCERPT_PII_FORMAL_LEGITIMATE_REQUEST_EN}" >> edubadges-formal-excerpt-en.md
+    fi
     printf "${EXCERPT_FOOTER_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-excerpt-en.md
 }
 
@@ -417,7 +458,11 @@ generate_excerpt_formal_contract_nl() {
     printf "${EXCERPT_TITLE_FORMAL_CONTRACT_NL}" >> edubadges-formal-excerpt-nl.md
     printf "${EXCERPT_PREFACE_FORMAL_CONTRACT_NL}" >> edubadges-formal-excerpt-nl.md
     printf "${EXCERPT_ROLES_FORMAL_CONTRACT_NL}" >> edubadges-formal-excerpt-nl.md
-    printf "${EXCERPT_PII_FORMAL_CONTRACT_NL}" >> edubadges-formal-excerpt-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_FORMAL_CONTRACT_AWARD_NL}" >> edubadges-formal-excerpt-nl.md
+    else
+        printf "${EXCERPT_PII_FORMAL_CONTRACT_REQUEST_NL}" >> edubadges-formal-excerpt-nl.md
+    fi
     printf "${EXCERPT_FOOTER_FORMAL_CONTRACT_NL}" >> edubadges-formal-excerpt-nl.md
 }
 
@@ -426,7 +471,11 @@ generate_excerpt_formal_contract_en() {
     printf "${EXCERPT_TITLE_FORMAL_CONTRACT_EN}" >> edubadges-formal-excerpt-en.md
     printf "${EXCERPT_PREFACE_FORMAL_CONTRACT_EN}" >> edubadges-formal-excerpt-en.md
     printf "${EXCERPT_ROLES_FORMAL_CONTRACT_EN}" >> edubadges-formal-excerpt-en.md
-    printf "${EXCERPT_PII_FORMAL_CONTRACT_EN}" >> edubadges-formal-excerpt-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${EXCERPT_PII_FORMAL_CONTRACT_AWARD_EN}" >> edubadges-formal-excerpt-en.md
+    else
+        printf "${EXCERPT_PII_FORMAL_CONTRACT_REQUEST_EN}" >> edubadges-formal-excerpt-en.md
+    fi
     printf "${EXCERPT_FOOTER_FORMAL_CONTRACT_EN}" >> edubadges-formal-excerpt-en.md
 }
 
@@ -590,34 +639,34 @@ generate_privacy_documenation() {
     rm edubadges-formal-text-en.md
 
     # generate nonformal privacy documentation
-    if [ ${NONFORMAL_EDUBADGES} = '1' ] && [ ${NONFORMAL_LEGAL_BASIS} = '1' ]; then
+    if [ "${NONFORMAL_EDUBADGES}" = '1' ] && [ "${NONFORMAL_LEGAL_BASIS}" = '1' ]; then
         generate_excerpt_nonformal_legitimate_nl
         generate_excerpt_nonformal_legitimate_en
         generate_text_nonformal_legitimate_nl
         generate_text_nonformal_legitimate_en
-    elif [ ${NONFORMAL_EDUBADGES} = '1' ] && [ ${NONFORMAL_LEGAL_BASIS} = '2' ]; then
+    elif [ "${NONFORMAL_EDUBADGES}" = '1' ] && [ "${NONFORMAL_LEGAL_BASIS}" = '2' ]; then
         generate_excerpt_nonformal_contract_nl
         generate_excerpt_nonformal_contract_en
         generate_text_nonformal_contract_nl
         generate_text_nonformal_contract_en
-    elif [ ${NONFORMAL_EDUBADGES} = '1' ] && [ ${NONFORMAL_LEGAL_BASIS} = '3' ]; then
+    elif [ "${NONFORMAL_EDUBADGES}" = '1' ] && [ "${NONFORMAL_LEGAL_BASIS}" = '3' ]; then
         generate_excerpt_nonformal_obligation_nl
         generate_excerpt_nonformal_obligation_en
         generate_text_nonformal_obligation_nl
         generate_text_nonformal_obligation_en
     fi
     # generate formal privacy documentation
-    if [ ${FORMAL_EDUBADGES} = '1' ] && [ ${FORMAL_LEGAL_BASIS} = '1' ]; then
+    if [ "${FORMAL_EDUBADGES}" = '1' ] && [ "${FORMAL_LEGAL_BASIS}" = '1' ]; then
         generate_excerpt_formal_legitimate_nl
         generate_excerpt_formal_legitimate_en
         generate_text_formal_legitimate_nl
         generate_text_formal_legitimate_en
-    elif [ ${FORMAL_EDUBADGES} = '1' ] && [ ${FORMAL_LEGAL_BASIS} = '2' ]; then
+    elif [ "${FORMAL_EDUBADGES}" = '1' ] && [ "${FORMAL_LEGAL_BASIS}" = '2' ]; then
         generate_excerpt_formal_contract_nl
         generate_excerpt_formal_contract_en
         generate_text_formal_contract_nl
         generate_text_formal_contract_en
-    elif [ ${FORMAL_EDUBADGES} = '1' ] && [ ${FORMAL_LEGAL_BASIS} = '3' ]; then
+    elif [ "${FORMAL_EDUBADGES}" = '1' ] && [ "${FORMAL_LEGAL_BASIS}" = '3' ]; then
         generate_excerpt_formal_obligation_nl
         generate_excerpt_formal_obligation_en
         generate_text_formal_obligation_nl
@@ -625,9 +674,9 @@ generate_privacy_documenation() {
     fi
 
     # generate placeholder privacy documentation for unused edubadge types
-    if [ ${NONFORMAL_EDUBADGES} = '1' ] && [ ${FORMAL_EDUBADGES} = '0' ]; then
+    if [ "${NONFORMAL_EDUBADGES}" = '1' ] && [ "${FORMAL_EDUBADGES}" = '0' ]; then
         generate_placeholder_formal
-    elif [ ${NONFORMAL_EDUBADGES} = '0' ] && [ ${FORMAL_EDUBADGES} = '1' ]; then
+    elif [ "${NONFORMAL_EDUBADGES}" = '0' ] && [ "${FORMAL_EDUBADGES}" = '1' ]; then
         generate_placeholder_nonformal
     fi
 }
