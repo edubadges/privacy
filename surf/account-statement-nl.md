@@ -31,11 +31,25 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 
 | Instelling | Contactgegevens |
 | ---------- | --------------- |
-| Hanzehogeschool Groningen | [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl) |
-| Hogeschool Rotterdam | [privacy@hr.nl](mailto:privacy@hr.nl) |
-| Maastricht University | [privacy@maastrichtuniversity.nl](mailto:privacy@maastrichtuniversity.nl) |
-| Universiteit Twente | [dpo@utwente.nl](mailto:dpo@utwente.nl) |
-| Wageningen University & Research | [privacy@wur.nl](mailto:privacy@wur.nl) |
+| Albeda | fg@albeda.nl |
+| Avans Hogeschool | privacy@avans.nl |
+| Deltion | 3333@deltion.nl |
+| Erasmus Universiteit Rotterdam | edubadges@eur.nl |
+| Fontys | isp-office@fontys.nl |
+| HAN University of Applied Sciences | privacy@han.nl |
+| Hanzehogeschool Groningen | ict-security@org.hanze.nl |
+| Hogeschool Saxion | functionarisgegevensbescherming@saxion.nl |
+| Hogeschool Utrecht | askprivacy@hu.nl |
+| Maastricht University | privacy@maastrichtuniversity.nl |
+| mboRijnland | privacy@mborijnland.nl |
+| NHL Stenden Hogeschool | privacy-and-security@nhlstenden.com |
+| Rijksuniversiteit Groningen | privacy@rug.nl |
+| Rotterdam University of Applied Sciences | privacy@hr.nl |
+| Tilburg University | privacy@tilburguniversity.edu |
+| University of Twente | dpo@utwente.nl |
+| Universiteit Utrecht | privacy@uu.nl |
+| VISTA college | ibp@vistacollege.nl |
+| Wageningen University & Research | privacy@wur.nl |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).
 
