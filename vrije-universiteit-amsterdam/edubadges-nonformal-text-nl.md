@@ -76,9 +76,9 @@ Op basis van de AVG heeft u - onder bepaalde voorwaarden - het recht op inzage i
 
 Indien u deze privacyrechten wil uitoefenen, kunt u dit kenbaar maken bij de Functionaris voor Gegevensbescherming van de VU via:
 
-Functionaris voor Gegevensbescherming
-De Boelelaan 1105
-1081 HV AMSTERDAM
-functionarisgegevensbescherming@vu.nl
+| Functionaris voor Gegevensbescherming |
+| ------------------------------------- |
+| De Boelelaan 1105 1081 HV AMSTERDAM |
+| functionarisgegevensbescherming@vu.nl |
 
 Om de aanvraag in behandeling te kunnen nemen, zal u worden gevraagd zich te legitimeren. Zo wordt gecontroleerd of het verzoek door de juiste persoon gedaan. Indien u niet tevreden bent over de wijze waarop wij omgaan met uw persoonsgegevens, dan heeft u het recht om bij de Autoriteit Persoonsgegevens een klacht in te dienen.

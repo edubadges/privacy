@@ -75,9 +75,9 @@ Based on the GDPR, you have - under certain conditions - the right to access the
 
 If you wish to exercise these privacy rights, you may do so by contacting the Data Protection Officer of the VU at:
 
-Data Protection OfficerDe
-Boelelaan 11051081
-HV AMSTERDAM
-functionarisgegevensbescherming@vu.nl
+| Data Protection OfficerDe |
+| ------------------------- |
+| Boelelaan 11051081 HV AMSTERDAM |
+| functionarisgegevensbescherming@vu.nl |
 
 In order to process the request, you will be asked to identify yourself. This way, we can check whether the request is made by the right person. If you are not satisfied with the way in which we handle your personal data, you have the right to file a complaint with the Dutch Data Protection Authority.
