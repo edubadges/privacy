@@ -50,6 +50,7 @@ Some examples:
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
 | VISTA College | contract | contract | easyprivacydocs | done |
+| Vrije Universiteit Amsterdam | none | legitimate interest | custom | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 
 ## easyprivacydocs

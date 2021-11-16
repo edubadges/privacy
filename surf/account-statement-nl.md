@@ -49,6 +49,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | University of Twente | dpo@utwente.nl |
 | Universiteit Utrecht | privacy@uu.nl |
 | VISTA college | ibp@vistacollege.nl |
+| Vrije Universiteit Amsterdam | functionarisgegevensbescherming@vu.nl |
 | Wageningen University & Research | privacy@wur.nl |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).
