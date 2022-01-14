@@ -41,11 +41,13 @@ Some examples:
 | Hanzehogeschool Groningen | none | legitimate interest | custom | done |
 | Hogeschool Rotterdam | | | custom | done |
 | Hogeschool Utrecht | legitimate interest | legitimate interest| custom | done |
+| Hogeschool van Amsterdam | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Hogeschool Saxion | contract | contract | easyprivacydocs | done |
 | Maastricht University | none | legitimate interest | custom | done |
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
 | NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Rijksuniversiteit Groningen | legitimate interest | none | custom | done |
+| Thomas More Hogeschool | contract | contract | easyprivacydocs | done |
 | Tilburg University | none | contract | easyprivacydocs | done |
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
