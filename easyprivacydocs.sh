@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ################################################################################
-# Version 1.2.0-STABLE (08-06-2021)
+# Version 1.3.0-STABLE (14-01-2021)
 ################################################################################
 
 ################################################################################
@@ -141,7 +141,7 @@ INSTITUTION_DIRECTORY="https://raw.githubusercontent.com/edubadges/privacy/maste
 # TEXT TEMPLATES
 ################################################################################
 
-# for each enabled edubadge type, there is a excerpt text and full text
+# for each enabled edubadge type, there is a excerpt text and full text in both english and dutch
 
 # general templates
 DATE="$(date +%d-%m-%Y)"
@@ -289,19 +289,34 @@ TEXT_DATA_FORMAL_CONTRACT_EN="\n\n# 3 Personal data\n\nFor issuing edubadges, th
 #TEXT_DATA_FORMAL_OBLIGATIONS_NL=''
 #TEXT_DATA_FORMAL_OBLIGATIONS_EN=''
 
-TEXT_TABLE_NONFORMAL_LEGITIMATE_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |\n| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |"
-TEXT_TABLE_NONFORMAL_LEGITIMATE_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Legitimate interest |\n| Given name(s) | User identification | Legitimate interest |\n| Surname	| User identification	| Legitimate interest |\n| Email address	| User Notification	| Legitimate interest |\n| Educational institution | Demarcation of available edubadges |	Legitimate interest |\n| Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |"
-TEXT_TABLE_NONFORMAL_CONTRACT_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |\n| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |\n| Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |"
-TEXT_TABLE_NONFORMAL_CONTRACT_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |\n| Given name(s) | User identification | Performance of an agreement |\n| Surname	| User identification	| Performance of an agreement |\n| Email address	| User Notification	| Performance of an agreement |\n| Educational institution | Demarcation of available edubadges |	Performance of an agreement |\n| Privacy interaction	| Whether the privacy statement has been read | Performance of an agreement |"
-#TEXT_TABLE_NONFORMAL_OBLIGATIONS_NL=''
-#TEXT_TABLE_NONFORMAL_OBLIGATIONS_EN=''
+# table has two templates, one for badge request and one for direct award
+TEXT_TABLE_NONFORMAL_LEGITIMATE_REQUEST_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |\n| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |"
+TEXT_TABLE_NONFORMAL_LEGITIMATE_REQUEST_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Legitimate interest |\n| Given name(s) | User identification | Legitimate interest |\n| Surname | User identification | Legitimate interest |\n| Email address | User Notification | Legitimate interest |\n| Educational institution | Demarcation of available edubadges | Legitimate interest |\n| Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |"
+TEXT_TABLE_NONFORMAL_CONTRACT_REQUEST_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |\n| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |"
+TEXT_TABLE_NONFORMAL_CONTRACT_REQUEST_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |\n| Given name(s) | User identification | Performance of an agreement |\n| Surname | User identification | Performance of an agreement |\n| Email address | User Notification | Performance of an agreement |\n| Educational institution | Demarcation of available edubadges | Performance of an agreement |\n| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |"
+#TEXT_TABLE_NONFORMAL_OBLIGATIONS_REQUEST_NL=''
+#TEXT_TABLE_NONFORMAL_OBLIGATIONS_REQUEST_EN=''
 
-TEXT_TABLE_FORMAL_LEGITIMATE_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |\n| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |"
-TEXT_TABLE_FORMAL_LEGITIMATE_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Legitimate interest |\n| Given name(s) | User identification | Legitimate interest |\n| Surname	| User identification	| Legitimate interest |\n| Email address	| User Notification	| Legitimate interest |\n| Educational institution | Demarcation of available edubadges |	Legitimate interest |\n| Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |"
-TEXT_TABLE_FORMAL_CONTRACT_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |\n| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |\n| Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |"
-TEXT_TABLE_FORMAL_CONTRACT_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |\n| Given name(s) | User identification | Performance of an agreement |\n| Surname	| User identification	| Performance of an agreement |\n| Email address	| User Notification	| Performance of an agreement |\n| Educational institution | Demarcation of available edubadges |	Performance of an agreement |\n| Privacy interaction	| Whether the privacy statement has been read | Performance of an agreement |"
-#TEXT_TABLE_FORMAL_OBLIGATIONS_NL=''
-#TEXT_TABLE_FORMAL_OBLIGATIONS_EN=''
+TEXT_TABLE_FORMAL_LEGITIMATE_REQUEST_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |\n| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |"
+TEXT_TABLE_FORMAL_LEGITIMATE_REQUEST_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Legitimate interest |\n| Given name(s) | User identification | Legitimate interest |\n| Surname | User identification | Legitimate interest |\n| Email address | User Notification | Legitimate interest |\n| Educational institution | Demarcation of available edubadges | Legitimate interest |\n| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |"
+TEXT_TABLE_FORMAL_CONTRACT_REQUEST_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |\n| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |"
+TEXT_TABLE_FORMAL_CONTRACT_REQUEST_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |\n| Given name(s) | User identification | Performance of an agreement |\n| Surname | User identification | Performance of an agreement |\n| Email address | User Notification | Performance of an agreement |\n| Educational institution | Demarcation of available edubadges | Performance of an agreement |\n| Privacy interaction	| Whether the privacy statement has been read | Performance of an agreement |"
+#TEXT_TABLE_FORMAL_OBLIGATIONS_REQUEST_NL=''
+#TEXT_TABLE_FORMAL_OBLIGATIONS_REQUEST_EN=''
+
+TEXT_TABLE_NONFORMAL_LEGITIMATE_AWARD_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |\n| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |\n| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |"
+TEXT_TABLE_NONFORMAL_LEGITIMATE_AWARD_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Legitimate interest |\n| Given name(s) | User identification | Legitimate interest |\n| Surname | User identification | Legitimate interest |\n| Email address	| User Notification	| Legitimate interest |\n| Educational institution | Demarcation of available edubadges | Legitimate interest |\n| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |\n| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |"
+TEXT_TABLE_NONFORMAL_CONTRACT_AWARD_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |\n| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |\n| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |"
+TEXT_TABLE_NONFORMAL_CONTRACT_AWARD_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |\n| Given name(s) | User identification | Performance of an agreement |\n| Surname | User identification | Performance of an agreement |\n| Email address	| User Notification	| Performance of an agreement |\n| Educational institution | Demarcation of available edubadges | Performance of an agreement |\n| Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |\n| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |"
+#TEXT_TABLE_NONFORMAL_OBLIGATIONS_AWARD_NL=''
+#TEXT_TABLE_NONFORMAL_OBLIGATIONS_AWARD_EN=''
+
+TEXT_TABLE_FORMAL_LEGITIMATE_AWARD_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |\n| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |\n| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |\n| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |"
+TEXT_TABLE_FORMAL_LEGITIMATE_AWARD_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Legitimate interest |\n| Given name(s) | User identification | Legitimate interest |\n| Surname | User identification | Legitimate interest |\n| Email address | User Notification	| Legitimate interest |\n| Educational institution | Demarcation of available edubadges | Legitimate interest |\n| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |\n| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |"
+TEXT_TABLE_FORMAL_CONTRACT_AWARD_NL="\n\n| Persoonsgegeven | Doel | Grondslag |\n| --------------- | ---- | --------- |\n| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |\n| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |\n| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |\n| Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |\n| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |\n| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |"
+TEXT_TABLE_FORMAL_CONTRACT_AWARD_EN="\n\n| Personal data	| Purpose	| Basis |\n| ------------- | ------- | ----- |\n| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |\n| Given name(s) | User identification | Performance of an agreement |\n| Surname | User identification | Performance of an agreement |\n| Email address	| User Notification	| Performance of an agreement |\n| Educational institution | Demarcation of available edubadges | Performance of an agreement |\n| Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |\n| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |"
+#TEXT_TABLE_FORMAL_OBLIGATIONS_AWARD_NL=''
+#TEXT_TABLE_FORMAL_OBLIGATIONS_AWARD_EN=''
 
 TEXT_PROVIDE_NONFORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt."
 TEXT_PROVIDE_NONFORMAL_LEGITIMATE_EN="\n\n${INSTITUTION_NAME_EN} has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties."
@@ -495,7 +510,11 @@ generate_text_nonformal_legitimate_nl() {
     printf "${TEXT_INTRODUCTION_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_PROCESSING_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_DATA_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-text-nl.md
-    printf "${TEXT_TABLE_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-text-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_NONFORMAL_LEGITIMATE_AWARD_NL}" >> edubadges-nonformal-text-nl.md
+    else
+        printf "${TEXT_TABLE_NONFORMAL_LEGITIMATE_REQUEST_NL}" >> edubadges-nonformal-text-nl.md
+    fi
     printf "${TEXT_PROVIDE_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_SECURITY_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_RIGHTS_NONFORMAL_LEGITIMATE_NL}" >> edubadges-nonformal-text-nl.md
@@ -509,7 +528,11 @@ generate_text_nonformal_legitimate_en() {
     printf "${TEXT_INTRODUCTION_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_PROCESSING_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_DATA_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-text-en.md
-    printf "${TEXT_TABLE_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-text-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_NONFORMAL_LEGITIMATE_AWARD_EN}" >> edubadges-nonformal-text-en.md
+    else
+        printf "${TEXT_TABLE_NONFORMAL_LEGITIMATE_REQUEST_EN}" >> edubadges-nonformal-text-en.md
+    fi
     printf "${TEXT_PROVIDE_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_SECURITY_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_RIGHTS_NONFORMAL_LEGITIMATE_EN}" >> edubadges-nonformal-text-en.md
@@ -523,7 +546,11 @@ generate_text_nonformal_contract_nl() {
     printf "${TEXT_INTRODUCTION_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_PROCESSING_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_DATA_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-text-nl.md
-    printf "${TEXT_TABLE_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-text-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_NONFORMAL_CONTRACT_AWARD_NL}" >> edubadges-nonformal-text-nl.md
+    else
+        printf "${TEXT_TABLE_NONFORMAL_CONTRACT_REQUEST_NL}" >> edubadges-nonformal-text-nl.md
+    fi
     printf "${TEXT_PROVIDE_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_SECURITY_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-text-nl.md
     printf "${TEXT_RIGHTS_NONFORMAL_CONTRACT_NL}" >> edubadges-nonformal-text-nl.md
@@ -536,7 +563,11 @@ generate_text_nonformal_contract_en() {
     printf "${TEXT_INTRODUCTION_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_PROCESSING_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_DATA_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-text-en.md
-    printf "${TEXT_TABLE_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-text-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_NONFORMAL_CONTRACT_AWARD_EN}" >> edubadges-nonformal-text-en.md
+    else
+        printf "${TEXT_TABLE_NONFORMAL_CONTRACT_REQUEST_EN}" >> edubadges-nonformal-text-en.md
+    fi
     printf "${TEXT_PROVIDE_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_SECURITY_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-text-en.md
     printf "${TEXT_RIGHTS_NONFORMAL_CONTRACT_EN}" >> edubadges-nonformal-text-en.md
@@ -557,7 +588,11 @@ generate_text_formal_legitimate_nl() {
     printf "${TEXT_INTRODUCTION_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_PROCESSING_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_DATA_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-text-nl.md
-    printf "${TEXT_TABLE_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-text-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_FORMAL_LEGITIMATE_AWARD_NL}" >> edubadges-formal-text-nl.md
+    else
+        printf "${TEXT_TABLE_FORMAL_LEGITIMATE_REQUEST_NL}" >> edubadges-formal-text-nl.md
+    fi
     printf "${TEXT_PROVIDE_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_SECURITY_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_RIGHTS_FORMAL_LEGITIMATE_NL}" >> edubadges-formal-text-nl.md
@@ -571,7 +606,11 @@ generate_text_formal_legitimate_en() {
     printf "${TEXT_INTRODUCTION_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_PROCESSING_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_DATA_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-text-en.md
-    printf "${TEXT_TABLE_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-text-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_FORMAL_LEGITIMATE_AWARD_EN}" >> edubadges-formal-text-en.md
+    else
+        printf "${TEXT_TABLE_FORMAL_LEGITIMATE_REQUEST_EN}" >> edubadges-formal-text-en.md
+    fi
     printf "${TEXT_PROVIDE_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_SECURITY_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_RIGHTS_FORMAL_LEGITIMATE_EN}" >> edubadges-formal-text-en.md
@@ -586,7 +625,11 @@ generate_text_formal_contract_nl() {
     printf "${TEXT_INTRODUCTION_FORMAL_CONTRACT_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_PROCESSING_FORMAL_CONTRACT_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_DATA_FORMAL_CONTRACT_NL}" >> edubadges-formal-text-nl.md
-    printf "${TEXT_TABLE_FORMAL_CONTRACT_NL}" >> edubadges-formal-text-nl.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_FORMAL_CONTRACT_AWARD_NL}" >> edubadges-formal-text-nl.md
+    else
+        printf "${TEXT_TABLE_FORMAL_CONTRACT_REQUEST_NL}" >> edubadges-formal-text-nl.md
+    fi
     printf "${TEXT_PROVIDE_FORMAL_CONTRACT_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_SECURITY_FORMAL_CONTRACT_NL}" >> edubadges-formal-text-nl.md
     printf "${TEXT_RIGHTS_FORMAL_CONTRACT_NL}" >> edubadges-formal-text-nl.md
@@ -599,7 +642,11 @@ generate_text_formal_contract_en() {
     printf "${TEXT_INTRODUCTION_FORMAL_CONTRACT_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_PROCESSING_FORMAL_CONTRACT_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_DATA_FORMAL_CONTRACT_EN}" >> edubadges-formal-text-en.md
-    printf "${TEXT_TABLE_FORMAL_CONTRACT_EN}" >> edubadges-formal-text-en.md
+    if [ "${DIRECT_AWARD}" = '1' ]; then
+        printf "${TEXT_TABLE_FORMAL_CONTRACT_AWARD_EN}" >> edubadges-formal-text-en.md
+    else
+        printf "${TEXT_TABLE_FORMAL_CONTRACT_REQUEST_EN}" >> edubadges-formal-text-en.md
+    fi
     printf "${TEXT_PROVIDE_FORMAL_CONTRACT_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_SECURITY_FORMAL_CONTRACT_EN}" >> edubadges-formal-text-en.md
     printf "${TEXT_RIGHTS_FORMAL_CONTRACT_EN}" >> edubadges-formal-text-en.md
