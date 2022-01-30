@@ -37,9 +37,11 @@ Some examples:
 | Deltion College | none | contract | easyprivacydocs | done |
 | Erasmus Universiteit Rotterdam | none | legitimate interest | custom | done |
 | Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
+| Haagse Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Han University of Applied Sciences | none | legitimate interest | easyprivacydocs | done |
 | Hanzehogeschool Groningen | none | legitimate interest | custom | done |
 | HAS Hogeschool | contract | contract | easyprivacydocs | concept |
+| Hogeschool Inholland | legitimate interest | legitimate interest | custom | done |
 | Hogeschool Rotterdam | | | custom | done |
 | Hogeschool Utrecht | legitimate interest | legitimate interest| custom | done |
 | Hogeschool van Amsterdam | legitimate interest | legitimate interest | easyprivacydocs | done |
@@ -55,6 +57,7 @@ Some examples:
 | VISTA College | contract | contract | easyprivacydocs | done |
 | Vrije Universiteit Amsterdam | none | legitimate interest | custom | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
+| Windesheim | contract | none | easyprivacydocs | done |
 
 ## easyprivacydocs
 `easyprivacydocs.sh` is a tool for creating the required edubadges privacy documentation the easy way.
