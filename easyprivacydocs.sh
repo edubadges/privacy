@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ################################################################################
-# Version 1.3.0-STABLE (14-01-2021)
+# Version 1.3.1-RELEASE (08-02-2022)
 ################################################################################
 
 ################################################################################
@@ -175,17 +175,17 @@ EXCERPT_PREFACE_FORMAL_CONTRACT_EN="\n\nBelow are the most important points abou
 #EXCERPT_PREFACE_FORMAL_OBLIGATION_NL=''
 #EXCERPT_PREFACE_FORMAL_OBLIGATION_EN=''
 
-EXCERPT_ROLES_NONFORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${NONFORMAL_PURPOSE_NL}."
-EXCERPT_ROLES_NONFORMAL_LEGITIMATE_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${NONFORMAL_PURPOSE_EN}."
-EXCERPT_ROLES_NONFORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${NONFORMAL_PURPOSE_NL}."
-EXCERPT_ROLES_NONFORMAL_CONTRACT_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${NONFORMAL_PURPOSE_EN}."
+EXCERPT_ROLES_NONFORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${NONFORMAL_PURPOSE_NL}"
+EXCERPT_ROLES_NONFORMAL_LEGITIMATE_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${NONFORMAL_PURPOSE_EN}"
+EXCERPT_ROLES_NONFORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${NONFORMAL_PURPOSE_NL}"
+EXCERPT_ROLES_NONFORMAL_CONTRACT_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${NONFORMAL_PURPOSE_EN}"
 #EXCERPT_ROLES_NONFORMAL_OBLIGATION_NL=''
 #EXCERPT_ROLES_NONFORMAL_OBLIGATION_EN=''
 
-EXCERPT_ROLES_FORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${FORMAL_PURPOSE_NL}."
-EXCERPT_ROLES_FORMAL_LEGITIMATE_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${FORMAL_PURPOSE_EN}."
-EXCERPT_ROLES_FORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${FORMAL_PURPOSE_NL}."
-EXCERPT_ROLES_FORMAL_CONTRACT_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${FORMAL_PURPOSE_EN}."
+EXCERPT_ROLES_FORMAL_LEGITIMATE_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${FORMAL_PURPOSE_NL}"
+EXCERPT_ROLES_FORMAL_LEGITIMATE_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${FORMAL_PURPOSE_EN}"
+EXCERPT_ROLES_FORMAL_CONTRACT_NL="\n\n${INSTITUTION_NAME_NL} is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. ${FORMAL_PURPOSE_NL}"
+EXCERPT_ROLES_FORMAL_CONTRACT_EN="\n\n${INSTITUTION_NAME_EN} is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. ${FORMAL_PURPOSE_EN}"
 #EXCERPT_ROLES_FORMAL_OBLIGATION_NL=''
 #EXCERPT_ROLES_FORMAL_OBLIGATION_EN=''
 
