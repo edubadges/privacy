@@ -1,4 +1,4 @@
-14-01-2022
+08-02-2022
 
 We are glad that you’re reading the terms of use of HAS Hogeschool for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [privacy@has.nl](mailto:privacy@has.nl).
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-HIER EEN DOEL
+In the context of making education more flexible and making lifelong development possible, HAS University of Applied Sciences issues EduBadges. The EduBadge enables the owner to better position himself in the labor market and demonstrates that the owner has certain knowledge and skills. This fits in with our vision of flexible and adaptive education.
 
 The edubadges service is divided into two parts:
 

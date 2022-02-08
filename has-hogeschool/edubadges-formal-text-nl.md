@@ -1,4 +1,4 @@
-14-01-2022
+08-02-2022
 
 
 Goed dat je de gebruiksvoorwaarden van HAS Hogeschool voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [privacy@has.nl](mailto:privacy@has.nl).
@@ -11,7 +11,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-HIER EEN DOEL
+In kader van flexibilisering van het onderwijs en het mogelijk maken van Leven Lang Ontwikkelen geeft HAS Hogeschool EduBadges uit. De EduBadge stelt de eigenaar in staat om zich beter te positioneren op de arbeidsmarkt en toont aan dat de eigenaar over bepaalde kennis en vaardigheden beschikt. Dit past bij onze visie op flexibel en adaptief onderwijs.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
