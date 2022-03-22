@@ -59,6 +59,7 @@ Some examples:
 | Vrije Universiteit Amsterdam | none | legitimate interest | custom | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 | Windesheim | contract | none | easyprivacydocs | done |
+| Zuyd Hogeschool | contract | none | easyprivacydocs | done |
 
 ## easyprivacydocs
 `easyprivacydocs.sh` is a tool for creating the required edubadges privacy documentation the easy way.
