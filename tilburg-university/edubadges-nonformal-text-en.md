@@ -1,4 +1,4 @@
-08-06-2021
+30-03-2022
 
 We are glad that you’re reading the terms of use of Tilburg University for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [privacy@tilburguniversity.edu](mailto:privacy@tilburguniversity.edu).
 
@@ -43,10 +43,11 @@ In the table below are the personal data (with purpose and basis) that are proce
 | ------------- | ------- | ----- |
 | eduID	| Pseudonym identifier in edubadge | Performance of an agreement |
 | Given name(s) | User identification | Performance of an agreement |
-| Surname	| User identification	| Performance of an agreement |
+| Surname | User identification | Performance of an agreement |
 | Email address	| User Notification	| Performance of an agreement |
-| Educational institution | Demarcation of available edubadges |	Performance of an agreement |
-| Privacy interaction	| Whether the privacy statement has been read | Performance of an agreement |
+| Educational institution | Demarcation of available edubadges | Performance of an agreement |
+| Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |
+| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |
 
 Tilburg University has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.\m
 # 4 Security

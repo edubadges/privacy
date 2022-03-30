@@ -1,4 +1,4 @@
-08-06-2021
+30-03-2022
 
 Goed dat je de gebruiksvoorwaarden van Tilburg University voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om deze edubadge te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [privacy@tilburguniversity.edu](mailto:privacy@tilburguniversity.edu).
 
@@ -47,7 +47,8 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |
 | Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |
 | E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
-| Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
+| Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
 
 Tilburg University heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.\m
