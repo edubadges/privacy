@@ -1,4 +1,4 @@
-31-01-2022
+11-04-2022
 
 
 Goed dat je de gebruiksvoorwaarden van Windesheim voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [fg@windesheim.nl](mailto:fg@windesheim.nl).
