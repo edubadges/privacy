@@ -1,6 +1,7 @@
-31-01-2022
+20-04-2022
 
-Goed dat je de privacyverklaring van De Haagse Hogeschool voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [privacy@hhs.nl](mailto:privacy@hhs.nl).
+
+Goed dat je de gebruiksvoorwaarden van De Haagse Hogeschool voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [privacy@hhs.nl](mailto:privacy@hhs.nl).
 
 # 1 Wat zijn edubadges
 
@@ -20,7 +21,7 @@ De edubadgesservice is onderverdeeld in twee delen:
   * Valideren van edubadges
 * Uitgeven van edubadges (2):
   * Inschrijven voor een edubadge
-  * Genereren van edubadge
+  * Genereren van een edubadge
   * Versturen van een edubadge
 
 Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://edubadges.nl/privacy). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
@@ -39,15 +40,15 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 
 | Persoonsgegeven | Doel | Grondslag |
 | --------------- | ---- | --------- |
-| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |
-| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |
-| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |
-| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
-| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
-| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |
-| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
+| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |
+| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |
+| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |
+| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
+| Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
+| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
 
-De Haagse Hogeschool heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
+De Haagse Hogeschool heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt. Edubadges gaan in principe je hele leven lang mee en edubadges worden (met inbegrip van één maand termijn vanwege de back-ups) bewaard tot je de edubadge of het gebruikersaccount bij SURF verwijdert.
 
 # 4 Beveiliging
 
@@ -76,11 +77,7 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt bezwaar maken tegen verwerking van je gegevens, als we je gegevens verwerken op basis van een eigen gerechtvaardigd belang of op basis van de uitvoering van een taak van algemeen belang.
 * Je kunt een verzoek indienen tot beperking van de verwerking van je gegevens ten aanzien van de verwerking van gegevens waartegen je bezwaar hebt gemaakt, die je onrechtmatig acht, waarvan je de juistheid van de persoonsgegevens hebt betwist of wanneer we de persoonsgegevens niet meer nodig hebben, maar je ze nodig hebt in het kader van een rechtsvordering.
 * Je kunt een overzicht, in een gestructureerde en gangbare vorm opvragen van de gegevens die we van jou verwerken en je hebt het recht op overdraagbaarheid van deze gegevens naar een andere dienstverlener.
-* Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
+* Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij de Autoriteit Persoonsgegevens.
 * Als jij en De Haagse Hogeschool er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
 Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [privacy@hhs.nl](mailto:privacy@hhs.nl).
-
-# 6 Wijziging privacyverklaring
-
-Er kunnen wijzigingen worden aangebracht in deze privacyverklaring. We raden je daarom aan om deze privacyverklaring geregeld te raadplegen.

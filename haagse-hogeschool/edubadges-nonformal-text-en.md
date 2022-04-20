@@ -1,6 +1,6 @@
-31-01-2022
+20-04-2022
 
-We are glad that you’re reading the privacy statement of The Haque University for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [privacy@hhs.nl](mailto:privacy@hhs.nl).
+We are glad that you’re reading the terms of use of The Haque University for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [privacy@hhs.nl](mailto:privacy@hhs.nl).
 
 # 1 Introduction
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-The Hague University issues edubadges in the context of lifelong learning and flexibilization. Edubadges allow recipients to better position themselves at the job market and to visualize and share their acquired knowledge and skills.
+The Hague University issues edubadges for the recognition and validation of knowledge and skills from non-formal education. Edubadges allow recipients to visualize and share their acquired knowledge and skills.
 
 The edubadges service is divided into two parts:
 
@@ -37,15 +37,15 @@ In the table below are the personal data (with purpose and basis) that are proce
 
 | Personal data	| Purpose	| Basis |
 | ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Legitimate interest |
-| Given name(s) | User identification | Legitimate interest |
-| Surname | User identification | Legitimate interest |
-| Email address	| User Notification	| Legitimate interest |
-| Educational institution | Demarcation of available edubadges | Legitimate interest |
-| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |
-| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |
+| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |
+| Given name(s) | User identification | Performance of an agreement |
+| Surname | User identification | Performance of an agreement |
+| Email address	| User Notification	| Performance of an agreement |
+| Educational institution | Demarcation of available edubadges | Performance of an agreement |
+| Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |
+| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |
 
-The Haque University has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
+The Haque University has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties. Edubadges essentially last for a lifetime. This is why we keep edubadges until you delete the edubadge or your user account with us (plus a period of one month for backups).
 
 # 4 Security
 
@@ -79,7 +79,3 @@ You have the following rights with regard to your own personal data:
 However, if you and The Haque University disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
 To exercise these rights, please contact [privacy@hhs.nl](mailto:privacy@hhs.nl).
-
-# 6 Amendments to the privacy statement
-
-We may amend this privacy statement from time to time. We therefore advise you to consult our privacy statement regularly.
