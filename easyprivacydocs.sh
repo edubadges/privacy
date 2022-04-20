@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ################################################################################
-# Version 1.3.1-RELEASE (08-02-2022)
+# Version 1.3.2-RELEASE (20-04-2022)
 ################################################################################
 
 ################################################################################
@@ -214,7 +214,7 @@ EXCERPT_PII_NONFORMAL_CONTRACT_AWARD_EN="\n\nTo issue edubadges, your first name
 EXCERPT_PII_FORMAL_LEGITIMATE_AWARD_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
 EXCERPT_PII_FORMAL_LEGITIMATE_AWARD_EN="\n\nTo issue edubadges, your first name, last name, a unique identifier and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
 EXCERPT_PII_FORMAL_CONTRACT_AWARD_NL="\n\nVoor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (${INSTITUTION_NAME_NL}) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
-EXCERPT_PII_FORMAL_CONTRACT_AWARD_EN="\n\nTo issue edubadges, your first name, last nam, a unique identifiere and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
+EXCERPT_PII_FORMAL_CONTRACT_AWARD_EN="\n\nTo issue edubadges, your first name, last name, a unique identifiere and email address are processed. In addition the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (${INSTITUTION_NAME_EN}) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [${PRIVACY_CONTACT}](mailto:${PRIVACY_CONTACT})."
 #EXCERPT_PII_FORMAL_OBLIGATION_AWARD_NL=''
 #EXCERPT_PII_FORMAL_OBLIGATION_AWARD_EN=''
 
