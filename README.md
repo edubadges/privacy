@@ -48,6 +48,7 @@ Some examples:
 | Hogeschool Saxion | contract | contract | easyprivacydocs | done |
 | Hotelschool The Hague | contract | legitimate interest | easyprivacydocs | done |
 | Maastricht University | none | legitimate interest | custom | done |
+| Marnix Academie | legitimate interest | legitimate interest | easyprivacydocs | done |
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
 | NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Rijksuniversiteit Groningen | legitimate interest | none | custom | done |
