@@ -1,4 +1,4 @@
-26-04-2022
+02-05-2022
 
 We are glad that you’re reading the privacy statement of Delft University of Technology for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [privacy-tud@tudelft.nl](mailto:privacy-tud@tudelft.nl).
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-TU Delft uses Edubadges to issue Microcredentials. Microcredentials add a quality mark to small sized accredited education. This enables professionals and other participants to visualize achieved results and the level of education, which supports further flexibilization of the education.
+TU Delft uses edubadges to issue Microcredentials. Microcredentials add a quality mark to small sized educational units. This enables professionals and other participants to visualize achieved results and the level of education, which supports further flexibilization of the education.
 
 The edubadges service is divided into two parts:
 

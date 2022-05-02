@@ -1,4 +1,4 @@
-26-04-2022
+02-05-2022
 
 We are glad that you’re reading the privacy statement of Delft University of Technology for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [privacy-tud@tudelft.nl](mailto:privacy-tud@tudelft.nl).
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-Non formal Edubadges will provide learners with evidence of mastering a particular activity, skill or area of knowledge as a result of intentional effort that takes place outside formal learning environments, but within some kind of organisational framework.
+Non formal edubadges will provide learners with evidence of mastering a particular activity, skill or area of knowledge as a result of intentional effort that takes place outside formal learning environments, but within some kind of organisational framework.
 
 The edubadges service is divided into two parts:
 
@@ -37,13 +37,13 @@ In the table below are the personal data (with purpose and basis) that are proce
 
 | Personal data	| Purpose	| Basis |
 | ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Public interest |
-| Given name(s) | User identification | Public interest |
-| Surname | User identification | Public interest |
-| Email address	| User Notification	| Public interest |
-| Educational institution | Demarcation of available edubadges | Public interest |
-| Unique identifier | Make it possible to award edubadges directly to the student | Public interest |
-| Privacy interaction | Whether the privacy statement has been read | Public interest |
+| eduID	| Pseudonym identifier in edubadge | Legitimate interest |
+| Given name(s) | User identification | Legitimate interest |
+| Surname | User identification | Legitimate interest |
+| Email address	| User Notification	| Legitimate interest |
+| Educational institution | Demarcation of available edubadges | Legitimate interest |
+| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |
+| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |
 
 Delft University of Technology has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
 

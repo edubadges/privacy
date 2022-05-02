@@ -1,4 +1,4 @@
-26-04-2022
+02-05-2022
 
 Goed dat je de privacyverklaring van Technische Universiteit Delft voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [privacy-tud@tudelft.nl](mailto:privacy-tud@tudelft.nl).
 
@@ -10,7 +10,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-Niet-formele Edubadges leveren het bewijs dat een student een bepaald(e) activiteit, vaardigheid of kennisgebied beheerst als resultaat van inspanningen buiten de formele leeromgeving.
+Niet-formele edubadges leveren het bewijs dat een student een bepaald(e) activiteit, vaardigheid of kennisgebied beheerst als resultaat van inspanningen buiten de formele leeromgeving, maar binnen de kaders van een organisatie.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
@@ -39,13 +39,13 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 
 | Persoonsgegeven | Doel | Grondslag |
 | --------------- | ---- | --------- |
-| eduID | Pseudonieme identifier in edubadge | Algemeen belang |
-| Voornaam | Identificatie van gebruiker | Algemeen belang |
-| Achternaam | Identificatie van gebruiker | Algemeen belang |
-| E-mailadres | Notificeren van gebruiker | Algemeen belang |
-| Onderwijsinstelling | Afbakening beschikbare edubadges | Algemeen belang |
-| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Algemeen belang |
-| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Algemeen belang |
+| eduID | Pseudonieme identifier in edubadge | Gerechtvaardigd belang |
+| Voornaam | Identificatie van gebruiker | Gerechtvaardigd belang |
+| Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |
+| E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
+| Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |
+| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
 
 Technische Universiteit Delft heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
 

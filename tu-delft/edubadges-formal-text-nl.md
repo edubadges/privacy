@@ -1,4 +1,4 @@
-26-04-2022
+02-05-2022
 
 Goed dat je de privacyverklaring van Technische Universiteit Delft voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [privacy-tud@tudelft.nl](mailto:privacy-tud@tudelft.nl).
 
@@ -10,7 +10,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-Edubadges worden binnen de TU Delft ingezet voor de uitgifte van Microcredentials, die aan accreditatiewaardig onderwijs met een kleine omvang een kwaliteitskeurmerk toevoegen. Dit stelt professionals en andere deelnemers in staat hun leerresultaten en het niveau van het onderwijs inzichtelijk te maken en hiermee bij te dragen aan de flexibilisering van het onderwijs.
+edubadges worden binnen de TU Delft ingezet voor de uitgifte van Microcredentials, die aan accreditatiewaardig onderwijs met een kleine omvang een kwaliteitskeurmerk toevoegen. Dit stelt professionals en andere deelnemers in staat hun leerresultaten en het niveau van het onderwijs inzichtelijk te maken en hiermee bij te dragen aan de flexibilisering van het onderwijs.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
