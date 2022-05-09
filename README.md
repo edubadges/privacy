@@ -39,7 +39,7 @@ Some examples:
 | Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
 | Haagse Hogeschool | contract | contract interest | custom | done |
 | Han University of Applied Sciences | none | legitimate interest | easyprivacydocs | done |
-| Hanzehogeschool Groningen | none | legitimate interest | custom | done |
+| Hanzehogeschool Groningen | legitimate interest | legitimate interest | custom | done |
 | HAS Hogeschool | contract | contract | easyprivacydocs | concept |
 | Hogeschool Inholland | legitimate interest | legitimate interest | custom | done |
 | Hogeschool Rotterdam | | | custom | done |
