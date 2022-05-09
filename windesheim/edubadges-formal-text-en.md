@@ -1,4 +1,4 @@
-11-04-2022
+09-05-2022
 
 We are glad that you’re reading the terms of use of Windesheim for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [fg@windesheim.nl](mailto:fg@windesheim.nl).
 
