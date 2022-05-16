@@ -34,6 +34,7 @@ Some examples:
 | ----------------------- | ------------ | --------------- | --------------------- | ------ |
 | Albeda | contract | contract | easyprivacydocs | done |
 | Avans | legitimate interest | legitimate interest | easyprivacydocs | done |
+| BUas | contract | legitimate interest | easyprivacydocs | done |
 | Deltion College | none | contract | easyprivacydocs | done |
 | Erasmus Universiteit Rotterdam | none | legitimate interest | custom | done |
 | Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
