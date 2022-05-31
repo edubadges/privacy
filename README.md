@@ -41,7 +41,7 @@ Some examples:
 | Haagse Hogeschool | contract | contract interest | custom | done |
 | Han University of Applied Sciences | none | legitimate interest | easyprivacydocs | done |
 | Hanzehogeschool Groningen | legitimate interest | legitimate interest | custom | done |
-| HAS Hogeschool | contract | contract | easyprivacydocs | concept |
+| HAS Hogeschool | contract | contract | easyprivacydocs | done |
 | Hogeschool Inholland | legitimate interest | legitimate interest | custom | done |
 | Hogeschool IPABO | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Hogeschool Rotterdam | | | custom | done |
