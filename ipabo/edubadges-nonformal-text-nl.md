@@ -10,7 +10,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-In het kader van flexibilisering van het onderwijs en het mogelijk maken van leven lang lntwikkelen geeft Hogeschool IPABO eduBadges uit. De edubadge stelt de eigenaar in staat om zich beter te positioneren op de arbeidsmarkt en toont aan dat de eigenaar over bepaalde kennis en vaardigheden beschikt. Dit past bij onze visie op flexibel onderwijs.
+In het kader van flexibilisering van het onderwijs en het mogelijk maken van leven lang leren geeft Hogeschool IPABO eduBadges uit. De edubadge stelt de eigenaar in staat om zich beter te positioneren op de arbeidsmarkt en toont aan dat de eigenaar over bepaalde kennis en vaardigheden beschikt. Dit past bij onze visie op flexibel onderwijs.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
