@@ -31,7 +31,8 @@ Some examples:
 
 ## Privacy documentation overview
 | Educational Institution | Formal basis | Nonformal basis | documentation | status |
-| ----------------------- | ------------ | --------------- | --------------------- | ------ |
+| ----------------------- | ------------ | --------------- | ------------- | ------ |
+| Aeres | legitimate interest | legitimate interest | easyprivacydocs | concept |
 | Albeda | contract | contract | easyprivacydocs | done |
 | Avans | legitimate interest | legitimate interest | easyprivacydocs | done |
 | BUas | contract | legitimate interest | easyprivacydocs | done |
