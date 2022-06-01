@@ -1,3 +1,9 @@
-# edubadges
+# Gebruiksvoorwaarden voor deze edubadge
 
-Er is geen privacydocumentatie beschikbaar voor dit type edubadges. Neem alsjeblieft contact op met [info@edubadges.nl](mailto:info@edubadges.nl) als je deze foutmelding ziet.
+Hieronder staan de belangrijkste punten over deze edubadges en jouw privacy. In de [volledige versie](https://raw.githubusercontent.com/edubadges/privacy/master/zuyd-hogeschool/edubadges-nonformal-text-nl.md) wordt in detail ingegaan op deze verwerking.
+
+Zuyd Hogeschool is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. Door Microcredentials te introduceren voor professionals kan Leven Lang Ontwikkelen (LLO) een enorme boost krijgen. Als instelling hebben we de ambitie om onderwijs vanuit ons eigen portfolio geschikt te maken voor een Leven lang ontwikkelen. De omvang en waarde van microcredentials maken het aantrekkelijk voor professionals om zich in het hoger onderwijs te specialiseren, bijscholen of omscholen en de verworven competenties naar buiten toe zichtbaar te maken.
+
+Voor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (Zuyd Hogeschool) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [functionarisgegevensbescherming@zuyd.nl](mailto:functionarisgegevensbescherming@zuyd.nl).
+
+Door op 'Ik ga akkoord' te klikken ga je akkoord met de [volledige versie van deze gebruiksvoorwaarden](https://raw.githubusercontent.com/edubadges/privacy/master/zuyd-hogeschool/edubadges-nonformal-text-nl.md).
