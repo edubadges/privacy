@@ -1,46 +1,42 @@
-# Privacy Statement Formal edubadges
-The University of Groningen, located at Broerstraat 5, 9712CP Groningen, wants to handle the personal data of everyone who applies for an edubadge in a careful manner. In this Privacy Statement we inform you about the purposes for which personal data are processed, how you can exercise your privacy rights as well as other information which may be of interest to you. If you have any questions, comments or concerns after reading this privacy statement, please send an email to [privacy@rug.nl](mailto:privacy@rug.nl).
+# Privacy statement regarding Edubadges
 
-This Privacy Statement applies to all activities related to the edubadges in the context of the ENLIGHT program of the University of Groningen, hereinafter referred to as RUG. RUG handles personal data with due care and acts within the limits of the law, the General Data Protection Regulation (GDPR).
+## Introduction
+The University of Groningen (UG) aims to take good care of your personal information. The UG is legally responsible in this respect and takes this responsibility seriously. This privacy statement explains how the UG processes your personal details in light of the provision of edubadges and sets out your rights. This privacy statement is supplementary to the UG’s General Privacy Statement ([link](https://www.rug.nl/about-us/organization/rules-and-regulations/algemeen/regeling-bescherming-persoonsgegevens)). In the event of inconsistency, this privacy statement regarding edubadges takes precedence.
 
-## 1) Introduction of edubadges
-Edubadges can be used to give substance to "lifelong learning" and flexible education within and outside RUG. The purpose of the edubadge is to make the knowledge and skills that you master visible and portable. As a recipient of an edubadge, you can share it with others, for example on social media, in a digital resume, with an educational institution or with a (potential) employer. With SURF's edubadges platform, RUG can create and issue edubadges. You can request and receive edubadges via this platform. There is a distinction between formal and non-formal edubadges. This Privacy Statement applies to formal badges.
+## Contact information of responsible person
+Please contact the UG with your questions and requests at:<br>
+University of Groningen<br>
+Postal address: P.O. Box 72, 9700 AB Groningen<br>
+Email: [privacy@rug.nl](privacy@rug.nl)
 
-## 2) Responsibility
-The RUG is the data controller, as referred to in the GDPR, for requesting and issuing edubadges. RUG believes it is essential that the personal data of its students and employees are handled and secured with the greatest possible care. We also want to be open about how your data is processed by us. That is why we would like to elaborate upon this in this Privacy Statement. We always comply with the requirements set out by the GDPR. If you have any questions about our processing, please contact [privacy@rug.nl](mailto:privacy@rug.nl).
+Any message you send will always be shared with the Data Protection Officer of the UG.
+If your question concerns registration or administration, please contact [ps-sia@rug.nl](ps-sia@rug.nl).
 
-## 3) What Personal data do we process and why do we process it?
-Your Personal data is being processed will be used by RUG to register, generate and issue valid and personal edubadges. The issue of the edubadge by RUG can only be carried out by using your personal data. RUG processes this data on the legal bases of "public interest". The table below includes personal data (with purpose and basis) that are processed by students. To request an edubadge, the institution's account is verified with the eduID. To generate a badge, the eduID is used for identification and validation. A badge is therefore also personal data in itself.
+## Aims and principles of the processing of personal data
+Edubadges can be used to give shape to life-long learning and a higher degree of flexibility in teaching at the University. With an edubadge, you can make the knowledge and skills that you possess visible and transferable. You can display the edubadge on your social media channels or on your digital CV. To facilitate this, the UG works together with SURF, the overarching organization for IT services in higher education. SURF provides a platform for the creation, granting, and retention of edubadges. There is a distinction between formal and informal edubadges. A formal badge shows that you have followed an accredited degree programme or accredited course unit at university, for which you have been granted ECTS credit points. An informal badge shows that you have followed a course, post-academic programme, or other non-accredited programme.
 
-| Personal data	| Processing Goal | Legal basis |
-| ------------- | --------------- | ----------- |
-| First name | To identify the receiver of the edubadge	| Student as data subject: public interest. |
-| Surname | To identify the receiver of the edubadge | Student as data subject: public interest. |
-| Email address | To notify the receiver of the edubadge | Student as data subject: public interest. |
-| Scoped affiliation | Used to obtain all educational institutions associated with the recipient's eduID | Student as data subject: public interest. |
-| Agreement privacy questions | A record is kept of whether the privacy questions have been agreed to | Student as data subject: public interest. |
-| eduID | The eduID is used as a unique identifier in the database and as a pseudonymous identifier in badges | Student as data subject: public interest. |
-| Edubadge and its contents	| To generate and issue the edubadges | Student as data subject: public interest. |
+To be able to award edubadges, the UG processes your personal data. These data are necessary to be able to identify you and to link the edubadge to you. For formal edubadges, the rationale for the processing of data is the UG’s duty in the public interest to provide university-level teaching. For informal edubadges, the rationale lies in the agreements concluded with you through which the teaching is offered to you.
 
-The processing takes place on the basis of the 'public interest'. In the context of this public interest, the following has been considered:
+## Processed personal data
+The UG processes the following personal data of yours:
+* Name and surname
+* Email address
+* EduID
+* Edubadge and its contents
+* Unique identifier to award edubadges directly to a student
 
-The primary task of the RUG is to provide educational activities. In that context, the RUG wants to continue to innovate. The RUG wants to give substance to the principle of lifelong learning and to making education more flexible; two goals set out in the 2021-2026 strategic plan. These goals can be achieved by using edubadges. At the same time, edubadges may qualify as micro-credential in the future. A micro-credential is a qualification that demonstrates learning outcomes acquired through a short, transparently assessed course or module. Within the European Union, the European Commission aims to develop a common definition and European standards for microcredentials, independent of the granting authority, and building as much as possible on existing instruments. The intention to develop a European approach to micro-credentials was announced in, among others, the Digital Education Action Plan (2021-2027).
+## People handling your personal data
+The UG has access to your personal data. On behalf of the UG, SURF B.V. manages the edubadge platform and handles the accompanying service provision. SURF is the processor of the UG and written agreements have thus been made with SURF to safeguard the security and careful handling of your personal data.
 
-Within the ENLIGHT programme, edubadges makes learning outcomes, assessments and certification of educational components more transparent for students the RUG wants to investigate whether edubadges can make education more flexible and accessible. The ENLIGHT program seeks to learn about the requirements for the use of micro-credentials, explore existing and future micro-learning opportunities, develop an educational philosophy for micro-credentials and seek to prepare for the future of higher education.
+## Retention period
+To retain your edubadge, your personal data are stored for an indefinite period. If you no longer need your edubadge, you can report this to the UG by sending an email to privacy@rug.nl. The UG will subsequently stop processing your personal data for the retention of your edubadge.
 
-## 4) With whom do we share your data?
-The RUG has access to all personal data. On behalf of RUG and for the implementation of the agreement, the Edubadge platform provides certain parts of the service. RUG has made agreements with this processor to guarantee confidential and careful handling of personal data. These agreements are contractually laid down in the so-called 'processor agreement'.
+## Your rights
+You have various rights under privacy legislation. You can contact the UG to exercise these rights. Your request will be assessed and processed within one month of receipt. Before a request is processed, we must ensure that it has been submitted by a person authorized to do so and that it is legitimate. This is why you may be asked for your ID before the request is taken into consideration.
 
-## 5) How does RUG ensure confidential handling of personal data?
-RUG applies appropriate security measures to optimally protect your personal data against unauthorized access or use. We report (attempted) abuse. RUG also takes organizational measures to protect personal data against unauthorized access.
+You have the right to request an overview of your personal data that has been processed, including all processing of this data. If you believe that your personal data is incorrect or if you no longer want it to be processed, you can file a request to have your data adjusted or to stop the processing of your data and have it removed. In certain cases, you are also entitled to a copy of your personal data in a usable format. In order to assess and process your request, your personal data will naturally be processed.
 
-## 6) How can you view, correct or delete your data?
-You can send a request to receive a copy of, remove or rectify your personal data to RUG. Please indicate clearly that it concerns an inspection or correction request based on the GDPR. You can contact RUG at [privacy@rug.nl](mailto:privacy@rug.nl) to exercise the following rights:
+In addition to the right to address questions, requests, and complaints to the UG, you have the right to file a complaint with the supervisory authority. In the Netherlands, this is the Autoriteit Persoonsgegevens (Dutch Data Protection Authority).
 
-You can send the data request to RUG at [privacy@rug.nl](mailto:privacy@rug.nl). Please indicate clearly that it concerns a request based on the GDPR. Your data protection rights include the right to access, rectification, erasure, restriction of processing and the right to object to the processing of your data. These rights will be fulfilled insofar as RUG can still meet its legal obligations. It is possible that, during this procedure, you will be asked for proof of identity.
-
-## 7) Questions
-Do you have any specific questions or comments about our Privacy Statement as a result of this information? Please do not hesitate to contact us. You can use the contact form on the website or send a message to [privacy@rug.nl](mailto:privacy@rug.nl). The RUG data protection officer can be reached at [privacy@rug.nl](mailto:privacy@rug.nl). You are also always free to file a complaint with the Dutch Data Protection Authority.
-
-## 8) Changes to this privacy statement
-This privacy statement was last changed on 22 July 2021. RUG reserves the right to, when necessary, make changes to this statement.
+## Changes to this privacy statement
+The UG is authorized to change this privacy statement. Valid reasons for doing so include amendment(s) to laws and regulations or new laws and regulations, changes to the General Privacy Policy of the UG and advances in technology. You will naturally be informed of any changes in good time.
