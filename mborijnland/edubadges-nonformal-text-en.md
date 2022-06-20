@@ -1,6 +1,6 @@
-07-02-2021
+20-06-2022
 
-We are glad that you’re reading the privacy statement of mboRijnland for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email privacy@mborijnland.nl.
+We are glad that you’re reading the privacy statement of mboRijnland for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [privacy@mborijnland.nl](mailto:privacy@mborijnland.nl).
 
 # 1 Introduction
 
@@ -39,10 +39,11 @@ In the table below are the personal data (with purpose and basis) that are proce
 | ------------- | ------- | ----- |
 | eduID	| Pseudonym identifier in edubadge | Legitimate interest |
 | Given name(s) | User identification | Legitimate interest |
-| Surname	| User identification	| Legitimate interest |
+| Surname | User identification | Legitimate interest |
 | Email address	| User Notification	| Legitimate interest |
-| Educational institution | Demarcation of available edubadges |	Legitimate interest |
-| Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |
+| Educational institution | Demarcation of available edubadges | Legitimate interest |
+| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |
+| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |
 
 mboRijnland has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
 
