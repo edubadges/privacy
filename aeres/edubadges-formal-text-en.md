@@ -1,4 +1,4 @@
-01-06-2022
+04-07-2022
 
 We are glad that you’re reading the privacy statement of Stichting Aeres Groep for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [fg@aeres.nl](mailto:fg@aeres.nl).
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-hier tekst met doel Maaike Pamela
+Edubadges, including Microcredentials, are used with the aim of better positioning participants of the refresher courses in the changing labor market. An edubadge helps the participants to make the knowledge and skills they master visible and portable. This can facilitate the transition from education to work and also the switching between education.
 
 The edubadges service is divided into two parts:
 

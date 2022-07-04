@@ -32,7 +32,7 @@ Some examples:
 ## Privacy documentation overview
 | Educational Institution | Formal basis | Nonformal basis | documentation | status |
 | ----------------------- | ------------ | --------------- | ------------- | ------ |
-| Aeres | legitimate interest | legitimate interest | easyprivacydocs | concept |
+| Aeres | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Albeda | contract | contract | easyprivacydocs | done |
 | Avans | legitimate interest | legitimate interest | easyprivacydocs | done |
 | BUas | contract | legitimate interest | easyprivacydocs | done |
@@ -54,7 +54,7 @@ Some examples:
 | Marnix Academie | legitimate interest | legitimate interest | easyprivacydocs | done |
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
 | NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
-| Rijksuniversiteit Groningen | legitimate interest | none | custom | done |
+| Rijksuniversiteit Groningen | public interest | legitimate interest | custom | done |
 | Technische Universiteit Delft | Public interest | Legitimate interest | easyprivacydocs | done |
 | Thomas More Hogeschool | contract | contract | easyprivacydocs | done |
 | Tilburg University | none | contract | easyprivacydocs | done |

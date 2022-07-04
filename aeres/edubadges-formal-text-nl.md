@@ -1,4 +1,4 @@
-01-06-2022
+04-07-2022
 
 Goed dat je de privacyverklaring van Stichting Aeres Groep voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [fg@aeres.nl](mailto:fg@aeres.nl).
 
@@ -10,7 +10,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-hier tekst met doel Maaike Pamela
+Edubadges, waaronder Microcredentials, worden ingezet met als doel deelnemers van de nascholingen beter te positioneren op de veranderende arbeidsmarkt. Een edubadge helpt de deelnemers om kennis en vaardigheden die zij beheersen, zichtbaar en ‘meeneembaar’ te maken. Dit kan het overstappen van opleiding naar werk en ook het switchen tussen opleidingen vergemakkelijken.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
