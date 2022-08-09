@@ -1,3 +1,9 @@
-# edubadges
+# Gebruiksvoorwaarden voor deze edubadge
 
-Er is geen privacydocumentatie beschikbaar voor dit type edubadges. Neem alsjeblieft contact op met [info@edubadges.nl](mailto:info@edubadges.nl) als je deze foutmelding ziet.
+Hieronder staan de belangrijkste punten over deze edubadges en jouw privacy. In de [volledige versie](https://raw.githubusercontent.com/edubadges/privacy/master/tilburg-university/edubadges-formal-text-nl.md) wordt in detail ingegaan op deze verwerking.
+
+Tilburg University is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. TiU geeft op verzoek van TIAS BV tot 01-01-2024 microcredentials uit aan studenten die bij TIAS een vak positief hebben afgerond. TIAS is verantwoordelijk voor de kwaliteit en organisatie van het door haar te verzorgen onderwijs, de examinering van de vakken waarvoor microcredentials worden verstrekt en de eventueel noodzakelijk (wettelijke) accreditatie van dat onderwijs, daaronder ook begrepen de regeling van geschillen met studenten aan wie op verzoek van TIAS een microcredential wordt verstrekt.
+
+Voor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (Tilburg University) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [privacy@tilburguniversity.edu](mailto:privacy@tilburguniversity.edu).
+
+Door op 'Ik ga akkoord' te klikken ga je akkoord met de [volledige versie van deze gebruiksvoorwaarden](https://raw.githubusercontent.com/edubadges/privacy/master/tilburg-university/edubadges-formal-text-nl.md).
