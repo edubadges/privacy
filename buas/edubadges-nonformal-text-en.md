@@ -1,6 +1,6 @@
-16-05-2022
+09-08-2022
 
-We are glad that you’re reading the privacy statement of Breda University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [oever.i@buas](mailto:oever.i@buas).
+We are glad that you’re reading the terms of use of Breda University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [fg@buas](mailto:fg@buas).
 
 # 1 Introduction
 
@@ -40,16 +40,15 @@ In the table below are the personal data (with purpose and basis) that are proce
 
 | Personal data	| Purpose	| Basis |
 | ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Legitimate interest |
-| Given name(s) | User identification | Legitimate interest |
-| Surname | User identification | Legitimate interest |
-| Email address	| User Notification	| Legitimate interest |
-| Educational institution | Demarcation of available edubadges | Legitimate interest |
-| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |
-| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |
+| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |
+| Given name(s) | User identification | Performance of an agreement |
+| Surname | User identification | Performance of an agreement |
+| Email address	| User Notification	| Performance of an agreement |
+| Educational institution | Demarcation of available edubadges | Performance of an agreement |
+| Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |
+| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |
 
-Breda University of Applied Sciences has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
-
+Breda University of Applied Sciences has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.\m
 # 4 Security
 
 Security measures, including the following, have been taken to protect personal data:
@@ -81,8 +80,4 @@ You have the following rights with regard to your own personal data:
 
 However, if you and Breda University of Applied Sciences disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
-To exercise these rights, please contact [oever.i@buas](mailto:oever.i@buas).
-
-# 6 Amendments to the privacy statement
-
-We may amend this privacy statement from time to time. We therefore advise you to consult our privacy statement regularly.
+To exercise these rights, please contact [fg@buas](mailto:fg@buas).

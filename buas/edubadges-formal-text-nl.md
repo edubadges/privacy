@@ -1,7 +1,7 @@
-16-05-2022
+09-08-2022
 
 
-Goed dat je de gebruiksvoorwaarden van Breda University of Applied Sciences voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [oever.i@buas](mailto:oever.i@buas).
+Goed dat je de gebruiksvoorwaarden van Breda University of Applied Sciences voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [fg@buas](mailto:fg@buas).
 
 # 1 Wat zijn edubadges
 
@@ -83,4 +83,4 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij de Autoriteit Persoonsgegevens.
 * Als jij en Breda University of Applied Sciences er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [oever.i@buas](mailto:oever.i@buas).
+Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [fg@buas](mailto:fg@buas).

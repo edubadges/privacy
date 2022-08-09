@@ -35,7 +35,7 @@ Some examples:
 | Aeres | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Albeda | contract | contract | easyprivacydocs | done |
 | Avans | legitimate interest | legitimate interest | easyprivacydocs | done |
-| BUas | contract | legitimate interest | easyprivacydocs | done |
+| BUas | contract | contract | easyprivacydocs | done |
 | Deltion College | none | contract | easyprivacydocs | done |
 | Erasmus Universiteit Rotterdam | none | legitimate interest | custom | done |
 | Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
@@ -55,9 +55,10 @@ Some examples:
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
 | NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Rijksuniversiteit Groningen | public interest | legitimate interest | custom | done |
-| Technische Universiteit Delft | Public interest | Legitimate interest | easyprivacydocs | done |
+| Technische Universiteit Delft | Public interest | legitimate interest | easyprivacydocs | done |
+| Technische Universiteit Eindhoven | public interest | legitimate interest | easyprivacydocs | done |
 | Thomas More Hogeschool | contract | contract | easyprivacydocs | done |
-| Tilburg University | none | contract | easyprivacydocs | done |
+| Tilburg University | contract | contract | easyprivacydocs | done |
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
 | VISTA College | contract | contract | easyprivacydocs | done |

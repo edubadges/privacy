@@ -1,6 +1,6 @@
-16-05-2022
+09-08-2022
 
-We are glad that you’re reading the terms of use of Breda University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [oever.i@buas](mailto:oever.i@buas).
+We are glad that you’re reading the terms of use of Breda University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [fg@buas](mailto:fg@buas).
 
 # 1 Introduction
 
@@ -81,4 +81,4 @@ You have the following rights with regard to your own personal data:
 
 However, if you and Breda University of Applied Sciences disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
-To exercise these rights, please contact [oever.i@buas](mailto:oever.i@buas).
+To exercise these rights, please contact [fg@buas](mailto:fg@buas).

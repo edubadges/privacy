@@ -7,6 +7,6 @@ Breda University of Applied Sciences is de verwerkingsverantwoordelijke en SURF 
 * Medewerkers: edubadges in het kader van professionalisering van BUas medewerkers op diverse domeinen zoals didaktiek, digtale geletterdheid en meer.
 * Professionals: BUas wil experimenteren met edubadges voor microcredentials om tot een afgewogen advies voor een badgestrategie richting professionals te komens in het kader van het Leven Lang Ontwikkelen (LLO).
 
-Voor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (Breda University of Applied Sciences) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [oever.i@buas](mailto:oever.i@buas).
+Voor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (Breda University of Applied Sciences) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [fg@buas](mailto:fg@buas).
 
 Door op 'Ik ga akkoord' te klikken ga je akkoord met de [volledige versie van deze gebruiksvoorwaarden](https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-formal-text-nl.md).
