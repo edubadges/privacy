@@ -56,7 +56,7 @@ Some examples:
 | NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Rijksuniversiteit Groningen | public interest | legitimate interest | custom | done |
 | Technische Universiteit Delft | Public interest | legitimate interest | easyprivacydocs | done |
-| Technische Universiteit Eindhoven | public interest | legitimate interest | easyprivacydocs | done |
+| Technische Universiteit Eindhoven | public interest | legitimate interest | custom | done |
 | Thomas More Hogeschool | contract | contract | easyprivacydocs | done |
 | Tilburg University | contract | contract | easyprivacydocs | done |
 | Universiteit Twente | contract | legitimate interest | custom | done |
