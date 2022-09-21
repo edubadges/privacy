@@ -1,11 +1,9 @@
-# Gebruiksvoorwaarden bij deze edubadge
+# edubadges en jouw privacy
 
-Hieronder staan de belangrijkste punten over deze edubadges en jouw privacy. De volledige versie van de edubadges overeenkomst en de privacyverklaring van de Hanzehogeschool is onder deze tekst te vinden. 
+Hieronder staan de belangrijkste punten over deze edubadges en jouw privacy. In de [volledige versie](https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-text-nl.md) wordt in detail ingegaan op deze verwerking.
 
-De Hanzehogeschool is de verwerkingsverantwoordelijke voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. Als student ontvang je edubadges als onderdeel van het totale Honours certificaat voor het Honours talentprogramma, zodat je kunt aantonen dat je delen van dit Honours talentprogramma hebt behaald. Daarnaast ontvangen studenten die een (Kies op Maat) minor hebben afgerond een edubadge.
+Hanzehogeschool is de verwerkingsverantwoordelijke en SURF is de verwerker voor het uitgeven van edubadges. Voor het functioneren van het edubadgesplatform is het noodzakelijk om persoonsgegevens te verwerken. De studenten ontvangen edubadges als onderdeel van het totale Honours certificaat voor het Honours talentprogramma zodat ze kunnen aantonen dat ze delen van dit Honours talentprogramma hebben behaald. Daarnaast ontvangen studenten die een (Kies op Maat) minor hebben afgerond een edubadge.
 
-* De Hanzehogeschool maakt gebruik van persoonsgegevens voor het uitgeven van een edubadge: voornaam, achternaam en e-mailadres.
-* Een edubadge bevat je eduID, die je via SURF kunt aanmaken. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (Hanzehogeschool) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst.
-* Met vragen over de privacy rondom edubadges kun je contact opnemen met [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl).
+Voor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (Hanzehogeschool) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [ict-security@org.hanze.nl](mailto:ict-security@org.hanze.nl).
 
-Door op ‘Ik ga akkoord’ te klikken, ga je akkoord met de [volledige Gebruiksvoorwaarden bij deze edubadge](https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-terms-nl.md). Voor meer informatie kun je ook onze [privacyverklaring](https\www.hanze.nl\nld\organisatie\hanzehogeschool\privacyverklaring-hanzehogeschool-groningen).
+Door op 'Ik heb dit gelezen' te klikken verklaar je de [volledige privacyverklaring](https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-text-nl.md) gelezen te hebben.
