@@ -1,6 +1,6 @@
-14-06-2021
+28-02-2023
 
-We are glad that you’re reading the privacy statement of Utrecht University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [askprivacy@hu.nl](mailto:askprivacy@hu.nl).
+We are glad that you’re reading the privacy statement of University of applied sciences Utrecht for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [askprivacy@hu.nl](mailto:askprivacy@hu.nl).
 
 # 1 Introduction
 
@@ -23,7 +23,7 @@ The edubadges service is divided into two parts:
   * Creating an edubadge
   * Issuing an edubadge
 
-For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), Utrecht University of Applied Sciences is the controller and SURF is the processor. This privacy statement relates primarily to the processing by Utrecht University of Applied Sciences.
+For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), University of applied sciences Utrecht is the controller and SURF is the processor. This privacy statement relates primarily to the processing by University of applied sciences Utrecht.
 
 # 3 Personal data
 
@@ -39,21 +39,13 @@ In the table below are the personal data (with purpose and basis) that are proce
 | ------------- | ------- | ----- |
 | eduID	| Pseudonym identifier in edubadge | Legitimate interest |
 | Given name(s) | User identification | Legitimate interest |
-| Surname	| User identification	| Legitimate interest |
+| Surname | User identification | Legitimate interest |
 | Email address	| User Notification	| Legitimate interest |
-| Educational institution | Demarcation of available edubadges |	Legitimate interest |
-| Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |
+| Educational institution | Demarcation of available edubadges | Legitimate interest |
+| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |
+| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |
 
-Utrecht University of Applied Sciences has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
-
-## Explanation lawful basis legitimate interest
-The processing takes place on the basis of legitimate interest. In this context, the following has been considered:
-
-Hogeschool Utrecht would like to innovate and interpret education and the appreciation of student performance in various ways. We would like to do this by issuing edubadges. In order to login and to issue the edubadges, we must process a number of personal data about you, such as your contact details, information about your performance and the edubadge itself.
-
-We have considered whether the purpose of the edubadges outweighs the use of your personal data. We believe that this is indeed the case; by using edubadges we can value your educational performance in a specific way and this also benefits your study career and development.
-
-In case you do not want us to use your personal data for this, you can opt out of participating in EduBadges.
+University of applied sciences Utrecht has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
 
 # 4 Security
 
@@ -84,7 +76,7 @@ You have the following rights with regard to your own personal data:
 * You may request an export of the data we process on you, in a structured and common format, and you have the right to portability of this data to another service provider.
 * If you believe that we have not handled your personal data properly, you may submit a complaint.
 
-However, if you and Utrecht University of Applied Sciences disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
+However, if you and University of applied sciences Utrecht disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
 To exercise these rights, please contact [askprivacy@hu.nl](mailto:askprivacy@hu.nl).
 

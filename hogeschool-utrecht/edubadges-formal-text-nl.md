@@ -1,4 +1,4 @@
-14-06-2021
+28-02-2023
 
 Goed dat je de privacyverklaring van Hogeschool Utrecht voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [askprivacy@hu.nl](mailto:askprivacy@hu.nl).
 
@@ -44,14 +44,10 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |
 | E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
 | Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
 
 Hogeschool Utrecht heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
-
-## Uitleg grondslag gerechtvaardigd belang
-De verwerking vindt plaats op grond van de grondslag gerechtvaardigd belang. In het kader van dit gerechtvaardigde belang is het volgende overwogen:
-
-Hogeschool Utrecht wil graag innoveren en op verschillende manieren invulling geven aan het onderwijs en het waarderen van prestaties van studenten. Dit willen we graag doen door het uitgeven van Edubadges. Om in te loggen en om de edubadges uit te reiken moeten we wel een aantal persoonsgegevens van jou verwerken, zoals je contactgegevens, je prestaties en de edubadge zelf. We hebben hierbij de afweging gemaakt of het doel van de edubadges opweegt tegen het gebruik van jouw persoonsgegevens. Wij vinden dat dit inderdaad zo is; door het gebruik van edubadges kunnen we jouw onderwijsprestaties op een specifieke manier waarderen en komt dit ook ten goede aan jouw studieloopbaan en ontwikkeling. Mocht je niet willen dat wij jouw persoonsgegevens hiervoor gebruiken, dan kun je afzien van het deelnemen aan edubadges.
 
 # 4 Beveiliging
 
@@ -80,7 +76,7 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt bezwaar maken tegen verwerking van je gegevens, als we je gegevens verwerken op basis van een eigen gerechtvaardigd belang of op basis van de uitvoering van een taak van algemeen belang.
 * Je kunt een verzoek indienen tot beperking van de verwerking van je gegevens ten aanzien van de verwerking van gegevens waartegen je bezwaar hebt gemaakt, die je onrechtmatig acht, waarvan je de juistheid van de persoonsgegevens hebt betwist of wanneer we de persoonsgegevens niet meer nodig hebben, maar je ze nodig hebt in het kader van een rechtsvordering.
 * Je kunt een overzicht, in een gestructureerde en gangbare vorm opvragen van de gegevens die we van jou verwerken en je hebt het recht op overdraagbaarheid van deze gegevens naar een andere dienstverlener.
-* Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
+* Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij de Autoriteit Persoonsgegevens.
 * Als jij en Hogeschool Utrecht er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
 Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [askprivacy@hu.nl](mailto:askprivacy@hu.nl).

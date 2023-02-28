@@ -46,7 +46,7 @@ Some examples:
 | Hogeschool Inholland | legitimate interest | legitimate interest | custom | done |
 | Hogeschool IPABO | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Hogeschool Rotterdam | | | custom | done |
-| Hogeschool Utrecht | legitimate interest | legitimate interest| custom | done |
+| Hogeschool Utrecht | legitimate interest | legitimate interest| easyprivacydocs | done |
 | Hogeschool van Amsterdam | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Hogeschool Saxion | contract | contract | easyprivacydocs | done |
 | Hotelschool The Hague | contract | legitimate interest | easyprivacydocs | done |
