@@ -1,4 +1,4 @@
-19-09-2022
+29-03-2023
 
 
 Goed dat je de gebruiksvoorwaarden van Stichting Hogeschool Leiden voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [loket.privacy@hsleiden.nl](mailto:loket.privacy@hsleiden.nl).
