@@ -1,10 +1,10 @@
 # Privacyverklaring edubadges
-`Versie 1.1 – 29 september 2020`
+`Versie 1.2 – 1 juni 2023`
 
 Goed dat je de privacyverklaring van de SURF-dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [support@edubadges.nl](mailto:support@edubadges.nl) of neem contact op met je eigen onderwijsinstelling.
 
 ## 1 Over SURF
-Wij zijn SURFnet B.V. (“SURF”), gevestigd aan het Moreelsepark 48, 3511 EP Utrecht. We zijn te bereiken via `+31-887873000`. SURFnet is onderdeel van de coöperatie SURF, de ICT-samenwerkingsorganisatie van het onderwijs en onderzoek in Nederland. In de coöperatie SURF werken de Nederlandse universiteiten, hogescholen, universitaire medische centra, onderzoeksinstellingen en mbo-instellingen samen aan ICT-innovatie. [Meer over de SURF coöperatie](https://surf.nl/over-surf/cooperatie-surf).
+Wij zijn SURF B.V. (“SURF”), gevestigd aan het Moreelsepark 48, 3511 EP Utrecht. We zijn te bereiken via `+31-887873000`. SURFnet is onderdeel van de coöperatie SURF, de ICT-samenwerkingsorganisatie van het onderwijs en onderzoek in Nederland. In de coöperatie SURF werken de Nederlandse universiteiten, hogescholen, universitaire medische centra, onderzoeksinstellingen en mbo-instellingen samen aan ICT-innovatie. [Meer over de SURF coöperatie](https://surf.nl/over-surf/cooperatie-surf).
 
 ## 2 Introductie edubadges
 Een edubadge is een digitaal insigne (afbeelding), dat aantoont dat de ontvanger over bepaalde kennis of vaardigheden beschikt. De ontvanger van een edubadge kan deze delen met anderen, bijvoorbeeld op sociale media, een digitaal cv, een onderwijsinstelling of met een (potentiële) werkgever.
@@ -31,26 +31,43 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 
 | Instelling | Contactgegevens |
 | ---------- | --------------- |
+| Aeres Groep | fg@aeres.nl |
 | Albeda | fg@albeda.nl |
 | Avans Hogeschool | privacy@avans.nl |
+| Breda University of Applied Sciences | fg@buas.nl |
 | Deltion | 3333@deltion.nl |
 | Erasmus Universiteit Rotterdam | edubadges@eur.nl |
 | Fontys | isp-office@fontys.nl |
+| De Haagse Hogeschool | privacy@hhs.nl |
 | HAN University of Applied Sciences | privacy@han.nl |
 | Hanzehogeschool Groningen | ict-security@org.hanze.nl |
+| HAS Hogeschool | privacy@has.nl |
+| Hogeschool Inholland | functionarisgegevensbescherming@inholland.nl |
+| Hogeschool IPABO | f.kool@ipabo.nl |
+| Hogeschool Leiden | loket.privacy@hsleiden.nl |
+| Hogeschool Rotterdam | privacy@hr.nl |
 | Hogeschool Saxion | functionarisgegevensbescherming@saxion.nl |
 | Hogeschool Utrecht | askprivacy@hu.nl |
+| Hogeschool van Amsterdam | functionarisgegevensbescherming@hva.nl |
+| Hotelschool The Hague | l.m.bal@hotelschool.nl |
 | Maastricht University | privacy@maastrichtuniversity.nl |
+| Marnix Academie | fg@hsmarnix.nl |
 | mboRijnland | privacy@mborijnland.nl |
 | NHL Stenden Hogeschool | privacy-and-security@nhlstenden.com |
+| Radboud Universiteit | mijnprivacy@ru.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
-| Rotterdam University of Applied Sciences | privacy@hr.nl |
+| Technische Universiteit Delft | privacy-tud@tudelft.nl |
+| Technische Universiteit Eindhoven | privacy@tue.nl |
+| Thomas More Hogeschool | ibp@thomasmorehs.nl |
 | Tilburg University | privacy@tilburguniversity.edu |
-| University of Twente | dpo@utwente.nl |
+| Universiteit Twente | dpo@utwente.nl |
 | Universiteit Utrecht | privacy@uu.nl |
+| Universiteit van Amsterdam | avg@uva.nl |
 | VISTA college | ibp@vistacollege.nl |
 | Vrije Universiteit Amsterdam | functionarisgegevensbescherming@vu.nl |
 | Wageningen University & Research | privacy@wur.nl |
+| Windesheim | fg@windesheim.nl |
+| Zuyd Hogeschool | functionarisgegevensbescherming@zuyd.nl |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).
 
