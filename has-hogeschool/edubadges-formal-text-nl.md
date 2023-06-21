@@ -1,4 +1,4 @@
-08-02-2022
+22-06-2023
 
 
 Goed dat je de gebruiksvoorwaarden van HAS Hogeschool voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [privacy@has.nl](mailto:privacy@has.nl).
@@ -45,6 +45,7 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |
 | E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
 | Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
 
 HAS Hogeschool heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
