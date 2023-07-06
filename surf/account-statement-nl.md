@@ -49,6 +49,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Hogeschool Saxion | functionarisgegevensbescherming@saxion.nl |
 | Hogeschool Utrecht | askprivacy@hu.nl |
 | Hogeschool van Amsterdam | functionarisgegevensbescherming@hva.nl |
+| Hogeschool Van Hall Larenstein | privacy@hvhl.nl |
 | Hotelschool The Hague | l.m.bal@hotelschool.nl |
 | Maastricht University | privacy@maastrichtuniversity.nl |
 | Marnix Academie | fg@hsmarnix.nl |

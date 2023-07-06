@@ -45,10 +45,11 @@ Some examples:
 | HAS Hogeschool | contract | contract | easyprivacydocs | done |
 | Hogeschool Inholland | legitimate interest | legitimate interest | custom | done |
 | Hogeschool IPABO | legitimate interest | legitimate interest | easyprivacydocs | done |
-| Hogeschool leiden | contract | contract | easyprivacydocs | done |
+| Hogeschool Leiden | contract | contract | easyprivacydocs | done |
 | Hogeschool Rotterdam | | | custom | done |
 | Hogeschool Utrecht | legitimate interest | legitimate interest| easyprivacydocs | done |
 | Hogeschool van Amsterdam | legitimate interest | legitimate interest | easyprivacydocs | done |
+| Hogeschool van Hall Larenstein | contract | none | easyprivacydocs | done |
 | Hogeschool Saxion | contract | contract | easyprivacydocs | done |
 | Hotelschool The Hague | contract | legitimate interest | easyprivacydocs | done |
 | Maastricht University | none | legitimate interest | custom | done |
