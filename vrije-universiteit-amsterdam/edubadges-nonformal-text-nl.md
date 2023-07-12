@@ -29,12 +29,15 @@ Voor het uitgeven van edubadges (2) en de bijbehorende gegevensverwerkingen is d
 
 Wij verwerken de volgende persoonsgegevens van u:
 
-1. eduID, de pseudonieme identifier in edubadge
-2. Naam
-3. E-mailadres	
-4. Onderwijsinstelling
-5. Of je akkoord bent gegaan met de gebruiksvoorwaarden
-6. De edubadge
+| Persoonsgegeven | Doel |
+| --------------- | ---- |
+| eduID | Pseudonieme identifier in edubadge |
+| Voornaam | Identificatie van gebruiker |
+| Achternaam | Identificatie van gebruiker |
+| E-mailadres | Notificeren van gebruiker |
+| Onderwijsinstelling | Afbakening beschikbare edubadges |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen |
+| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden |
 
 # 3 Met welk doel worden mijn persoonsgegevens verwerkt en op basis van welke wettelijke grondslag?
 

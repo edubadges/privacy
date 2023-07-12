@@ -29,12 +29,15 @@ The VU Foundation is responsible for issuing edubadges (2) and the associated da
 
 We process the following personal data of yours:
 
-1. eduID, the pseudonymous identifier in edubadge
-2. Name
-3. E-mail address
-4. Educational institution
-5. Whether you have agreed to the terms of use
-6. The edubadge
+| Personal data	| Purpose	|
+| ------------- | ------- |
+| eduID	| Pseudonym identifier in edubadge |
+| Given name(s) | User identification |
+| Surname | User identification |
+| Email address	| User Notification	|
+| Educational institution | Demarcation of available edubadges |
+| Unique identifier | Make it possible to award edubadges directly to the student |
+| Privacy interaction | Whether the privacy statement has been read |
 
 # 3 For what purpose are my personal data processed and on what legal basis?
 
