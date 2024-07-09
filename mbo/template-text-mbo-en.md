@@ -42,6 +42,9 @@ In the table below are the personal data (with purpose and basis) that are proce
 | Surname | User identification | Performance of an agreement |
 | Email address	| User Notification	| Performance of an agreement |
 | Educational institution | Demarcation of available edubadges | Performance of an agreement |
+| Education (code) | Linking edubadges to education | Performance of an agreement |
+| Grade | Showing the grade in the edubadge (optional to use for the educational institution) | Performance of an agreement |
+| Date of obtaining the edubadge | Showing the date on which the edubadge was obtained | Performance of an agreement |
 | Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |
 | Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |
 

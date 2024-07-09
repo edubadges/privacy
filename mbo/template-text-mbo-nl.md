@@ -15,7 +15,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 De edubadgesservice is onderverdeeld in twee delen:
 
 * Account/backpack (1):
-  *	Aanmaken en in stand houden van een account
+  * Aanmaken en in stand houden van een account
   * Opslaan van edubadges in een backpack
   * Valideren van edubadges
 * Uitgeven van edubadges (2):
@@ -42,6 +42,9 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |
 | E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
 | Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Uitvoering overeenkomst |
+| Cijfer | Tonen van cijfer in edubadge (optioneel door onderwijsinstelling toe te voegen) | Uitvoering overeenkomst |
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Uitvoering overeenkomst
 | Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
 
@@ -77,4 +80,4 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
 * Als jij en Naam onderwijsinstelling er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Om deze rechten uit te kunnen oefenen, kun je contact opnemen <INSTITUTION_PRIVACY_CONTACT>. 
+Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [<INSTITUTION_PRIVACY_CONTACT>](mailto:<INSTITUTION_PRIVACY_CONTACT>). 
