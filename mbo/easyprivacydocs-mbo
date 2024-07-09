@@ -1,0 +1,339 @@
+#!/bin/sh
+
+################################################################################
+# Version 1.0.0-RELEASE (09-07-2024)
+################################################################################
+
+################################################################################
+# SPDX-License-Identifier: Apache-2.0
+#
+# Copyright 2020 SURF B.V. All rights reserved.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+################################################################################
+
+################################################################################
+# EasyPrivacyDocs mbo edition generates institution privacy documentation for
+# mbo institutions on edubadges.nl.
+#
+# Contact:
+# > E-mail      sebas.veeke@surf.nl
+# > Website     https://surf.nl
+# > Codeberg    https://github.com/edubadges/privacy
+################################################################################
+
+#############################################################################
+# PROGRAM VARIABLES
+#############################################################################
+
+# version and date
+EASYPRIVACYDOCS_VERSION='1.0.0'
+EASYPRIVACYDOCS_VERSION_DATE='09-07-2024'
+EASYPRIVACYDOCS_CURRENT_DATE="$(date +%d-%m-%Y)"
+
+# template input locations
+EDUBADGES_TEMPLATE_LOCATION_FORMAL_EXCERPT_NL="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-excerpt-mbo-nl.md"
+EDUBADGES_TEMPLATE_LOCATION_FORMAL_EXCERPT_EN="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-excerpt-mbo-en.md"
+EDUBADGES_TEMPLATE_LOCATION_FORMAL_TEXT_NL="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-text-mbo-nl.md"
+EDUBADGES_TEMPLATE_LOCATION_FORMAL_TEXT_EN="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-text-mbo-en.md"
+EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_EXCERPT_NL="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-excerpt-mbo-nl.md"
+EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_EXCERPT_EN="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-excerpt-mbo-en.md"
+EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_TEXT_NL="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-text-mbo-nl.md"
+EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_TEXT_EN="https://raw.githubusercontent.com/edubadges/privacy/master/mbo/template-text-mbo-en.md"
+
+# template file names
+EDUBADGES_TEMPLATE_FORMAL_EXCERPT_NL="template-formal-excerpt-mbo-nl.md"
+EDUBADGES_TEMPLATE_FORMAL_EXCERPT_EN="template-formal-excerpt-mbo-en.md"
+EDUBADGES_TEMPLATE_FORMAL_TEXT_NL="template-formal-text-mbo-nl.md"
+EDUBADGES_TEMPLATE_FORMAL_TEXT_EN="template-formal-text-mbo-en.md"
+EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_NL="template-nonformal-excerpt-mbo-nl.md"
+EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN="template-nonformal-excerpt-mbo-en.md"
+EDUBADGES_TEMPLATE_NONFORMAL_TEXT_NL="template-nonformal-text-mbo-nl.md"
+EDUBADGES_TEMPLATE_NONFORMAL_TEXT_EN="template-nonformal-text-mbo-en.md"
+
+# EasyPrivacyDocs mbo edition needs the following information:
+# 1) Formal institution name in Dutch (INSTITUTION_NAME_NL)
+# 2) Formal institution name in English (INSTITUTION_NAME_EN)
+# 3) Privacy email address (INSTITUTION_PRIVACY_CONTACT)
+# 4) Institution directory name without spaces on git (INSTITUTION_DIRECTORY)
+# in a comma seperated text file where every institution starts on a newline. Example:
+# Mbo School Saaxumhuizen,Saaxumhuizen MBO School,privacy@mbosaaxumhuizen.nl,mbo-school-saaxumhuizen
+EASYPRIVACYDOCS_INPUT_FILE='mbo.csv'
+
+# institution privacy text output file names
+EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL="edubadges-formal-excerpt-nl.md"
+EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN="edubadges-formal-excerpt-en.md"
+EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL="edubadges-formal-text-nl.md"
+EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN="edubadges-formal-text-en.md"
+EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL="edubadges-nonformal-excerpt-nl.md"
+EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN="edubadges-nonformal-excerpt-en.md"
+EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL="edubadges-nonformal-text-nl.md"
+EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN="edubadges-nonformal-text-en.md"
+
+# commands
+CURL="$(command -v curl)"
+
+####################################################################################################
+# ARGUMENT HANDLING
+####################################################################################################
+
+# populate validation variables with zeros for validation
+ARGUMENT_VERSION='0'
+ARGUMENT_HELP='0'
+ARGUMENT_CHECK='0'
+ARGUMENT_TEMPLATES='0'
+ARGUMENT_GENERATE='0'
+
+# read arguments
+while test -n "$1"; do
+    case "$1" in
+        # options
+        --version|-version|version|--v|-v)
+            ARGUMENT_VERSION='1'
+            shift
+            ;;
+
+        --help|-help|help|--h|-h)
+            ARGUMENT_HELP='1'
+            shift
+            ;;
+        
+        --check|-check|check|--c|-c)
+            ARGUMENT_CHECK='1'
+            shift
+            ;;
+
+        --template|-template|template|--t|-t)
+            ARGUMENT_TEMPLATE='1'
+            shift
+            ;;
+
+        # features
+        --generate|-generate|generate|--g|-g)
+            ARGUMENT_GENERATE='1'
+            shift
+            ;;
+
+        # other
+        *)
+            ARGUMENT_NONE='1'
+            shift
+            ;;
+    esac
+done
+
+####################################################################################################
+# ERROR FUNCTIONS
+####################################################################################################
+
+program_error() {
+    printf "easyprivacydocs: error: %s %s %s\n" "${1}" "${2}" "${3}"
+    exit 1
+}
+
+####################################################################################################
+# REQUIREMENT AND VALIDATION FUNCTIONS
+####################################################################################################
+
+requirement_curl() {
+    # show error if curl cannot be found (which probably means the user has not installed curl)
+    if [ ! "$(command -v ${CURL})" ]; then
+        program_error 'curl is not installed'
+    fi
+}
+
+validation_argument() {
+    # populate validation variables with zeros for validation
+    ARGUMENT_OPTIONS_COMBINED='0'
+    ARGUMENT_FEATURES_COMBINED='0'
+    # combine argument categories
+    ARGUMENT_OPTIONS_COMBINED="$((ARGUMENT_VERSION + ARGUMENT_HELP + ARGUMENT_CHECK))"
+    ARGUMENT_FEATURES_COMBINED="$((ARGUMENT_TEMPLATE + ARGUMENT_GENERATE))"
+    # show error if a unsupported argument is used    
+    if [ "${ARGUMENT_NONE}" = '1' ]; then
+        program_error 'invalid argument used'
+    # validate amount of selected options and return error if more than 1 option is used
+    elif [ "${ARGUMENT_OPTIONS_COMBINED}" -gt '1' ]; then
+        program_error 'only one easyprivacydocs option can be used at a time'
+    # validate amount of selected features and return error if more than 1 feature is used
+    elif [ "${ARGUMENT_FEATURES_COMBINED}" -gt '1' ]; then
+        program_error 'only one easyprivacydocs feature can be used at a time'
+    # validate whether a option and feature are used at the same time and return error if this is the case
+    elif [ "${ARGUMENT_OPTIONS_COMBINED}" -ge '1' ] && [ "${ARGUMENT_FEATURES_COMBINED}" -ge '1' ]; then
+        program_error 'options and features cannot be used at the same time'
+    fi
+}
+
+####################################################################################################
+# GENERAL FUNCTIONS
+####################################################################################################
+
+option_version() {
+    printf "EasyPrivacyDocs %s (%s)\n" "${EASYPRIVACYDOCS_VERSION}" "${EASYPRIVACYDOCS_VERSION_DATE}"
+    printf "Copyright (C) 2020 SURF B.V. All rights reserved.\n"
+    printf "SPDX-License-Identifier: Apache-2.0.\n"
+    exit 0
+}
+
+option_help() {
+    printf "Usage:\n"
+    printf " easyprivacydocs [feature]...\n"
+    printf " easyprivacydocs [option]...\n\n"
+    printf "Features:\n"
+    printf " --template             Downloads available templates to the current directory\n"
+    printf " --generate            	Checks mbo institution list for validity and generates privacy documentation\n\n"
+    printf "Options:\n"
+    printf " --check                Checks mbo institution list for validity\n"
+    printf " --help                 Display this help and exit\n"
+    printf " --version              Display version information and exit\n"
+    exit 0
+}
+
+option_check() {
+    printf "work in progress\n"
+    exit 0
+}
+
+################################################################################
+# PRIVACY TEXT GENERATION
+################################################################################
+
+feature_template() {
+    # make sure curl is available
+    requirement_curl
+    # download templates
+    printf "Downloading privacy templates\n"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_NL}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_FORMAL_EXCERPT_NL}" > "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_NL}"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_EN}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_FORMAL_EXCERPT_EN}" > "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_EN}"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_FORMAL_TEXT_NL}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_FORMAL_TEXT_NL}" > "${EDUBADGES_TEMPLATE_FORMAL_TEXT_NL}"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_FORMAL_TEXT_EN}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_FORMAL_TEXT_EN}" > "${EDUBADGES_TEMPLATE_FORMAL_TEXT_EN}"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_NL}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_EXCERPT_NL}" > "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_NL}"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_EXCERPT_EN}" > "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN}"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_FORMAL_TEXT_NL}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_TEXT_NL}" > "${EDUBADGES_TEMPLATE_NONFORMAL_TEXT_NL}"
+    printf "  -- %s\n" "${EDUBADGES_TEMPLATE_FORMAL_TEXT_EN}"
+    "${CURL}" --silent --show-error "${EDUBADGES_TEMPLATE_LOCATION_NONFORMAL_TEXT_EN}" > "${EDUBADGES_TEMPLATE_NONFORMAL_TEXT_EN}"
+    
+    # check whether files were downloaded (work in progress)
+    #if [ -f "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_NL}" ]; then
+}
+
+feature_generate() {
+    # abort when there is no input file
+    printf "Checking whether input file exists\n"
+    if [ -f "${EASYPRIVACYDOCS_INPUT_FILE}" ]; then
+        printf "  > Input file %s exists!\n" "${EASYPRIVACYDOCS_INPUT_FILE}"
+    else
+        program_error "Cannot find input file ${EASYPRIVACYDOCS_INPUT_FILE}"
+    fi
+    printf "\nGenerating privacy documents\n"
+    while read -r line; do
+        # put comma seperated values in variables
+        INSTITUTION_NAME_NL="$(echo ${line} | awk -F',' '{print $1;}')"
+        INSTITUTION_NAME_EN="$(echo ${line} | awk -F',' '{print $2;}')"
+        INSTITUTION_PRIVACY_CONTACT="$(echo ${line} | awk -F',' '{print $3;}')"
+        INSTITUTION_DIRECTORY="$(echo ${line} | awk -F',' '{print $4;}')"
+        printf "  %s\n" "${INSTITUTION_NAME_NL}"
+        # create institution directory
+        printf "    > Creating institution directory %s\n" "${INSTITUTION_DIRECTORY}"
+        mkdir -p "${INSTITUTION_DIRECTORY}"
+        # copy templates to institution directory
+        printf "    > Copy templates to %s\n" "${INSTITUTION_DIRECTORY}"        
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"
+        cp "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"        
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"
+        cp "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"        
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"
+        cp "${EDUBADGES_TEMPLATE_FORMAL_TEXT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"        
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
+        cp "${EDUBADGES_TEMPLATE_FORMAL_TEXT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"
+        cp "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"        
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"
+        cp "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"        
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
+        cp "${EDUBADGES_TEMPLATE_NONFORMAL_TEXT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"       
+        printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
+        cp "${EDUBADGES_TEMPLATE_NONFORMAL_TEXT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
+
+        # customize templates to institution specific variables
+        printf "    > Customizing templates to institution data\n"
+        printf "      - Changing institution name (NL) to %s\n" "${INSTITUTION_NAME_NL}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
+        sed -i "s/<INSTITUTION_NAME_NL>/${INSTITUTION_NAME_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
+        printf "      - Changing institution name (EN) to %s\n" "${INSTITUTION_NAME_EN}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
+        sed -i "s/<INSTITUTION_NAME_EN>/${INSTITUTION_NAME_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
+        printf "      - Changing institution privacy contact to %s\n" "${INSTITUTION_PRIVACY_CONTACT}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
+        sed -i "s/<INSTITUTION_PRIVACY_CONTACT>/${INSTITUTION_PRIVACY_CONTACT}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
+        printf "    > Done with %s\n\n" "${INSTITUTION_NAME_NL}"
+    done < ${EASYPRIVACYDOCS_INPUT_FILE}
+    printf "All done! \\o/\n"
+}
+
+####################################################################################################
+# MAIN FUNCTIONS
+####################################################################################################
+
+easyprivacydocs_main() {
+    # check program requirements
+    validation_argument
+
+    # direct easyprivacydocs to the right function
+    if [ "${ARGUMENT_TEMPLATE}" = '1' ]; then
+        feature_template
+    elif [ "${ARGUMENT_GENERATE}" = '1' ]; then
+        feature_generate
+    elif [ "${ARGUMENT_CHECK}" = '1' ]; then
+        option_check
+    elif [ "${ARGUMENT_VERSION}" = '1' ]; then
+        option_version
+    elif [ "${ARGUMENT_HELP}" = '1' ]; then
+        option_help
+    # show help when no arguments are given
+    else
+        ARGUMENT_HELP='1'
+        option_help
+    fi
+}
+
+####################################################################################################
+# CALL MAIN FUNCTIONS
+####################################################################################################
+
+easyprivacydocs_main
