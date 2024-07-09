@@ -44,7 +44,7 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
 | Opleiding(scode) | Koppelen van edubadges aan opleidingen | Uitvoering overeenkomst |
 | Cijfer | Tonen van cijfer in edubadge (optioneel door onderwijsinstelling toe te voegen) | Uitvoering overeenkomst |
-| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Uitvoering overeenkomst
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Uitvoering overeenkomst |
 | Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
 
