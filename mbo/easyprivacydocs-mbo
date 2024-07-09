@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ################################################################################
-# Version 1.0.1-RELEASE (09-07-2024)
+# Version 1.0.2-RELEASE (09-07-2024)
 ################################################################################
 
 ################################################################################
@@ -23,8 +23,8 @@
 ################################################################################
 
 ################################################################################
-# EasyPrivacyDocs mbo edition generates institution privacy documentation for
-# mbo institutions on edubadges.nl.
+# EasyPrivacyDocs MBO edition generates institution privacy documentation for
+# secondary vocational educational (MBO) institutions on edubadges.nl.
 #
 # Contact:
 # > E-mail      sebas.veeke@surf.nl
@@ -37,7 +37,7 @@
 #############################################################################
 
 # version and date
-EASYPRIVACYDOCS_VERSION='1.0.1'
+EASYPRIVACYDOCS_VERSION='1.0.2'
 EASYPRIVACYDOCS_VERSION_DATE='09-07-2024'
 EASYPRIVACYDOCS_CURRENT_DATE="$(date +%d-%m-%Y)"
 
@@ -61,7 +61,7 @@ EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN="template-nonformal-excerpt-mbo-en.md"
 EDUBADGES_TEMPLATE_NONFORMAL_TEXT_NL="template-nonformal-text-mbo-nl.md"
 EDUBADGES_TEMPLATE_NONFORMAL_TEXT_EN="template-nonformal-text-mbo-en.md"
 
-# EasyPrivacyDocs mbo edition needs the following information:
+# EasyPrivacyDocs MBO edition needs the following information:
 # 1) Formal institution name in Dutch (INSTITUTION_NAME_NL)
 # 2) Formal institution name in English (INSTITUTION_NAME_EN)
 # 3) Privacy email address (INSTITUTION_PRIVACY_CONTACT)
@@ -191,9 +191,9 @@ option_help() {
     printf " easyprivacydocs [option]...\n\n"
     printf "Features:\n"
     printf " --template             Downloads available templates to the current directory\n"
-    printf " --generate            	Checks mbo institution list for validity and generates privacy documentation\n\n"
+    printf " --generate             Checks MBO institution list for validity and generates privacy documentation\n\n"
     printf "Options:\n"
-    printf " --check                Checks mbo institution list for validity\n"
+    printf " --check                Checks MBO institution list for validity\n"
     printf " --help                 Display this help and exit\n"
     printf " --version              Display version information and exit\n"
     exit 0
