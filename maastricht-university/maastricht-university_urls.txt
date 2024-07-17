@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-formal-statement-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-formal-statement-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-nonformal-statement-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-nonformal-statement-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/maastricht-university/edubadges-nonformal-excerpt-nl.md

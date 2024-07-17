@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-formal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-formal-text-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-nonformal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/tu-delft/edubadges-nonformal-text-nl.md

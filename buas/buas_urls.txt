@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-formal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-formal-text-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-nonformal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/buas/edubadges-nonformal-text-nl.md

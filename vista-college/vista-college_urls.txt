@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-formal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-nonformal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vista-college/edubadges-nonformal-excerpt-nl.md

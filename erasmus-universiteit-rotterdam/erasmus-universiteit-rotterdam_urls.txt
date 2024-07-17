@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/erasmus-universiteit-rotterdam/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/erasmus-universiteit-rotterdam/edubadges-nonformal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/erasmus-universiteit-rotterdam/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/erasmus-universiteit-rotterdam/edubadges-nonformal-excerpt-nl.md

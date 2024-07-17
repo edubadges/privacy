@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-formal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-nonformal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hotelschool-the-hague/edubadges-nonformal-excerpt-nl.md
