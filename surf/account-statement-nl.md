@@ -35,10 +35,11 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Albeda | fg@albeda.nl |
 | Avans Hogeschool | privacy@avans.nl |
 | Breda University of Applied Sciences | fg@buas.nl |
+| De Haagse Hogeschool | privacy@hhs.nl |
 | Deltion | 3333@deltion.nl |
 | Erasmus Universiteit Rotterdam | edubadges@eur.nl |
 | Fontys | isp-office@fontys.nl |
-| De Haagse Hogeschool | privacy@hhs.nl |
+| Graafschap College | c.uitterhoeve@graafschapcollege.nl |
 | HAN University of Applied Sciences | privacy@han.nl |
 | Hanzehogeschool Groningen | ict-security@org.hanze.nl |
 | HAS Hogeschool | privacy@has.nl |
@@ -54,9 +55,12 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Maastricht University | privacy@maastrichtuniversity.nl |
 | Marnix Academie | fg@hsmarnix.nl |
 | mboRijnland | privacy@mborijnland.nl |
+| MBO Utrecht | privacy@mboutrecht.nl |
 | NHL Stenden Hogeschool | privacy-and-security@nhlstenden.com |
 | Radboud Universiteit | mijnprivacy@ru.nl |
+| ROC A12 | fg@cog.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
+| Rijn IJssel | privacy@rijnijssel.nl |
 | Technische Universiteit Delft | privacy-tud@tudelft.nl |
 | Technische Universiteit Eindhoven | privacy@tue.nl |
 | Thomas More Hogeschool | ibp@thomasmorehs.nl |
@@ -68,6 +72,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Vrije Universiteit Amsterdam | functionarisgegevensbescherming@vu.nl |
 | Wageningen University & Research | privacy@wur.nl |
 | Windesheim | fg@windesheim.nl |
+| Yuverta | ibploket@yuverta.nl |
 | Zuyd Hogeschool | functionarisgegevensbescherming@zuyd.nl |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).

@@ -1,7 +1,9 @@
 # Privacy documentation
+
 This repository contains mostly externally oriented privacy documentation for the edubadges project. If you have any questions, please contact info@edubadges.nl.
 
 ## Used terminology
+
 | Dutch (NL) | English (EN) | File names |
 | ---------- | ------------ | ---------- |
 | account | account | account |
@@ -13,6 +15,7 @@ This repository contains mostly externally oriented privacy documentation for th
 | privacyoverzicht | privacy excerpt | excerpt |
 
 ## Directory Layout and file name conventions
+
 Consistency is important, follow the layout guidelines below for all future edits of this repository.
 
 * Privacy documentation for the platform edubadges can be found in the folder `surf`.
@@ -30,6 +33,9 @@ Some examples:
 * Edubadge: `edubadges-formal-text-en`, `edubadges-nonformal-excerpt-nl`.
 
 ## Privacy documentation overview
+
+### easyprivacydocs and custom
+
 | Educational Institution | Formal basis | Nonformal basis | documentation | status |
 | ----------------------- | ------------ | --------------- | ------------- | ------ |
 | Aeres | legitimate interest | legitimate interest | easyprivacydocs | done |
@@ -70,5 +76,16 @@ Some examples:
 | Windesheim | contract | none | easyprivacydocs | done |
 | Zuyd Hogeschool | contract | contract | easyprivacydocs | done |
 
+### easyprivacydocs-mbo
+
+| Educational Institution | Formal basis | Nonformal basis | documentation | status |
+| ----------------------- | ------------ | --------------- | ------------- | ------ |
+| Yuverta | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Graafschap College | legitimate interest | contract | easyprivacydocs-mbo | done |
+| MBO Utrecht | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Rijn IJssel | legitimate interest | contract | easyprivacydocs-mbo | done |
+| ROC A12 | legitimate interest | contract | easyprivacydocs-mbo | done |
+| ROC Mondriaan | legitimate interest | contract | easyprivacydocs-mbo | done |
+
 ## easyprivacydocs
-`easyprivacydocs.sh` is a tool for creating the required edubadges privacy documentation the easy way.
+`easyprivacydocs` and `easyprivacydocs-mbo` are tools for creating the required edubadges privacy documentation the easy way.

@@ -21,8 +21,8 @@ Downloading privacy templates
   -- template-formal-text-mbo-en.md
   -- template-nonformal-excerpt-mbo-nl.md
   -- template-nonformal-excerpt-mbo-en.md
-  -- template-formal-text-mbo-nl.md
-  -- template-formal-text-mbo-en.md
+  -- template-nonformal-text-mbo-nl.md
+  -- template-nonformal-text-mbo-en.md
 
 $ easyprivacydocs-mbo --generate
 Checking whether input file exists
