@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-formal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-formal-text-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-nonformal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/radboud-universiteit/edubadges-nonformal-text-nl.md

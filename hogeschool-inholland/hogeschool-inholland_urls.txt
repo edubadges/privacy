@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-formal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-nonformal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-inholland/edubadges-nonformal-excerpt-nl.md

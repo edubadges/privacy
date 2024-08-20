@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-nonformal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-nonformal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hanzehogeschool-groningen/edubadges-nonformal-excerpt-nl.md

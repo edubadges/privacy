@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-formal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-formal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-nonformal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-nonformal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-utrecht/edubadges-nonformal-excerpt-nl.md

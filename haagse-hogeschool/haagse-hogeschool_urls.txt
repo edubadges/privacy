@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-formal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-nonformal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/haagse-hogeschool/edubadges-nonformal-excerpt-nl.md

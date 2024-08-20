@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-formal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-formal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-nonformal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-nonformal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-rotterdam/edubadges-nonformal-excerpt-nl.md

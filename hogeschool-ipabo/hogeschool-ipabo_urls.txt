@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-formal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-formal-text-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-nonformal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-ipabo/edubadges-nonformal-text-nl.md

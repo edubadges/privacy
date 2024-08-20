@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-formal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-formal-text-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-nonformal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/marnix-academie/edubadges-nonformal-text-nl.md

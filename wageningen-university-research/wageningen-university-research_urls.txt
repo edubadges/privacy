@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-formal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-formal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-nonformal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-nonformal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/wageningen-university-research/edubadges-nonformal-excerpt-nl.md

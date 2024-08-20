@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-formal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-formal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-formal-excerpt-en.m d
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-nonformal-terms-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-nonformal-terms-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/universiteit-twente/edubadges-nonformal-excerpt-nl.md

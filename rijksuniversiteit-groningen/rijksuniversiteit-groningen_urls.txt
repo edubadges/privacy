@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-formal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-formal-excerpt-nl.md
+
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-nonformal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-nonformal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-nonformal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/rijksuniversiteit-groningen/edubadges-nonformal-excerpt-nl.md
