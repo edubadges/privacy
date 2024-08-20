@@ -1,4 +1,4 @@
-<CURRENT_DATE>
+09-07-2024
 
 Goed dat je de gebruiksvoorwaarden van Yuverta voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [ibploket@yuverta.nl](mailto:ibploket@yuverta.nl). 
 
@@ -78,6 +78,7 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt een verzoek indienen tot beperking van de verwerking van je gegevens ten aanzien van de verwerking van gegevens waartegen je bezwaar hebt gemaakt, die je onrechtmatig acht, waarvan je de juistheid van de persoonsgegevens hebt betwist of wanneer we de persoonsgegevens niet meer nodig hebben, maar je ze nodig hebt in het kader van een rechtsvordering.
 * Je kunt een overzicht, in een gestructureerde en gangbare vorm opvragen van de gegevens die we van jou verwerken en je hebt het recht op overdraagbaarheid van deze gegevens naar een andere dienstverlener.
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
-* Als jij en Naam onderwijsinstelling er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
+
+Als jij en Yuverta er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
 Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [ibploket@yuverta.nl](mailto:ibploket@yuverta.nl). 

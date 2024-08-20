@@ -6,4 +6,4 @@ Mbo School Saaxumhuizen is de verwerkingsverantwoordelijke en SURF is de verwerk
 
 Voor het uitgeven van edubadges worden je voornaam, achternaam, een unieke identifier en e-mailadres verwerkt. Daarnaast bevat de edubadge je eduID en aanvullende informatie zoals het tijdstip van uitgifte, de uitgever (Mbo School Saaxumhuizen) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Met vragen over je privacy kun je contact opnemen met [privacy@mbosaaxumhuizen.nl](mailto:privacy@mbosaaxumhuizen.nl).
 
-Door op 'Ik ga akkoord' te klikken ga je akkoord met de [volledige versie](https://raw.githubusercontent.com/edubadges/privacy/master/mbo/mbo-school-saaxumhuizen/edubadges-formal-text-nl.md) van deze gebruiksvoorwaarden.
+Door op 'Ik heb dit gelezen' te klikken verklaar je de [volledige privacyverklaring](https://raw.githubusercontent.com/edubadges/privacy/master/mbo/mbo-school-saaxumhuizen/edubadges-formal-text-nl.md) gelezen te hebben.

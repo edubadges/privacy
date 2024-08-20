@@ -1,6 +1,6 @@
-01-01-2024
+20-08-2024
 
-We are glad that you’re reading the privacy statement of Saaxumhuizen MBO School for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns, please email [privacy@mbosaaxumhuizen.nl](mailto:privacy@mbosaaxumhuizen.nl).
+We are glad that you’re reading the terms of use of MBO Utrecht for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [privacy@mboutrecht.nl](mailto:privacy@mboutrecht.nl).
 
 # 1 Introduction
 
@@ -10,7 +10,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 
 # 2 Purpose and processing
 
-In the context of making education more flexible and making lifelong development possible, Saaxumhuizen MBO School issues EduBadges. The EduBadge enables the owner to better position himself in the labor market and demonstrates that the owner has certain knowledge and skills. This fits in with our vision of flexible and adaptive education.
+In the context of making education more flexible and making lifelong development possible, MBO Utrecht issues EduBadges. The EduBadge enables the owner to better position himself in the labor market and demonstrates that the owner has certain knowledge and skills. This fits in with our vision of flexible and adaptive education.
 
 The edubadges service is divided into two parts:
 
@@ -23,7 +23,7 @@ The edubadges service is divided into two parts:
   * Creating an edubadge
   * Issuing an edubadge
 
-For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), Saaxumhuizen MBO School is the controller and SURF is the processor. This privacy statement relates to the processing by Saaxumhuizen MBO School.
+For the account/backpack (1), SURF is the controller. See the [privacy statement of edubadges.nl](https://edubadges.nl/privacy) for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), MBO Utrecht is the controller and SURF is the processor. This privacy statement relates to the processing by MBO Utrecht.
 
 # 3 Personal data
 
@@ -37,18 +37,18 @@ In the table below are the personal data (with purpose and basis) that are proce
 
 | Personal data	| Purpose | Basis |
 | ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Legitimate interest |
-| Given name(s) | User identification | Legitimate interest |
-| Surname | User identification | Legitimate interest |
-| Email address	| User Notification	| Legitimate interest |
-| Educational institution | Demarcation of available edubadges | Legitimate interest |
-| Education (code) | Linking edubadges to education | Legitimate interest |
-| Grade | Showing the grade in the edubadge (optional to use for the educational institution) | Legitimate interest |
-| Date of obtaining the edubadge | Showing the date on which the edubadge was obtained | Legitimate interest |
-| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |
-| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |
+| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |
+| Given name(s) | User identification | Performance of an agreement |
+| Surname | User identification | Performance of an agreement |
+| Email address	| User Notification	| Performance of an agreement |
+| Educational institution | Demarcation of available edubadges | Performance of an agreement |
+| Education (code) | Linking edubadges to education | Performance of an agreement |
+| Grade | Showing the grade in the edubadge (optional to use for the educational institution) | Performance of an agreement |
+| Date of obtaining the edubadge | Showing the date on which the edubadge was obtained | Performance of an agreement |
+| Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |
+| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |
 
-These personal data are are retained until the user deletes the edubadge + 1 month due to backups. Saaxumhuizen MBO School has access to your first name, last name and email address. SURF and its management partner (Proxy Services B.V.) has access to all personal data. The personal data are not provided to other parties.
+These personal data are are retained until the user deletes the edubadge + 1 month due to backups. MBO Utrecht has access to your first name, last name and email address. SURF and its management partner (Proxy Services B.V.) has access to all personal data. The personal data are not provided to other parties.
 
 # 4 Security
 
@@ -79,6 +79,6 @@ You have the following rights with regard to your own personal data:
 * You may request an export of the data we process on you, in a structured and common format, and you have the right to portability of this data to another service provider.
 * If you believe that we have not handled your personal data properly, you may submit a complaint.
 
-However, if you and Saaxumhuizen MBO School disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
+However, if you and MBO Utrecht disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
-To exercise these rights, please contact [privacy@mbosaaxumhuizen.nl](mailto:privacy@mbosaaxumhuizen.nl).
+To exercise these rights, please contact [privacy@mboutrecht.nl](mailto:privacy@mboutrecht.nl).

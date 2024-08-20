@@ -6,4 +6,4 @@ Yuverta is the controller and SURF is the processor for issuing edubadges. For t
 
 To issue edubadges, your first name, last name, a unique identifiere and email address are processed. In addition, the edubadge contains your eduID and supplementary information such as the time of issue, the publisher (Yuverta) and information about the achievement, educational module and/or learning outcomes. If you have any questions about your privacy, please contact [ibploket@yuverta.nl](mailto:ibploket@yuverta.nl). 
 
-By clicking 'I agree', you are agreeing to the [full version](https://raw.githubusercontent.com/edubadges/privacy/master/mbo/yuverta/edubadges-formal-text-en.md) of these terms of use.
+By clicking 'I have read this', you declare that you have read the [full privacy statement](https://raw.githubusercontent.com/edubadges/privacy/master/mbo/yuverta/edubadges-formal-text-en.md).

@@ -1,6 +1,6 @@
-01-01-2024
+20-08-2024
 
-Goed dat je de gebruiksvoorwaarden van Mbo School Saaxumhuizen voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [privacy@mbosaaxumhuizen.nl](mailto:privacy@mbosaaxumhuizen.nl). 
+Goed dat je de gebruiksvoorwaarden van Rijn IJssel voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om de edubadge in kwestie te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [privacy@rijnijssel.nl](mailto:privacy@rijnijssel.nl). 
 
 # 1 Wat zijn edubadges?
 
@@ -10,7 +10,7 @@ Om edubadges te kunnen maken en toekennen is een technische infrastructuur nodig
 
 # 2 Doel en verwerking
 
-Mbo School Saaxumhuizen wil door middel van het toekennen van edubadges een digitaal bewijsmiddel aan studenten verstrekken. Met edubadges kunnen studenten aantonen over bepaalde vaardigheden en/of kennis te beschikken.
+Rijn IJssel wil door middel van het toekennen van edubadges een digitaal bewijsmiddel aan studenten verstrekken. Met edubadges kunnen studenten aantonen over bepaalde vaardigheden en/of kennis te beschikken.
 
 De edubadgesservice is onderverdeeld in twee delen:
 
@@ -23,7 +23,7 @@ De edubadgesservice is onderverdeeld in twee delen:
   * Genereren van een edubadge
   * Versturen van een edubadge
 
-Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://edubadges.nl/privacy). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl). Voor het uitgeven van edubadges (2) is Mbo School Saaxumhuizen de verwerkingsverantwoordelijke en is SURF de verwerker. Deze privacyverklaring heeft betrekking op deze verwerkingen door Mbo School Saaxumhuizen.
+Voor het account/backpack (1) is SURF de verwerkingsverantwoordelijke. Zie hiervoor de [privacyverklaring van edubadges.nl](https://edubadges.nl/privacy). Met vragen kun je een e-mail sturen naar [support@edubadges.nl](mailto:support@edubadges.nl). Voor het uitgeven van edubadges (2) is Rijn IJssel de verwerkingsverantwoordelijke en is SURF de verwerker. Deze privacyverklaring heeft betrekking op deze verwerkingen door Rijn IJssel.
 
 # 3 Persoonsgegevens
 
@@ -48,7 +48,7 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
 
-Deze persoonsgegevens worden bewaard totdat de gebruiker de betreffende edubadge verwijderd + 1 maand vanwege backups. Mbo School Saaxumhuizen heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en zijn beheerpartner (Proxy Services B.V.) hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
+Deze persoonsgegevens worden bewaard totdat de gebruiker de betreffende edubadge verwijderd + 1 maand vanwege backups. Rijn IJssel heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en zijn beheerpartner (Proxy Services B.V.) hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
 
 # 4 Beveiliging
 
@@ -79,6 +79,6 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Je kunt een overzicht, in een gestructureerde en gangbare vorm opvragen van de gegevens die we van jou verwerken en je hebt het recht op overdraagbaarheid van deze gegevens naar een andere dienstverlener.
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
 
-Als jij en Mbo School Saaxumhuizen er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
+Als jij en Rijn IJssel er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [privacy@mbosaaxumhuizen.nl](mailto:privacy@mbosaaxumhuizen.nl). 
+Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [privacy@rijnijssel.nl](mailto:privacy@rijnijssel.nl). 
