@@ -6,13 +6,28 @@ This repository contains privacy documentation for the secondary vocational educ
 
 EasyPrivacyDocs generates privacy documentation based on institution variables. These variables are sourced from the comma seperated text file `mbo.csv`. Then EasyPrivacyDocs can download all required templates automatically (`easyprivacydocs-mbo --template`) and finally generate the privacy documentation for all entries in `mbo.csv` (`easyprivacydocs-mbo --generate`).
 
-A walkthrough:
+## mbo.csv
+
+This comma separated values file consists of the following information:
+
+1. Institution name NL
+2. Institution name EN
+3. Institution ShacHome
+4. Institution privacy email address
+5. Institution privacy documentation subdirectory
+6. Institution privacy documentation generation date
+
+For example:
 
 ```
 $ cat mbo.csv
-Mbo School Saaxumhuizen,Saaxumhuizen MBO School,privacy@mbosaaxumhuizen.nl,mbo-school-saaxumhuizen
-Mbo School Schokland,Schokland MBO School,privacy@mboschokland.nl,mbo-school-schokland
+Mbo School Saaxumhuizen,Saaxumhuizen MBO School,mbosaaxumhuizen.nl,privacy@mbosaaxumhuizen.nl,mbo-school-saaxumhuizen
+Mbo School Schokland,Schokland MBO School,mboschokland.nl,privacy@mboschokland.nl,mbo-school-schokland
+```
 
+## Runthrough
+
+```
 $ easyprivacydocs-mbo --template
 Downloading privacy templates
   -- template-formal-excerpt-mbo-nl.md
