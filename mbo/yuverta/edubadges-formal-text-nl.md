@@ -48,7 +48,7 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
 
-Deze persoonsgegevens worden bewaard totdat de gebruiker de betreffende edubadge verwijderd + 1 maand vanwege backups. Yuverta heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en zijn beheerpartner (Proxy Services B.V.) hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
+Deze persoonsgegevens worden bewaard totdat de gebruiker de betreffende edubadge verwijdert + 1 maand vanwege backups. Yuverta heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en zijn beheerpartner (Proxy Services B.V.) hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
 
 # 4 Beveiliging
 
