@@ -34,7 +34,9 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Aeres Groep | fg@aeres.nl |
 | Albeda | fg@albeda.nl |
 | Avans Hogeschool | privacy@avans.nl |
+| Aventus | privacy@aventus.nl |
 | Breda University of Applied Sciences | fg@buas.nl |
+| Curio | j.vandenhazelkamp@curio.nl |
 | De Haque University | privacy@hhs.nl |
 | Deltion | 3333@deltion.nl |
 | Erasmus University Rotterdam | edubadges@eur.nl |
