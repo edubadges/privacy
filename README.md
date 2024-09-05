@@ -88,6 +88,7 @@ Some examples:
 | ROC Mondriaan | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Curio | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Aventus | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Stichting Gilde Opleidingen | legitimate interest | contract | easyprivacydocs-mbo | done |
 
 ## easyprivacydocs
 `easyprivacydocs` and `easyprivacydocs-mbo` are tools for creating the required edubadges privacy documentation the easy way.

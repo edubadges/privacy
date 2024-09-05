@@ -63,6 +63,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | ROC A12 | fg@cog.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |
+| Stichting Gilde Opleidingen | privacy@rocgilde.nl |
 | Technische Universiteit Delft | privacy-tud@tudelft.nl |
 | Technische Universiteit Eindhoven | privacy@tue.nl |
 | Thomas More Hogeschool | ibp@thomasmorehs.nl |
