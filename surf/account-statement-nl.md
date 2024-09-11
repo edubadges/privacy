@@ -36,6 +36,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Avans Hogeschool | privacy@avans.nl |
 | Aventus | privacy@aventus.nl |
 | Breda University of Applied Sciences | fg@buas.nl |
+| Cibap Vakschool | n.dutij@cibap.nl |
 | Curio | j.vandenhazelkamp@curio.nl |
 | De Haagse Hogeschool | privacy@hhs.nl |
 | Deltion | 3333@deltion.nl |
@@ -59,11 +60,13 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | mboRijnland | privacy@mborijnland.nl |
 | MBO Utrecht | privacy@mboutrecht.nl |
 | NHL Stenden Hogeschool | privacy-and-security@nhlstenden.com |
+| Nova College | ffeen@novacollege.nl |
 | Radboud Universiteit | mijnprivacy@ru.nl |
 | ROC A12 | fg@cog.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |
 | Stichting Gilde Opleidingen | privacy@rocgilde.nl |
+| Summa College | ibp-team@summacollege.nl |
 | Technische Universiteit Delft | privacy-tud@tudelft.nl |
 | Technische Universiteit Eindhoven | privacy@tue.nl |
 | Thomas More Hogeschool | ibp@thomasmorehs.nl |

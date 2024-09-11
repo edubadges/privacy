@@ -89,6 +89,9 @@ Some examples:
 | Curio | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Aventus | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Stichting Gilde Opleidingen | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Nova College | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Cibap Vakschool | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Summa College | legitimate interest | contract | easyprivacydocs-mbo | done |
 
 ## easyprivacydocs
 `easyprivacydocs` and `easyprivacydocs-mbo` are tools for creating the required edubadges privacy documentation the easy way.
