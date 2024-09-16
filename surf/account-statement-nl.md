@@ -63,6 +63,8 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Nova College | ffeen@novacollege.nl |
 | Radboud Universiteit | mijnprivacy@ru.nl |
 | ROC A12 | fg@cog.nl |
+| ROC Midden Nederland | privacy@rocmn.nl |
+| ROC van Twente | privacy@rocmn.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |
 | Stichting Gilde Opleidingen | privacy@rocgilde.nl |
