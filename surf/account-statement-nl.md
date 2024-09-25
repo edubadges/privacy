@@ -42,6 +42,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Deltion | 3333@deltion.nl |
 | Erasmus Universiteit Rotterdam | edubadges@eur.nl |
 | Fontys | isp-office@fontys.nl |
+| Firda | privacy@fcroc.nl |
 | Graafschap College | c.uitterhoeve@graafschapcollege.nl |
 | HAN University of Applied Sciences | privacy@han.nl |
 | Hanzehogeschool Groningen | ict-security@org.hanze.nl |
@@ -60,6 +61,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | mboRijnland | privacy@mborijnland.nl |
 | MBO Utrecht | privacy@mboutrecht.nl |
 | NHL Stenden Hogeschool | privacy-and-security@nhlstenden.com |
+| Noorderpoort | servicecentrum@noorderpoort.nl |
 | Nova College | ffeen@novacollege.nl |
 | Radboud Universiteit | mijnprivacy@ru.nl |
 | ROC A12 | fg@cog.nl |
@@ -80,6 +82,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Vrije Universiteit Amsterdam | functionarisgegevensbescherming@vu.nl |
 | Wageningen University & Research | privacy@wur.nl |
 | Windesheim | fg@windesheim.nl |
+| Yonder | privacy@yonder.nl |
 | Yuverta | ibploket@yuverta.nl |
 | Zuyd Hogeschool | functionarisgegevensbescherming@zuyd.nl |
 
