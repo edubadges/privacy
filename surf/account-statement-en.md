@@ -56,6 +56,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Amsterdam University of Applied Sciences | functionarisgegevensbescherming@hva.nl |
 | Hogeschool Van Hall Larenstein | privacy@hvhl.nl |
 | Hotelschool The Hague | l.m.bal@hotelschool.nl |
+| Landstede MBO | privacy@landstedegroep.nl |
 | Maastricht University | privacy@maastrichtuniversity.nl |
 | Marnix Academie | fg@hsmarnix.nl |
 | mboRijnland | privacy@mborijnland.nl |
