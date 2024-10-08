@@ -98,6 +98,8 @@ Some examples:
 | Noorderpoort | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Yonder | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Landstede MBO | legitimate interest | contract | easyprivacydocs-mbo | done |
+| ROC Nijmegen | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Grafisch Lyceum Rotterdam | legitimate interest | contract | easyprivacydocs-mbo | done |
 
 ## easyprivacydocs
 `easyprivacydocs` and `easyprivacydocs-mbo` are tools for creating the required edubadges privacy documentation the easy way.

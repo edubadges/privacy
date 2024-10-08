@@ -44,6 +44,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Fontys | isp-office@fontys.nl |
 | Firda | privacy@fcroc.nl |
 | Graafschap College | c.uitterhoeve@graafschapcollege.nl |
+| Grafisch Lyceum Rotterdam | dlinden@glr.nl |
 | HAN University of Applied Sciences | privacy@han.nl |
 | Hanze University of Applied Sciences | ict-security@org.hanze.nl |
 | HAS Hogeschool | privacy@has.nl |
@@ -67,6 +68,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Radboud University | mijnprivacy@ru.nl |
 | ROC A12 | fg@cog.nl |
 | ROC Midden Nederland | privacy@rocmn.nl |
+| ROC Nijmegen | n.dutij@roc-nijmegen.nl |
 | ROC van Twente | privacy@rocmn.nl |
 | University of Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |

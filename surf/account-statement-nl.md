@@ -44,6 +44,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Fontys | isp-office@fontys.nl |
 | Firda | privacy@fcroc.nl |
 | Graafschap College | c.uitterhoeve@graafschapcollege.nl |
+| Grafisch Lyceum Rotterdam | dlinden@glr.nl |
 | HAN University of Applied Sciences | privacy@han.nl |
 | Hanzehogeschool Groningen | ict-security@org.hanze.nl |
 | HAS Hogeschool | privacy@has.nl |
@@ -67,6 +68,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Radboud Universiteit | mijnprivacy@ru.nl |
 | ROC A12 | fg@cog.nl |
 | ROC Midden Nederland | privacy@rocmn.nl |
+| ROC Nijmegen | n.dutij@roc-nijmegen.nl |
 | ROC van Twente | privacy@rocmn.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |
