@@ -69,6 +69,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | ROC A12 | fg@cog.nl |
 | ROC Midden Nederland | privacy@rocmn.nl |
 | ROC Nijmegen | n.dutij@roc-nijmegen.nl |
+| ROC van Amsterdam | privacy@rocva.nl |
 | ROC van Twente | privacy@rocmn.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |

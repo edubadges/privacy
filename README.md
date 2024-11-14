@@ -99,6 +99,7 @@ Some examples:
 | Yonder | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Landstede MBO | legitimate interest | contract | easyprivacydocs-mbo | done |
 | ROC Nijmegen | legitimate interest | contract | easyprivacydocs-mbo | done |
+| ROC van Amsterdam | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Grafisch Lyceum Rotterdam | legitimate interest | contract | easyprivacydocs-mbo | done |
 
 ## easyprivacydocs
