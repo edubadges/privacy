@@ -71,7 +71,7 @@ Some examples:
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
 | Universiteit van Amsterdam | contract | none | easyprivacydocs | done |
 | VISTA College | contract | contract | easyprivacydocs | done |
-| Vrije Universiteit Amsterdam | none | legitimate interest | custom | done |
+| Vrije Universiteit Amsterdam | legitimate interest | legitimate interest | custom | done |
 | Wageningen University Research | legitimate interest | legitimate interest | custom | done |
 | Windesheim | contract | none | easyprivacydocs | done |
 | Zuyd Hogeschool | contract | contract | easyprivacydocs | done |
