@@ -2,3 +2,7 @@ https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-am
 https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-amsterdam/edubadges-nonformal-text-nl.md
 https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-amsterdam/edubadges-nonformal-excerpt-en.md
 https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-amsterdam/edubadges-nonformal-excerpt-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-amsterdam/edubadges-formal-text-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-amsterdam/edubadges-formal-text-nl.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-amsterdam/edubadges-formal-excerpt-en.md
+https://raw.githubusercontent.com/edubadges/privacy/master/vrije-universiteit-amsterdam/edubadges-formal-excerpt-nl.md
