@@ -1,4 +1,4 @@
-28-01-2024
+28-01-2025
 
 We are glad that you’re reading the terms of use of SURF for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. 
 
