@@ -57,6 +57,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Amsterdam University of Applied Sciences | functionarisgegevensbescherming@hva.nl |
 | Hogeschool Van Hall Larenstein | privacy@hvhl.nl |
 | Hotelschool The Hague | l.m.bal@hotelschool.nl |
+| Koning Willem I College | fg@kw1c.nl |
 | Landstede MBO | privacy@landstedegroep.nl |
 | Maastricht University | privacy@maastrichtuniversity.nl |
 | Marnix Academie | fg@hsmarnix.nl |
@@ -88,6 +89,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Windesheim | fg@windesheim.nl |
 | Yonder | privacy@yonder.nl |
 | Yuverta | ibploket@yuverta.nl |
+| Zadkine | fg@zadkine.nl |
 | Zuyd Hogeschool | functionarisgegevensbescherming@zuyd.nl |
 
 Below is the privacy statement for the data processing operations associated with 'Account/backpack' (1).

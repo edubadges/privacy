@@ -57,6 +57,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Hogeschool van Amsterdam | functionarisgegevensbescherming@hva.nl |
 | Hogeschool Van Hall Larenstein | privacy@hvhl.nl |
 | Hotelschool The Hague | l.m.bal@hotelschool.nl |
+| Koning Willem I College | fg@kw1c.nl |
 | Landstede MBO | privacy@landstedegroep.nl |
 | Maastricht University | privacy@maastrichtuniversity.nl |
 | Marnix Academie | fg@hsmarnix.nl |
@@ -88,6 +89,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Windesheim | fg@windesheim.nl |
 | Yonder | privacy@yonder.nl |
 | Yuverta | ibploket@yuverta.nl |
+| Zadkine | fg@zadkine.nl |
 | Zuyd Hogeschool | functionarisgegevensbescherming@zuyd.nl |
 
 Hieronder gaat de privacyverklaring verder voor de verwerkingen die horen bij ‘Account/backpack’ (1).

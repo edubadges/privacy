@@ -101,6 +101,9 @@ Some examples:
 | ROC Nijmegen | legitimate interest | contract | easyprivacydocs-mbo | done |
 | ROC van Amsterdam | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Grafisch Lyceum Rotterdam | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Albeda | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Koning Willem I College | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Zadkine | legitimate interest | contract | easyprivacydocs-mbo | done |
 
 ## easyprivacydocs
 `easyprivacydocs` and `easyprivacydocs-mbo` are tools for creating the required edubadges privacy documentation the easy way.
