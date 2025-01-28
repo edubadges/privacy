@@ -1,4 +1,4 @@
-28-01-2024
+28-01-2025
 
 Goed dat je de overeenkomst van SURF voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze overeenkomst kun je daar over lezen. Om de betreffende edubadge te kunnen ontvangen moet je akkoord gaan met deze overeenkomst.
 Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [edubadges@surf.nl](mailto:edubadges@surf.nl).
