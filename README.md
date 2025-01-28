@@ -63,6 +63,7 @@ Some examples:
 | mboRijnland | none | legitimate interest | easyprivacydocs | done |
 | NHL Stenden Hogeschool | legitimate interest | legitimate interest | easyprivacydocs | done |
 | Rijksuniversiteit Groningen | public interest | legitimate interest | custom | done |
+| SURF | none | contract | custom | done |
 | Technische Universiteit Delft | Public interest | legitimate interest | easyprivacydocs | done |
 | Technische Universiteit Eindhoven | public interest | legitimate interest | custom | done |
 | Thomas More Hogeschool | contract | contract | easyprivacydocs | done |

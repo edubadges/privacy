@@ -76,6 +76,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Rijn IJssel | privacy@rijnijssel.nl |
 | Stichting Gilde Opleidingen | privacy@rocgilde.nl |
 | Summa College | ibp-team@summacollege.nl |
+| SURF | privacy@surf.nl |
 | Delft University of Technology | privacy-tud@tudelft.nl |
 | Eindhoven University of Technology | privacy@tue.nl |
 | Thomas More Hogeschool | ibp@thomasmorehs.nl |
