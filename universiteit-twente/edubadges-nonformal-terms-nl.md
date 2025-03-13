@@ -43,6 +43,8 @@ Betrokkene (Badge-ontvanger): in de onderstaande tabel staan de persoonsgegevens
 | E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
 | Scoped affiliation | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Gerechtvaardigd belang |
+| Unieke identifier (EPPN) | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |
 
 ## Genereren van edubadge
 Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voor het genereren van een edubadge. Deze persoonlijke gegevens worden verkregen door te koppelen aan het eduID-account van de gebruiker.
@@ -55,6 +57,10 @@ Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (m
 | E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
 | Scoped affiliation | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Gerechtvaardigd belang |
+| Prestatie | Tonen van cijfer in edubadge | Gerechtvaardigd belang |
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Gerechtvaardigd belang |
+| Unieke identifier (EPPN) | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |
 
 ## Versturen van edubadge
 Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voor het versturen van een edubadge. Deze persoonlijke gegevens worden verkregen door te linken naar het eduID-account van de gebruiker.
@@ -67,6 +73,10 @@ Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (m
 | E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
 | Scoped affiliation | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Gerechtvaardigd belang |
+| Prestatie | Tonen van cijfer in edubadge | Gerechtvaardigd belang |
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Gerechtvaardigd belang |
+| Unieke identifier (EPPN) | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardigd belang |
 
 Een edubadge bevat je eduID. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (Hanzehogeschool) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst.
 

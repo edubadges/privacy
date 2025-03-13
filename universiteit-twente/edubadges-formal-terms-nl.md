@@ -43,6 +43,8 @@ Betrokkene (Badge-ontvanger): in de onderstaande tabel staan de persoonsgegevens
 | E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
 | Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Uitvoering overeenkomst |
+| Unieke identifier (EPPN) | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 
 ## edubadge genereren
 Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voor het genereren van een edubadge. Deze persoonlijke gegevens worden verkregen door te koppelen aan het eduID-account van de gebruiker.
@@ -55,6 +57,10 @@ Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (m
 | E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
 | Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Uitvoering overeenkomst |
+| Prestatie | Tonen van cijfer in edubadge | Uitvoering overeenkomst |
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Uitvoering overeenkomst |
+| Unieke identifier (EPPN) | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 
 ## edubadge verzenden
 Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (met doel en basis) die worden verwerkt voor het versturen van een edubadge. Deze persoonlijke gegevens worden verkregen door te linken naar het eduID-account van de gebruiker.
@@ -67,6 +73,10 @@ Betrokkene (Badge-ontvanger): in onderstaande tabel staan de persoonsgegevens (m
 | E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
 | Scoped affiliation | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Uitvoering overeenkomst |
+| Prestatie | Tonen van cijfer in edubadge | Uitvoering overeenkomst |
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Uitvoering overeenkomst |
+| Unieke identifier (EPPN) | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
 
 ## Aan wie worden uw gegevens verstrekt
 De Universiteit Twente heeft toegang tot uw voornaam, achternaam en e-mailadres nadat u een edubadge hebt aangevraagd. SURF en haar beheermaatschappij hebben toegang tot alle persoonsgegevens. De persoonlijke gegevens worden niet aan derde partijen verstrekt.

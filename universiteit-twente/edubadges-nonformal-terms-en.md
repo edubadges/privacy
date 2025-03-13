@@ -44,6 +44,8 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 | Email address	| User Notification	| Legitimate interest |
 | Scoped affiliation	| Demarcation available edubadges |	Legitimate interest |
 | Privacy interaction	| Whether the Terms of Use have been agreed to | Legitimate interest |
+| Education (code) | Linking edubadges to education | Legitimate interest |
+| Unique identifier (EPPN) | Make it possible to award edubadges directly to student | Legitimate interest |
 
 ## Generating edubadge
 Data subject: Badge recipient. In the table below are the personal data (with purpose and basis) that are processed for generating an edubadge. This personal data is obtained by linking to the user's eduID account.
@@ -56,6 +58,10 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 | Email address	| User Notification	| Legitimate interest |
 | Scoped affiliation	| Demarcation available edubadges |	Legitimate interest |
 | Privacy interaction	| Whether the Terms of Use have been agreed to | Legitimate interest |
+| Education (code) | Linking edubadges to education | Legitimate interest |
+| Performance | Showing the grade in the edubadge | Legitimate interest |
+| Date of obntaining the edubadge | Showing the date on which the edubadge was obtained | Legitimate interest |
+| Unique identifier (EPPN) | Make it possible to award edubadges directly to student | Legitimate interest |
 
 ## Sending edubadge
 Data subject: Badge recipient. In the table below are the personal data (with purpose and basis) that are processed for sending an edubadge. This personal data is obtained by linking to the user's eduID account.
@@ -68,6 +74,10 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 | Email address	| User Notification	| Legitimate interest |
 | Scoped affiliation	| Demarcation available edubadges |	Legitimate interest |
 | Privacy interaction	| Whether the Terms of Use have been agreed to | Legitimate interest |
+| Education (code) | Linking edubadges to education | Legitimate interest |
+| Performance | Showing the grade in the edubadge | Legitimate interest |
+| Date of obntaining the edubadge | Showing the date on which the edubadge was obtained | Legitimate interest |
+| Unique identifier (EPPN) | Make it possible to award edubadges directly to student | Legitimate interest |
 
 An edubadge contains your eduID. Furthermore, the edubadge contains information such as the time of issue, the publisher (University of Twente) and information about the performance, educational module and/or learning outcome.
 

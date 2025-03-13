@@ -43,6 +43,8 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 | Email address	| User Notification	| Based on an agreement |
 | Scoped affiliation	| Demarcation available edubadges |	Based on an agreement |
 | Privacy interaction	| Whether the Terms of Use have been agreed to | Based on an agreement |
+| Education (code) | Linking edubadges to education | Based on an agreement |
+| Unique identifier (EPPN) | Make it possible to award edubadges directly to student | Based on agreement |
 
 ## Generating edubadge
 Data subject: Badge recipient. In the table below are the personal data (with purpose and basis) that are processed for generating an edubadge. This personal data is obtained by linking to the user's eduID account.
@@ -55,6 +57,10 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 | Email address	| User Notification	| Based on an agreement |
 | Scoped affiliation	| Demarcation available edubadges |	Based on an agreement |
 | Privacy interaction	| Whether the Terms of Use have been agreed to | Based on an agreement |
+| Education (code) | Linking edubadges to education | Based on an agreement |
+| Performance | Showing the grade in the edubadge | Based on agreement |
+| Date of obntaining the edubadge | Showing the date on which the edubadge was obtained | Based on agreement |
+| Unique identifier (EPPN) | Make it possible to award edubadges directly to student | Based on agreement |
 
 ## Sending edubadge
 Data subject: Badge recipient. In the table below are the personal data (with purpose and basis) that are processed for sending an edubadge. This personal data is obtained by linking to the user's eduID account.
@@ -67,6 +73,10 @@ Data subject: Badge recipient. In the table below are the personal data (with pu
 | Email address	| User Notification	| Based on an agreement |
 | Scoped affiliation	| Demarcation available edubadges |	Based on an agreement |
 | Privacy interaction	| Whether the Terms of Use have been agreed to | Based on an agreement |
+| Education (code) | Linking edubadges to education | Based on an agreement |
+| Performance | Showing the grade in the edubadge | Based on agreement |
+| Date of obntaining the edubadge | Showing the date on which the edubadge was obtained | Based on agreement |
+| Unique identifier (EPPN) | Make it possible to award edubadges directly to student | Based on agreement |
 
 ## To whom do we provide the data?
 The University of Twente have access to your first name, last name and email address after you apply for an edubadge. SURF and its management party has access to all personal data. The personal data are not provided to other third parties.

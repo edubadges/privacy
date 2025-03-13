@@ -5,7 +5,7 @@ Creating the account and linking this account to eduID is necessary to receive e
 
 The UT is the controller and SURF is the processor for issuing edubadges. For the edubadges platform to function, it is necessary to process your personal data. The UT wishes to provide the student with a digital proof by issuing edubadges, with which he or she can demonstrate that he or she has certain skills and / or knowledge.
 
-* The UT uses personal data to issue an edubadge: first name, last name and e-mail address;
+* The UT uses personal data to issue an edubadge: first name, last name, email address education (code) and a unique identifier (EPPN).
 * An edubadge contains your eduID, which you can create via SURF. The edubadge also contains information such as the time of issue, the publisher (UT) and information about the performance, educational module and / or learning outcome;
 * If you have any questions about the privacy surrounding edubadges, please contact [dpo@utwente.nl](mailto:dpo@utwente.nl).
 
