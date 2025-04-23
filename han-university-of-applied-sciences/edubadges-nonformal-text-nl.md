@@ -1,4 +1,4 @@
-31-05-2022
+23-04-2025
 
 Goed dat je de privacyverklaring van HAN University of Applied Sciences voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze privacyverklaring kun je daar over lezen. Als er na het lezen van deze privacyverklaring toch nog vragen, opmerkingen of zorgen zijn, stuur dan gerust een e-mail naar [privacy@han.nl](mailto:privacy@han.nl).
 
@@ -44,6 +44,10 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 | Achternaam | Identificatie van gebruiker | Gerechtvaardigd belang |
 | E-mailadres | Notificeren van gebruiker | Gerechtvaardigd belang |
 | Onderwijsinstelling | Afbakening beschikbare edubadges | Gerechtvaardigd belang |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Gerechtvaardigd belang |
+| Cijfer | Tonen van cijfer in edubadge (optioneel) | Gerechtvaardigd belang |
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Gerechtvaardigd belang |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Gerechtvaardig belang |
 | Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Gerechtvaardigd belang |
 
 HAN University of Applied Sciences heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en haar beheerpartner hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.

@@ -1,4 +1,4 @@
-31-05-2022
+23-04-2025
 
 We are glad that you’re reading the privacy statement of HAN University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please email [privacy@han.nl](mailto:privacy@han.nl).
 
@@ -42,7 +42,11 @@ In the table below are the personal data (with purpose and basis) that are proce
 | Surname | User identification | Legitimate interest |
 | Email address | User Notification | Legitimate interest |
 | Educational institution | Demarcation of available edubadges | Legitimate interest |
-| Privacy interaction | Whether the privacy statement has been read | Legitimate interest |
+| Education (code) | Linking edubadges to education | Legitimate interest |
+| Grade | Showing the grade in the edubadge (optional) | Legitimate interest |
+| Date of obtaining the edubadge | Showing the date on which the edubadge was obtained | Legitimate interest |
+| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate interest |
+| Privacy interaction	| Whether the privacy statement has been read | Legitimate interest |
 
 HAN University of Applied Sciences has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
 
