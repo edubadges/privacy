@@ -68,6 +68,7 @@ Some examples:
 | Technische Universiteit Eindhoven | public interest | legitimate interest | custom | done |
 | Thomas More Hogeschool | contract | contract | easyprivacydocs | done |
 | Tilburg University | contract | contract | easyprivacydocs | done |
+| Universiteit Leiden | contract | contract | custom | done |
 | Universiteit Twente | contract | legitimate interest | custom | done |
 | Universiteit Utrecht | legitimate interest | legitimate interest | custom | done |
 | Universiteit van Amsterdam | contract | none | easyprivacydocs | done |

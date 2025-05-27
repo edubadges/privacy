@@ -1,12 +1,15 @@
 # Privacy Statement edubadges
+
 `Version 1.2 of 1 June 2023`
 
 Thank you for taking the time to read the privacy statement of the SURF edubadges service! We have devoted a great deal of attention to the protection of your personal data and you can read all about this in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please feel free to send an e-mail to [support@edubadges.nl](mailto:support@edubadges.nl) or contact your own educational institution.
 
 ## 1 About SURF
+
 We are SURF B.V. ("SURF"), located at 48 Moreelsepark, 3511 EP Utrecht, the Netherlands. You can call us on `31-887873000`. SURFnet is part of the SURF cooperative, the collaborative organisation for ICT in Dutch education and research. More than 100 education and research institutions in the Netherlands work together within the SURF cooperative to fully utilise the opportunities of digital transformation. More about the [SURF cooperative](https://www.surf.nl/en/about-surf/the-surf-cooperative).
 
 ## 2 Introduction to edubadges
+
 An edubadge is a digital badge (image) which shows that the holder has certain knowledge or skills. The recipient of an edubadge can share it with others, for example on social media, on a digital CV, or with an educational institution or (potential) employer.
 
 A technical infrastructure is required in order to create and award edubadges. SURF has developed the infrastructure for issuing edubadges; the edubadges are stored securely and can be validated within SURF's systems. More information about edubadges can be found on [SURF's website](https://www.surf.nl/en/edubadges-issuing-digital-certificates-to-students).
@@ -14,6 +17,7 @@ A technical infrastructure is required in order to create and award edubadges. S
 Can't find what you're looking for? Take a look at [Getting started with edubadges](https://www.surf.nl/en/getting-started-with-edubadges).
 
 ## 3 Data processing
+
 The edubadges service is divided into two parts:
 
 * Account/backpack (1)
@@ -81,6 +85,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Eindhoven University of Technology | privacy@tue.nl |
 | Thomas More Hogeschool | ibp@thomasmorehs.nl |
 | Tilburg University | privacy@tilburguniversity.edu |
+| Leiden University | privacy@bb.leidenuniv.nl |
 | University of Twente | dpo@utwente.nl |
 | Utrecht University | privacy@uu.nl |
 | University of Amsterdam | avg@uva.nl |
@@ -96,7 +101,9 @@ For the issuing of edubadges (2), your educational institution is the data contr
 Below is the privacy statement for the data processing operations associated with 'Account/backpack' (1).
 
 ## 4 Personal data
+
 ### 4.1 What personal data do we process and why?
+
 In order for the edubadges platform to function, it is necessary to process personal data. The legal basis for the creation of the user account is the 'performance of an agreement'. The applicable Terms of Use will be displayed when an user account is created.
 
 Two groups of users are distinguished during data processing operations:
@@ -105,6 +112,7 @@ Two groups of users are distinguished during data processing operations:
 2. Guests: Natural persons viewing edubadges without an account.
 
 #### Edubadge recipients
+
 The table below shows the personal data processed for edubadge recipients (along with the purpose and the legal basis). This personal data is obtained by means of a link to the user's eduID account.
 
 | Personal data | Purpose |	Legal basis |
@@ -123,13 +131,17 @@ An edubadge contains your eduID. The edubadge also contains information such as 
 As the owner of an edubadge, you can make the edubadge publicly available in your account/backpack. This allows the edubadge to be verified, for example, by a potential employer or an educational institution.
 
 #### Guests
+
 Guests are viewers of edubadges that have not logged in. No personal data of guests will be processed.
 
 ### 4.2 Who do we provide the data to?
+
 Employees of your educational institution have access to given name(s), surname and e-mail address once you have requested an edubadge. SURF and its parent entity have access to all personal data. Personal data will not be disclosed to other third parties.
 
 ## 5 Security
+
 Security measures, including the following, have been taken to protect personal data:
+
 * Only the personal data associated with the eduID is stored in the edubadge.
 * Communication between systems is encrypted in accordance with the state of the art and best practices.
 * An extensive independent security audit (code review and penetration testing) took place before the systems went live.
@@ -145,7 +157,9 @@ Security measures, including the following, have been taken to protect personal 
 * Employee account roles access in edubadges is limited to only the personal data that is relevant to them.
 
 ## 6 Your personal data rights
+
 You have the following rights with regard to your own personal data:
+
 * You may submit a request to modify, supplement or delete your data if it is incorrect or no longer relevant.
 * You may submit a request to access the data about you that we process.
 * You may object to the processing of your data if we process your data on the legal basis of a legitimate interest or the performance of a task in the public interest.
@@ -155,8 +169,9 @@ You have the following rights with regard to your own personal data:
 * If you believe that SURF has not handled your personal data properly, you may submit a complaint to SURF.
 
 However, if you and SURF disagree and SURF's response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint about SURF to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the website of the [Dutch Data Protection Authority](https://www.autoriteitpersoonsgegevens.nl).
- 
+
 To exercise these rights, please contact [support@edubadges.nl](mailto:support@edubadges.nl) or your own educational institution.
 
 ## 7 Amendments to the privacy statement
+
 We may amend this privacy statement from time to time. We therefore advise you to consult our privacy statement regularly.
