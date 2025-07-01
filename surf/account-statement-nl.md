@@ -40,6 +40,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Avans Hogeschool | privacy@avans.nl |
 | Aventus | privacy@aventus.nl |
 | Breda University of Applied Sciences | fg@buas.nl |
+| Christelijke Hogeschool Ede | fg@che.nl |
 | Cibap Vakschool | n.dutij@cibap.nl |
 | Curio | j.vandenhazelkamp@curio.nl |
 | De Haagse Hogeschool | privacy@hhs.nl |
