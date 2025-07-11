@@ -1,60 +1,81 @@
-16-03-2021
+11-07-2025
 
-# General
+# Privacyverklaring
 
-Erasmus University Rotterdam (hereinafter referred to as EUR) uses the edubadges service. Edubadges is a digital infrastructure for creating and issuing edubadges for education and research in the Netherlands.
+We appreciate your interest in the privacy statement of Erasmus University Rotterdam (EUR). We take the protection of your personal data very seriously. This statement explains how we handle your data. If you have any questions, comments, or concerns after reading this statement, please feel free to contact us at [privacy@eur.nl](mailto:privacy@eur.nl).
 
-In the context of educational flexibility and lifelong learning, students are encouraged to work on their own professional development by taking normal and extracurricular courses, workshops and educational modules. An edubadge is a digital certificate that includes information about the contents of the learning results achieved. Edubadges give students visible evidence to show that they have mastered certain knowledge and skills.
+## 1 What are edubadges?
 
-# Who is responsible for your personal data?
+An edubadge, as issued by Erasmus University Rotterdam, is a digital certificate (in the form of an image) that indicates the holder possesses specific knowledge or skills. The recipient of an edubadge can share it with others, for example, on social media, in a digital CV, or with an educational institution or (potential) employer.
 
-The edubadges service uses the technical infrastructure that SURF has developed especially for edubadges. SURF is responsible for creating and maintaining user accounts. SURF is the collaborative organisation for ICT for educational and research institutions in the Netherlands.
+## 2 What are microcredentials?
 
-When generating and issuing the edubadges, EUR acts as the controller within the meaning of the General Data Protection Regulation (GDPR).
+A microcredential is a reliable certificate that allows learners to demonstrate what they know, can do, and understand upon successful completion of a unit of study. In other words, a microcredential assigns independent value to a smaller unit of education. However, it is not only about the end result. The entire process-including the learning activities and the assessment of learning outcomes-contributes to the value of a microcredential, which is recognized both within and outside educational institutions. Microcredentials add a quality mark to small-scale educational modules. This enables professionals and other participants to showcase their achievements and the level of the program, supporting further flexibility in education.
 
-# Whose personal data does EUR process, what personal data are processed and for what purposes?
+Issuing edubadges and microcredentials requires a technical infrastructure. SURF has developed this infrastructure to securely issue, store, and validate edubadges and microcredentials within its systems. In this privacy statement, the term "edubadges" also includes microcredentials. More information about edubadges can be found on [SURF's website](https://surf.nl/edubadges).
 
-EUR collects personal data from the following categories of data subjects:
+## 3 What is the edubadges platform?
 
-**Students**
+SURF edubadges is the national platform for digital certificates in Dutch higher education. Every digital certificate issued via the edubadges platform is referred to as an edubadge. The term "edubadges" is therefore a collective name for various types of digital certificates that can be issued through the edubadges service.
 
-The first name, surname, e-mail address, institution name and eduID of students who are given edubadges are processed as personal data.
+## 4 Purpose and processing
 
-Besides the normal curriculum, students are encouraged to attend workshops and other activities that are not part of the normal curriculum. After successfully completing these courses, workshops and other activities, a digital certificate in the form of an edubadge is awarded to students to demonstrate that they have acquired the knowledge and skills.
+EUR uses edubadges service to issue edubadges. The edubadges service is divided into two parts:
 
-# On what grounds is the processing of your personal data based?
+* Account/backpack (1):
+  * Creating and maintaining an account
+  * Storing edubadges in the backpack
+  * Validating edubadges
+* Issuing an edubadges (2):
+  * Registering for edubadges
+  * Creating an edubadge
+  * Issuing an edubadge
 
-All processing of personal data has to be based on Article 6 of the GDPR. EUR processes personal data on the following grounds:
+For the account/backpack (1), SURF is the controller. See the [privacy statement](https://edubadges.nl/privacy) of edubadges.nl for more information. You can contact [support@edubadges.nl](mailto:support@edubadges.nl) with questions. For issuing edubadges (2), Erasmus University Rotterdam is the controller and SURF is the processor. This privacy statement relates primarily to the processing by Erasmus University Rotterdam.
 
-**Because it is necessary for the implementation of an agreement**
+## 5 Personal data
 
-Students from other educational institutions and course participants who enrol for contract education courses for which the EUR awards an edubadge to the student and/or course participant once they have passed the course.
+For issuing edubadges, there are three forms of processing:
 
-**Legal obligation**
+1. Registering for an edubadge
+2. Creating the edubadge
+3. Issuing the edubadge
 
-Students who complete the compulsory curriculum for their chosen field of study, for which an edubadge may be awarded for some courses.
+The table below outlines the personal data, including the purpose and legal basis for processing, that are handled during the registration for an edubadge, its issuance, and its delivery to the recipient. This personal data is obtained by linking to the user his/her eduID account. Please note that applying for an EduID is mandatory for the issuance of an edubadge.
 
-**Legitimate interest**
+| Personal data | Purpose | Basis |
+| eduID | Pseudonym identifier in edubadge | Legitimate Interest |
+| Given name(s) | User identification | Legitimate Interest |
+| Surname | User identification | Legitimate Interest |
+| Email address | User Notification | Legitimate Interest |
+| Educational institution | Demarcation of available edubadges | Legitimate Interest |
+| Unique identifier | Make it possible to award edubadges directly to the student | Legitimate Interest |
+| Privacy interaction | Whether the privacy statement has been read | Legitimate Interest |
 
-Students who follow extracurricular workshops, modules and other EUR activities that are not part of their own study.
+Erasmus University Rotterdam has access to your first name, last name and email address. SURF and its management partner has access to all personal data. The personal data are not provided to other parties.
 
-# Are your personal data disclosed to third parties?
+## 6 Security
 
-Apart from the EUR, students’ personal data are given to SURF for creating and maintaining the user accounts of edubadge recipients. SURF also uses this data to validate edubadges.
+Security measures, including the following, have been taken to protect personal data:
 
-EUR reaches agreements with SURF to safeguard the confidentiality of personal data and to ensure that the data are handled with due care. Click [here](https://raw.githubusercontent.com/edubadges/privacy/master/surf/account-statement-en.md) for more information about how SURF handles your personal data.
+* Only the personal data associated with the eduID is stored in the edubadge.
+* Communication between systems is encrypted in accordance with modern standards and best practices.
+* An extensive independent security audit (code review and penetration testing) took place before the systems went live.
+* The edubadges service will be audited regularly.
+* Access to servers is secured in accordance with the state of the art in security technology, standards and best practices.
+* All physical and virtual servers and data are located in SURF's data centres in the Netherlands. The edubadges service is hosted redundantly at SURF's Nikhef and InterXion locations.
+* All operating systems and software are kept up-to-date.
+* Access to the administration side of the edubadges service is shielded by VPN and a hardened configuration for the access itself.
+* Backups of the production environment are made daily.
+* Servers, operating systems and applications are protected by a restrictive firewall.
+* Actions in the operating system and actions taken to issue edubadges are all logged.
+* The web server uses a hardened configuration and security headers in accordance with best practices.
+* Employee account roles access in edubadges is limited to only the personal data that is relevant to them.
 
-# For how long are your data kept?
-The intention is that edubadges should last a lifetime. For this reason, no retention period has been set. That said, students do have the option of closing their user account for validating the edubadges. The personal data of data subjects that have been collected on SURF’s edubadges platform will then be retained for one month at most after the account has been deleted.
+## 7 Your personal data rights
 
-# Are your personal data protected at EUR?
+As a data subject, you have several rights with regard to your personal data as stipulated in the GDPR. These rights amongst others include the right of access, right to object and the right to be forgotten. For more information about your rights and how to invoke them, please see our central :privacy statement: [Privacy Statement Erasmus University Rotterdam (EUR) | Erasmus University Rotterdam](https://my.eur.nl/en/privacy-statement-erasmus-university-rotterdam-eur).
 
-EUR values your privacy. So we take security measures to prevent the theft, loss or otherwise unlawful use of your personal data. We protect your data by minimising access rights, using encryption, monitoring use, and applying additional measures to the extent that the current state of the art allows for this.
+## 8 Amendments to the privacy statement
 
-# Your rights and exercising these rights (digital portal)
-
-To request access, changes or amendments to your personal data on SURF’s edubadges platform, you can submit a request via the privacy organisation’s digital portal. For this, please see the [EUR’s general privacy statement](https://eur.nl/disclaimer/privacy-statement).
-
-# Questions
-
-If you have any specific questions about the processing of your personal data and edubadges, please feel free to contact us by sending an e-mail to [edubadges@eur.nl](mailto:edubadges@eur.nl).
+We may amend this privacy statement from time to time. We therefore advise you to consult our privacy statement regularly.

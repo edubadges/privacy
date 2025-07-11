@@ -43,7 +43,7 @@ Some examples:
 | Avans | legitimate interest | legitimate interest | easyprivacydocs | done |
 | BUas | contract | contract | easyprivacydocs | done |
 | Deltion College | none | contract | easyprivacydocs | done |
-| Erasmus Universiteit Rotterdam | none | legitimate interest | custom | done |
+| Erasmus Universiteit Rotterdam | legitimate interest | legitimate interest | custom | done |
 | Fontys Hogescholen | legitimate interest | contract | easyprivacydocs | done |
 | Haagse Hogeschool | contract | contract interest | custom | done |
 | Han University of Applied Sciences | none | legitimate interest | easyprivacydocs | done |
