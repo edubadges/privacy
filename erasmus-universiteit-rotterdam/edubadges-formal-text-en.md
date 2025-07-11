@@ -44,6 +44,7 @@ For issuing edubadges, there are three forms of processing:
 The table below outlines the personal data, including the purpose and legal basis for processing, that are handled during the registration for an edubadge, its issuance, and its delivery to the recipient. This personal data is obtained by linking to the user his/her eduID account. Please note that applying for an EduID is mandatory for the issuance of an edubadge.
 
 | Personal data | Purpose | Basis |
+| ------------- | ------- | ----- |
 | eduID | Pseudonym identifier in edubadge | Legitimate Interest |
 | Given name(s) | User identification | Legitimate Interest |
 | Surname | User identification | Legitimate Interest |
