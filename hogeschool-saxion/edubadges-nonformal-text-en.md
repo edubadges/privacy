@@ -1,6 +1,6 @@
 23-03-2021
 
-We are glad that you’re reading the terms of use of Saxion University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [functionarisgegevensbescherming@saxion.nl](mailto:functionarisgegevensbescherming@saxion.nl).
+We are glad that you’re reading the terms of use of Saxion University of Applied Sciences for the service edubadges! We have paid a lot of attention to the protection of your personal data, and you can read all about it in these terms of service. To receive this edubadge, you have to agree with these terms of service. If you have any questions, comments or concerns, please email [soc@saxion.nl](mailto:soc@saxion.nl).
 
 # 1 Introduction
 
@@ -76,4 +76,4 @@ You have the following rights with regard to your own personal data:
 
 However, if you and Saxion University of Applied Sciences disagree and the response to your complaint does not lead to an acceptable outcome, you have the right to submit a complaint to the Dutch Data Protection Authority. More information on the Dutch Data Protection Authority and the procedure for submitting complaints can be found on the [website of the Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl).
 
-To exercise these rights, please contact [functionarisgegevensbescherming@saxion.nl](mailto:functionarisgegevensbescherming@saxion.nl).
+To exercise these rights, please contact [soc@saxion.nl](mailto:soc@saxion.nl).

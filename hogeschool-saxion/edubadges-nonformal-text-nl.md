@@ -1,6 +1,6 @@
 23-03-2021
 
-Goed dat je de gebruiksvoorwaarden van Hogeschool Saxion voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om deze edubadge te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [functionarisgegevensbescherming@saxion.nl](mailto:functionarisgegevensbescherming@saxion.nl).
+Goed dat je de gebruiksvoorwaarden van Hogeschool Saxion voor de dienst edubadges bekijkt! We hebben veel aandacht besteed aan de bescherming van jouw persoonsgegevens en in deze gebruiksvoorwaarden kun je daar over lezen. Om deze edubadge te kunnen ontvangen dien je akkoord gaan met deze gebruiksvoorwaarden. Heb je vragen, opmerkingen of zorgen? Stuur dan een e-mail naar [soc@saxion.nl](mailto:soc@saxion.nl).
 
 # 1 Wat zijn edubadges
 
@@ -77,4 +77,4 @@ Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
 * Als je van mening bent dat wij niet goed omgaan met je persoonsgegevens kun je een klacht indienen bij.
 * Als jij en Hogeschool Saxion er echter niet samen uitkomen en het antwoord op je klacht niet leidt tot een acceptabel resultaat, heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens. Meer informatie over de Autoriteit Persoonsgegevens en het indienen van klachten vind je op de [website van de Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [functionarisgegevensbescherming@saxion.nl](mailto:functionarisgegevensbescherming@saxion.nl).
+Om deze rechten uit te kunnen oefenen, kun je contact opnemen met [soc@saxion.nl](mailto:soc@saxion.nl).

@@ -57,7 +57,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Hogeschool IPABO | f.kool@ipabo.nl |
 | Hogeschool Leiden | loket.privacy@hsleiden.nl |
 | Hogeschool Rotterdam | privacy@hr.nl |
-| Hogeschool Saxion | functionarisgegevensbescherming@saxion.nl |
+| Hogeschool Saxion | soc@saxion.nl |
 | Hogeschool Utrecht | askprivacy@hu.nl |
 | Hogeschool van Amsterdam | functionarisgegevensbescherming@hva.nl |
 | Hogeschool Van Hall Larenstein | privacy@hvhl.nl |
