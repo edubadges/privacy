@@ -57,7 +57,7 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Hogeschool IPABO | f.kool@ipabo.nl |
 | University of Applied Sciences Leiden | loket.privacy@hsleiden.nl |
 | Rotterdam University of Applied Sciences | privacy@hr.nl |
-| Saxion University of Applied Sciences | soc@saxion.nl |
+| Saxion University of Applied Sciences | privacy@saxion.nl |
 | University of applied sciences Utrecht | askprivacy@hu.nl |
 | Amsterdam University of Applied Sciences | functionarisgegevensbescherming@hva.nl |
 | Hogeschool Van Hall Larenstein | privacy@hvhl.nl |
