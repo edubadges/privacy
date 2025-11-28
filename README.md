@@ -107,5 +107,10 @@ Some examples:
 | Koning Willem I College | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Zadkine | legitimate interest | contract | easyprivacydocs-mbo | done |
 
+## SURF general terms
+
+- [English](surf/account-terms-nl.md)
+- [Dutch](surf/account-terms-nl)
+
 ## easyprivacydocs
 `easyprivacydocs` and `easyprivacydocs-mbo` are tools for creating the required edubadges privacy documentation the easy way.
