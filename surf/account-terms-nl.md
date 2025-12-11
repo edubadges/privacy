@@ -1,6 +1,6 @@
 `Versie 11 september 2020`
 
-Edubadges is een dienst die wordt aangeboden door SURFnet B.V., gevestigd aan het Moreelsepark 48 te Utrecht, en geregistreerd bij de Kamer van Koophandel onder nummer 41182408 (hierna: “SURF”).
+Edubadges is een dienst die wordt aangeboden door SURF, gevestigd aan het Moreelsepark 48 te Utrecht, en geregistreerd bij de Kamer van Koophandel onder nummer 41182408 (hierna: “SURF”).
 
 Personen die onderdeel uitmaken van een mbo-, hbo- of wo-instelling kunnen edubadges aanvragen bij deelnemende onderwijsinstellingen. Met de dienst edubadges kunnen onderwijsinstellingen edubadges aanmaken en uitreiken en kunnen studenten edubadges aanvragen en ontvangen.
 

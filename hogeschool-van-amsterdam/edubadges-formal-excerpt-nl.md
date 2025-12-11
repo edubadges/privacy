@@ -1,4 +1,4 @@
-# edubadges en jouw privacy
+# Edubadges en jouw privacy
 
 Hieronder staan de belangrijkste punten over deze edubadges en jouw privacy. In de [volledige versie](https://raw.githubusercontent.com/edubadges/privacy/master/hogeschool-van-amsterdam/edubadges-formal-text-nl.md) wordt in detail ingegaan op deze verwerking.
 

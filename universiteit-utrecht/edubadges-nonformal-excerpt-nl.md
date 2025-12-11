@@ -1,4 +1,4 @@
-# anvragen van de niet-formele edubadge en de privacy van de student
+# Aanvragen van de niet-formele edubadge en de privacy van de student
 
 Hieronder staan de belangrijkste punten over edubadges en de privacy van de student. De volledige versie van de Privacyverklaring is onder deze tekst te vinden. Deze korte verklaring wordt getoond aan iedere student die voor de eerste keer een formele edubadge aanvraagt bij de Universiteit Utrecht. Voor het genereren en uitgeven van de badge is de Universiteit Utrecht verwerkingsverantwoordelijke.
 

@@ -1,5 +1,5 @@
 # *For demonstration purposes only!*
-# edubadges and your privacy
+# Edubadges and your privacy
 
 Below are the most important points about edubadges and your privacy. In the [full version](https://raw.githubusercontent.com/edubadges/privacy/master/surfuniversity.org/informal-edubadges-agreement-en.md) detailed information about this processing can be found.
 

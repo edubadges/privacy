@@ -1,6 +1,6 @@
 `Version of 11 September 2020`
 
-Edubadges is a service offered by SURFnet B.V., established at Moreelsepark 48, Utrecht, the Netherlands, and registered with the Chamber of Commerce under number 41182408 ("SURF").
+Edubadges is a service offered by SURF, established at Moreelsepark 48, Utrecht, the Netherlands, and registered with the Chamber of Commerce under number 41182408 ("SURF").
 
 Individuals who are affiliated with either a vocational education and training institution (MBO), a university of applied sciences (HBO) or a research university (WO) can apply for edubadges from participating educational institutions. By using the edubadges service, educational institutions can create and issue edubadges and students can apply for and be awarded edubadges.
 

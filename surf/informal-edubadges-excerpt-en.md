@@ -1,4 +1,4 @@
-# edubadges and your privacy
+# Edubadges and your privacy
 
 SURF wants to provide her employees with digital evidence by awarding edubadges. With edubadges, you can demonstrate that you have certain skills and/or knowledge.
 
