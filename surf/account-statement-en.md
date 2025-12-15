@@ -1,6 +1,6 @@
 # Privacy Statement edubadges
 
-`Version 1.2 of 1 June 2023`
+`Version 1.3 of 15 December 2025`
 
 Thank you for taking the time to read the privacy statement of the SURF edubadges service! We have devoted a great deal of attention to the protection of your personal data and you can read all about this in this privacy statement. If you have any questions, comments or concerns after reading this privacy statement, please feel free to send an e-mail to [support@edubadges.nl](mailto:support@edubadges.nl) or contact your own educational institution.
 
@@ -126,6 +126,10 @@ The table below shows the personal data processed for edubadge recipients (along
 | Privacy Interaction | Whether the Terms of Use have been accepted | Performance of an agreement |
 | Edubadges	| Storage of edubadges | Performance of an agreement |
 | Backups | Recovery of edubadges service in case of catastrophic event	| Performance of an agreement |
+| Education (code) | Linking edubadges to education	| Performance of an agreement |
+| Grade | Showing the grade in the edubadge (optional to use for the educational institution)	| Performance of an agreement |
+| Date of obtaining the edubadge | Showing the date on which the edubadge was obtained	| Performance of an agreement |
+| Unique identifier | Make it possible to award edubadges directly to the student	| Performance of an agreement |
 
 An edubadge contains your eduID. The edubadge also contains information such as the time of issue, the issuer (your institution) and information about grades, the educational module and/or learning outcomes. Edubadges essentially last for a lifetime. This is why we keep edubadges until you delete the edubadge or your user account with us (plus a period of one month for backups).
 
