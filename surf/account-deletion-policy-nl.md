@@ -1,6 +1,6 @@
 # Account Deletion Policy Edubadges
 
-'Laatste update: 23 december 2025'
+`Laatste update: 23 december 2025`
 
 ## 1. Doel
 
@@ -10,9 +10,8 @@ Dit beleid legt uit hoe gebruikers hun account kunnen verwijderen en welke gegev
 
 Gebruikers kunnen hun account op elk moment verwijderen via:
 
-De accountinstellingen in de app, of
-
-Door een verzoek te sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
+* De accountinstellingen in de app, of
+* Door een verzoek te sturen naar [support@edubadges.nl](mailto:support@edubadges.nl).
 
 Na het verzoek wordt het account direct gedeactiveerd en binnen 30 dagen permanent verwijderd.
 
@@ -20,13 +19,10 @@ Na het verzoek wordt het account direct gedeactiveerd en binnen 30 dagen perman
 
 Bij verwijdering worden de volgende gegevens verwijderd:
 
-Persoonlijke informatie (naam, e-mailadres, telefoonnummer, profielinformatie)
-
-Logingegevens
-
-Instellingen en voorkeuren
-
-Eventuele documenten of uploads gekoppeld aan het account
+* Persoonlijke informatie (naam, e-mailadres, telefoonnummer, profielinformatie)
+* Logingegevens
+* Instellingen en voorkeuren
+* Eventuele documenten of uploads gekoppeld aan het account
 
 Niet verwijderd: gegevens die wettelijk bewaard moeten worden (bijv. facturen) of geanonimiseerde statistieken.
 
@@ -36,7 +32,7 @@ Gegevens in back-ups worden automatisch verwijderd zodra de back-uprotatie is vo
 
 ## 5. Herstel
 
-Verwijderde accounts en gegevens kunnen niet worden hersteld nadat de verwijdering is voltooid.
+Verwijderde accounts en gegevens kunnen **niet worden hersteld** nadat de verwijdering is voltooid.
 
 ## 6. Contact
 
