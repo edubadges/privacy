@@ -37,12 +37,14 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | ---------- | --------------- |
 | Aeres Groep | fg@aeres.nl |
 | Albeda | fg@albeda.nl |
+| Alfa-college | info@alfa-college.nl
 | Avans Hogeschool | privacy@avans.nl |
 | Aventus | privacy@aventus.nl |
 | Breda University of Applied Sciences | fg@buas.nl |
 | Christelijke Hogeschool Ede | fg@che.nl |
 | Cibap Vakschool | n.dutij@cibap.nl |
 | Curio | j.vandenhazelkamp@curio.nl |
+| DDCTerra | privacy@dcterra.nl |
 | De Haagse Hogeschool | privacy@hhs.nl |
 | Deltion | 3333@deltion.nl |
 | Erasmus Universiteit Rotterdam | edubadges@eur.nl |
@@ -79,9 +81,12 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | ROC van Twente | privacy@rocmn.nl |
 | Rijksuniversiteit Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |
+| Scalda | info@scalda.nl |
+| SintLucas | privacy@sintlucas.nl |
 | Stichting Gilde Opleidingen | privacy@rocgilde.nl |
 | Summa College | ibp-team@summacollege.nl |
 | SURF | privacy@surf.nl |
+| Talland College | privacy@talland.nl |
 | Technische Universiteit Delft | privacy-tud@tudelft.nl |
 | Technische Universiteit Eindhoven | privacy@tue.nl |
 | Thomas More Hogeschool | ibp@thomasmorehs.nl |
@@ -91,6 +96,7 @@ Voor het uitgeven van edubadges (2) is jouw onderwijsinstelling de verwerkingsve
 | Universiteit Utrecht | privacy@uu.nl |
 | Universiteit van Amsterdam | avg@uva.nl |
 | VISTA college | ibp@vistacollege.nl |
+| Vonk | privacy@vonknh.nl |
 | Vrije Universiteit Amsterdam | functionarisgegevensbescherming@vu.nl |
 | Wageningen University & Research | privacy@wur.nl |
 | Windesheim | fg@windesheim.nl |

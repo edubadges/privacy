@@ -33,33 +33,35 @@ SURF is the data controller for the processing of data in the user account, stor
 
 For the issuing of edubadges (2), your educational institution is the data controller and SURF is the data processor. When applying for an edubadge, the educational institution in question will present you its privacy policy. If you have any questions about this processing, please contact your own educational institution. Contact information can be found in the table below.
 
-| Instelling | Contactgegevens |
-| ---------- | --------------- |
+| Institution | Privacy contact |
+| ----------- | --------------- |
 | Aeres Groep | fg@aeres.nl |
 | Albeda | fg@albeda.nl |
+| Alfa-college | info@alfa-college.nl
 | Avans Hogeschool | privacy@avans.nl |
 | Aventus | privacy@aventus.nl |
 | Breda University of Applied Sciences | fg@buas.nl |
 | Christelijke Hogeschool Ede | fg@che.nl |
 | Cibap Vakschool | n.dutij@cibap.nl |
 | Curio | j.vandenhazelkamp@curio.nl |
-| De Haque University | privacy@hhs.nl |
+| DDCTerra | privacy@dcterra.nl |
+| De Haagse Hogeschool | privacy@hhs.nl |
 | Deltion | 3333@deltion.nl |
-| Erasmus University Rotterdam | edubadges@eur.nl |
+| Erasmus Universiteit Rotterdam | edubadges@eur.nl |
 | Fontys | isp-office@fontys.nl |
 | Firda | privacy@fcroc.nl |
 | Graafschap College | c.uitterhoeve@graafschapcollege.nl |
 | Grafisch Lyceum Rotterdam | dlinden@glr.nl |
 | HAN University of Applied Sciences | privacy@han.nl |
-| Hanze University of Applied Sciences | ict-security@org.hanze.nl |
+| Hanzehogeschool Groningen | ict-security@org.hanze.nl |
 | HAS Hogeschool | privacy@has.nl |
-| Inholland University of Applied Sciences | functionarisgegevensbescherming@inholland.nl |
+| Hogeschool Inholland | functionarisgegevensbescherming@inholland.nl |
 | Hogeschool IPABO | f.kool@ipabo.nl |
-| University of Applied Sciences Leiden | loket.privacy@hsleiden.nl |
-| Rotterdam University of Applied Sciences | privacy@hr.nl |
-| Saxion University of Applied Sciences | privacy@saxion.nl |
-| University of applied sciences Utrecht | askprivacy@hu.nl |
-| Amsterdam University of Applied Sciences | functionarisgegevensbescherming@hva.nl |
+| Hogeschool Leiden | loket.privacy@hsleiden.nl |
+| Hogeschool Rotterdam | privacy@hr.nl |
+| Hogeschool Saxion | privacy@saxion.nl |
+| Hogeschool Utrecht | askprivacy@hu.nl |
+| Hogeschool van Amsterdam | functionarisgegevensbescherming@hva.nl |
 | Hogeschool Van Hall Larenstein | privacy@hvhl.nl |
 | Hotelschool The Hague | l.m.bal@hotelschool.nl |
 | Koning Willem I College | fg@kw1c.nl |
@@ -68,29 +70,33 @@ For the issuing of edubadges (2), your educational institution is the data contr
 | Marnix Academie | fg@hsmarnix.nl |
 | mboRijnland | privacy@mborijnland.nl |
 | MBO Utrecht | privacy@mboutrecht.nl |
-| NHL Stenden University of Applied Sciences | privacy-and-security@nhlstenden.com |
+| NHL Stenden Hogeschool | privacy-and-security@nhlstenden.com |
 | Noorderpoort | servicecentrum@noorderpoort.nl |
 | Nova College | ffeen@novacollege.nl |
-| Radboud University | mijnprivacy@ru.nl |
+| Radboud Universiteit | mijnprivacy@ru.nl |
 | ROC A12 | fg@cog.nl |
 | ROC Midden Nederland | privacy@rocmn.nl |
 | ROC Nijmegen | n.dutij@roc-nijmegen.nl |
 | ROC van Amsterdam | privacy@rocva.nl |
 | ROC van Twente | privacy@rocmn.nl |
-| University of Groningen | privacy@rug.nl |
+| Rijksuniversiteit Groningen | privacy@rug.nl |
 | Rijn IJssel | privacy@rijnijssel.nl |
+| Scalda | info@scalda.nl |
+| SintLucas | privacy@sintlucas.nl |
 | Stichting Gilde Opleidingen | privacy@rocgilde.nl |
 | Summa College | ibp-team@summacollege.nl |
 | SURF | privacy@surf.nl |
-| Delft University of Technology | privacy-tud@tudelft.nl |
-| Eindhoven University of Technology | privacy@tue.nl |
+| Talland College | privacy@talland.nl |
+| Technische Universiteit Delft | privacy-tud@tudelft.nl |
+| Technische Universiteit Eindhoven | privacy@tue.nl |
 | Thomas More Hogeschool | ibp@thomasmorehs.nl |
 | Tilburg University | privacy@tilburguniversity.edu |
-| Leiden University | privacy@bb.leidenuniv.nl |
-| University of Twente | dpo@utwente.nl |
-| Utrecht University | privacy@uu.nl |
-| University of Amsterdam | avg@uva.nl |
+| Universiteit Leiden | privacy@bb.leidenuniv.nl |
+| Universiteit Twente | dpo@utwente.nl |
+| Universiteit Utrecht | privacy@uu.nl |
+| Universiteit van Amsterdam | avg@uva.nl |
 | VISTA college | ibp@vistacollege.nl |
+| Vonk | privacy@vonknh.nl |
 | Vrije Universiteit Amsterdam | functionarisgegevensbescherming@vu.nl |
 | Wageningen University & Research | privacy@wur.nl |
 | Windesheim | fg@windesheim.nl |

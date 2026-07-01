@@ -106,6 +106,12 @@ Some examples:
 | Albeda | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Koning Willem I College | legitimate interest | contract | easyprivacydocs-mbo | done |
 | Zadkine | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Scalda | legitimate interest | contract | easyprivacydocs-mbo | done |
+| SintLucas | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Vonk | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Talland College | legitimate interest | contract | easyprivacydocs-mbo | done |
+| Alfa-college | Public interest | contract | easyprivacydocs-mbo | done |
+| DCTerra | Public interest | contract | easyprivacydocs-mbo | done |
 
 ## SURF general terms
 
