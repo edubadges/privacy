@@ -37,16 +37,16 @@ In the table below are the personal data (with purpose and basis) that are proce
 
 | Personal data	| Purpose | Basis |
 | ------------- | ------- | ----- |
-| eduID	| Pseudonym identifier in edubadge | Performance of an agreement |
-| Given name(s) | User identification | Performance of an agreement |
-| Surname | User identification | Performance of an agreement |
-| Email address	| User Notification	| Performance of an agreement |
-| Educational institution | Demarcation of available edubadges | Performance of an agreement |
-| Education (code) | Linking edubadges to education | Performance of an agreement |
-| Grade | Showing the grade in the edubadge (optional to use for the educational institution) | Performance of an agreement |
-| Date of obtaining the edubadge | Showing the date on which the edubadge was obtained | Performance of an agreement |
-| Unique identifier | Make it possible to award edubadges directly to the student | Performance of an agreement |
-| Privacy interaction | Whether the privacy statement has been read | Performance of an agreement |
+| eduID	| Pseudonym identifier in edubadge | <LEGAL_BASIS> |
+| Given name(s) | User identification | <LEGAL_BASIS> |
+| Surname | User identification | <LEGAL_BASIS> |
+| Email address	| User Notification	| <LEGAL_BASIS> |
+| Educational institution | Demarcation of available edubadges | <LEGAL_BASIS> |
+| Education (code) | Linking edubadges to education | <LEGAL_BASIS> |
+| Grade | Showing the grade in the edubadge (optional to use for the educational institution) | <LEGAL_BASIS> |
+| Date of obtaining the edubadge | Showing the date on which the edubadge was obtained | <LEGAL_BASIS> |
+| Unique identifier | Make it possible to award edubadges directly to the student | <LEGAL_BASIS> |
+| Privacy interaction | Whether the privacy statement has been read | <LEGAL_BASIS> |
 
 These personal data are are retained until the user deletes the edubadge + 1 month due to backups. <INSTITUTION_NAME_EN> has access to your first name, last name and email address. SURF and its management partner (Proxy Services B.V.) has access to all personal data. The personal data are not provided to other parties.
 

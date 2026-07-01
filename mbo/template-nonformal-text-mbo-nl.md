@@ -37,16 +37,16 @@ In de onderstaande tabel staan de persoonsgegevens (met doel en grondslag) die w
 
 | Persoonsgegeven | Doel | Grondslag |
 | --------------- | ---- | --------- |
-| eduID | Pseudonieme identifier in edubadge | Uitvoering overeenkomst |
-| Voornaam | Identificatie van gebruiker | Uitvoering overeenkomst |
-| Achternaam | Identificatie van gebruiker | Uitvoering overeenkomst |
-| E-mailadres | Notificeren van gebruiker | Uitvoering overeenkomst |
-| Onderwijsinstelling | Afbakening beschikbare edubadges | Uitvoering overeenkomst |
-| Opleiding(scode) | Koppelen van edubadges aan opleidingen | Uitvoering overeenkomst |
-| Cijfer | Tonen van cijfer in edubadge (optioneel door onderwijsinstelling toe te voegen) | Uitvoering overeenkomst |
-| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Uitvoering overeenkomst |
-| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
-| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | Uitvoering overeenkomst |
+| eduID | Pseudonieme identifier in edubadge | <LEGAL_BASIS> |
+| Voornaam | Identificatie van gebruiker | <LEGAL_BASIS> |
+| Achternaam | Identificatie van gebruiker | <LEGAL_BASIS>t |
+| E-mailadres | Notificeren van gebruiker | <LEGAL_BASIS> |
+| Onderwijsinstelling | Afbakening beschikbare edubadges | <LEGAL_BASIS> |
+| Opleiding(scode) | Koppelen van edubadges aan opleidingen | <LEGAL_BASIS> |
+| Cijfer | Tonen van cijfer in edubadge (optioneel door onderwijsinstelling toe te voegen) | <LEGAL_BASIS> |
+| Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | <LEGAL_BASIS> |
+| Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | <LEGAL_BASIS> |
+| Privacyinteractie | Of er akkoord is gegaan met Gebruiksvoorwaarden | <LEGAL_BASIS> |
 
 Deze persoonsgegevens worden bewaard totdat de gebruiker de betreffende edubadge verwijdert + 1 maand vanwege backups. <INSTITUTION_NAME_NL> heeft toegang tot je voornaam, achternaam en e-mailadres. SURF en zijn beheerpartner (Proxy Services B.V.) hebben toegang tot alle persoonsgegevens. De persoonsgegevens worden niet aan andere partijen verstrekt.
 
