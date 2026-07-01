@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ################################################################################
-# Version 1.3.0-RELEASE (22-08-2024)
+# Version 1.3.0-RELEASE (01-07-2026)
 ################################################################################
 
 ################################################################################
@@ -23,8 +23,8 @@
 ################################################################################
 
 ################################################################################
-# EasyPrivacyDocs MBO edition generates institution privacy documentation for
-# secondary vocational educational (MBO) institutions on edubadges.nl.
+# EasyPrivacyDocs mbo edition generates institution privacy documentation for
+# secondary vocational educational (mbo) institutions on edubadges.nl.
 #
 # Contact:
 # > E-mail      sebas.veeke@surf.nl
@@ -37,8 +37,8 @@
 #############################################################################
 
 # version and date
-EASYPRIVACYDOCS_VERSION='1.3.0'
-EASYPRIVACYDOCS_VERSION_DATE='22-08-2024'
+EASYPRIVACYDOCS_VERSION='2.0.0'
+EASYPRIVACYDOCS_VERSION_DATE='01-07-2026'
 EASYPRIVACYDOCS_CURRENT_DATE="$(date +%d-%m-%Y)"
 
 # template input locations
@@ -61,13 +61,17 @@ EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN="template-nonformal-excerpt-mbo-en.md"
 EDUBADGES_TEMPLATE_NONFORMAL_TEXT_NL="template-nonformal-text-mbo-nl.md"
 EDUBADGES_TEMPLATE_NONFORMAL_TEXT_EN="template-nonformal-text-mbo-en.md"
 
-# EasyPrivacyDocs MBO edition needs the following information:[]
+# EasyPrivacyDocs mbo edition uses the following information:
 # 1) Formal institution name in Dutch (INSTITUTION_NAME_NL)
 # 2) Formal institution name in English (INSTITUTION_NAME_EN)
-# 3) Privacy email address (INSTITUTION_PRIVACY_CONTACT)
-# 4) Institution directory name without spaces on git (INSTITUTION_DIRECTORY)
+# 3) Institution schacHomeOrganization domain (INSTITUTION_SHACHOME)
+# 4) Institution privacy email address (INSTITUTION_PRIVACY_CONTACT)
+# 5) Institution privacy documentation subdirectory without spaces (INSTITUTION_DIRECTORY)
+# 6) Institution privacy documentation generation date (INSTITUTION_PRIVACYDOCS_DATE)
+# 5) Optionally, legal basis for formal edubadges (INSTITUTION_LEGALBASIS_FORMAL)
+# 6) Optionally, legal basis for nonformal edubadges (INSTITUTION_LEGALBASIS_NONFORMAL)
 # in a comma seperated text file where every institution starts on a newline. Example:
-# Mbo School Saaxumhuizen,Saaxumhuizen MBO School,privacy@mbosaaxumhuizen.nl,mbo-school-saaxumhuizen
+# Mbo School Saaxumhuizen,Saaxumhuizen MBO School,mbosaaxumhuizen.nl,privacy@mbosaaxumhuizen.nl,mbo-school-saaxumhuizen,01-01-2024,1,2
 EASYPRIVACYDOCS_INPUT_FILE='mbo.csv'
 
 # institution privacy text output file names
@@ -107,7 +111,7 @@ while test -n "$1"; do
             ARGUMENT_HELP='1'
             shift
             ;;
-        
+
         --check|-check|check|--c|-c)
             ARGUMENT_CHECK='1'
             shift
@@ -159,7 +163,7 @@ validation_argument() {
     # combine argument categories
     ARGUMENT_OPTIONS_COMBINED="$((ARGUMENT_VERSION + ARGUMENT_HELP + ARGUMENT_CHECK))"
     ARGUMENT_FEATURES_COMBINED="$((ARGUMENT_TEMPLATE + ARGUMENT_GENERATE))"
-    # show error if a unsupported argument is used    
+    # show error if a unsupported argument is used
     if [ "${ARGUMENT_NONE}" = '1' ]; then
         program_error 'invalid argument used'
     # validate amount of selected options and return error if more than 1 option is used
@@ -191,9 +195,9 @@ option_help() {
     printf " easyprivacydocs [option]...\n\n"
     printf "Features:\n"
     printf " --template             Downloads available templates to the current directory\n"
-    printf " --generate             Checks MBO institution list for validity and generates privacy documentation\n\n"
+    printf " --generate             Checks mbo institution list for validity and generates privacy documentation\n\n"
     printf "Options:\n"
-    printf " --check                Checks MBO institution list for validity\n"
+    printf " --check                Checks mbo institution list for validity\n"
     printf " --help                 Display this help and exit\n"
     printf " --version              Display version information and exit\n"
     exit 0
@@ -251,28 +255,58 @@ feature_generate() {
         INSTITUTION_PRIVACY_CONTACT="$(echo "${line}" | awk -F',' '{print $4;}')"
         INSTITUTION_DIRECTORY="$(echo "${line}" | awk -F',' '{print $5;}')"
         INSTITUTION_PRIVACYDOCS_DATE="$(echo "${line}" | awk -F',' '{print $6;}')"
-        printf "  %s\n" "${INSTITUTION_NAME_NL}"
+        # change value for formal edubadge legal basis depending on choice in csv
+        INSTITUTION_LEGALBASIS_FORMAL="$(echo "${line}" | awk -F',' '{print $7;}')"
+        if [ "${INSTITUTION_LEGALBASIS_FORMAL}" = '1' ]; then
+            INSTITUTION_LEGALBASIS_FORMAL_NL="Gerechtvaardigd belang"
+            INSTITUTION_LEGALBASIS_FORMAL_EN="Legitimate interest"
+        elif [ "${INSTITUTION_LEGALBASIS_FORMAL}" = '2' ]; then
+            INSTITUTION_LEGALBASIS_FORMAL_NL="Uitvoering overeenkomst"
+            INSTITUTION_LEGALBASIS_FORMAL_EN="Performance of agreement"
+        elif [ "${INSTITUTION_LEGALBASIS_FORMAL}" = '3' ]; then
+            INSTITUTION_LEGALBASIS_FORMAL_NL="Algemeen belang"
+            INSTITUTION_LEGALBASIS_FORMAL_EN="Public interest"
+        else
+            INSTITUTION_LEGALBASIS_FORMAL_NL="Gerechtvaardigd belang"
+            INSTITUTION_LEGALBASIS_FORMAL_EN="Legitimate interest"
+        fi
+        # change value for nonformal edubadge legal basis depending on choice in csv
+        INSTITUTION_LEGALBASIS_NONFORMAL="$(echo "${line}" | awk -F',' '{print $8;}')"
+        if [ "${INSTITUTION_LEGALBASIS_NONFORMAL}" = '1' ]; then
+            INSTITUTION_LEGALBASIS_NONFORMAL_NL="Gerechtvaardigd belang"
+            INSTITUTION_LEGALBASIS_NONFORMAL_EN="Legitimate interest"
+        elif [ "${INSTITUTION_LEGALBASIS_NONFORMAL}" = '2' ]; then
+            INSTITUTION_LEGALBASIS_NONFORMAL_NL="Uitvoering overeenkomst"
+            INSTITUTION_LEGALBASIS_NONFORMAL_EN="Performance of agreement"
+        elif [ "${INSTITUTION_LEGALBASIS_NONFORMAL}" = '3' ]; then
+            INSTITUTION_LEGALBASIS_NONFORMAL_NL="Algemeen belang"
+            INSTITUTION_LEGALBASIS_NONFORMAL_EN="Public interest"
+        else
+            INSTITUTION_LEGALBASIS_NONFORMAL_NL="Uitvoering overeenkomst"
+            INSTITUTION_LEGALBASIS_NONFORMAL_EN="Performance of agreement"
+        fi
 
+        printf "  %s\n" "${INSTITUTION_NAME_NL}"
         # create institution directory
         printf "    > Creating institution directory %s\n" "${INSTITUTION_DIRECTORY}"
         mkdir -p "${INSTITUTION_DIRECTORY}"
 
         # copy templates to institution directory
-        printf "    > Copy templates to %s\n" "${INSTITUTION_DIRECTORY}"        
+        printf "    > Copy templates to %s\n" "${INSTITUTION_DIRECTORY}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"
-        cp "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"        
+        cp "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_NL}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"
-        cp "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"        
+        cp "${EDUBADGES_TEMPLATE_FORMAL_EXCERPT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_EXCERPT_EN}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"
-        cp "${EDUBADGES_TEMPLATE_FORMAL_TEXT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"        
+        cp "${EDUBADGES_TEMPLATE_FORMAL_TEXT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
         cp "${EDUBADGES_TEMPLATE_FORMAL_TEXT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"
-        cp "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"        
+        cp "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_NL}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"
-        cp "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"        
+        cp "${EDUBADGES_TEMPLATE_NONFORMAL_EXCERPT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
-        cp "${EDUBADGES_TEMPLATE_NONFORMAL_TEXT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"       
+        cp "${EDUBADGES_TEMPLATE_NONFORMAL_TEXT_NL}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
         printf "      - %s/%s\n" "${INSTITUTION_DIRECTORY}" "${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
         cp "${EDUBADGES_TEMPLATE_NONFORMAL_TEXT_EN}" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
 
@@ -323,6 +357,14 @@ feature_generate() {
         sed -i "s/<CURRENT_DATE>/${INSTITUTION_PRIVACYDOCS_DATE}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_EXCERPT_EN}"
         sed -i "s/<CURRENT_DATE>/${INSTITUTION_PRIVACYDOCS_DATE}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
         sed -i "s/<CURRENT_DATE>/${INSTITUTION_PRIVACYDOCS_DATE}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
+        printf "      - Changing formal legal basis (NL) to %s\n" "${INSTITUTION_LEGALBASIS_FORMAL_NL}"
+        sed -i "s/<LEGAL_BASIS>/${INSTITUTION_LEGALBASIS_FORMAL_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_NL}"
+        printf "      - Changing formal legal basis (EN) to %s\n" "${INSTITUTION_LEGALBASIS_FORMAL_EN}"
+        sed -i "s/<LEGAL_BASIS>/${INSTITUTION_LEGALBASIS_FORMAL_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_FORMAL_TEXT_EN}"
+        printf "      - Changing nonformal legal basis (NL) to %s\n" "${INSTITUTION_LEGALBASIS_NONFORMAL_NL}"
+        sed -i "s/<LEGAL_BASIS>/${INSTITUTION_LEGALBASIS_NONFORMAL_NL}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_NL}"
+        printf "      - Changing nonformal legal basis (EN) to %s\n" "${INSTITUTION_LEGALBASIS_NONFORMAL_EN}"
+        sed -i "s/<LEGAL_BASIS>/${INSTITUTION_LEGALBASIS_NONFORMAL_EN}/g" "${INSTITUTION_DIRECTORY}/${EDUBADGES_OUTPUTFILE_NONFORMAL_TEXT_EN}"
         printf "    > Done with %s\n\n" "${INSTITUTION_NAME_NL}"
     done < ${EASYPRIVACYDOCS_INPUT_FILE}
     printf "All done! \\o/\n"

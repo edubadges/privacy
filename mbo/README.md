@@ -1,6 +1,6 @@
 # Edubadges MBO privacy documentation
 
-This repository contains privacy documentation for the secondary vocational educational (MBO) institutions connected to edubadges. If you have any questions, feel free to contact us on [info@edubadges.nl](mailto:info@edubadges.nl).
+This repository contains privacy documentation for the secondary vocational educational (mbo) institutions connected to edubadges. If you have any questions, feel free to contact us on [info@edubadges.nl](mailto:info@edubadges.nl).
 
 ## Usage
 
@@ -12,17 +12,27 @@ This comma separated values file consists of the following information:
 
 1. Institution name NL
 2. Institution name EN
-3. Institution ShacHome
+3. Institution schacHomeOrganization domain
 4. Institution privacy email address
 5. Institution privacy documentation subdirectory
 6. Institution privacy documentation generation date
+7. Legal basis for formal edubadges (optional)
+8. Legal basis for non-formal edubadges (optional)
+
+If no number is provided, EasyPrivacyDocs defaults to legitimate interest for formal edubadges and performance of an agreement for nonformal edubadges. Legal basis can be changed by setting a number ranging from 1 to 3.
+
+```
+1 - Legitimate interest
+2 - Performance of agreement
+3 - Public interest
+```
 
 For example:
 
 ```
 $ cat mbo.csv
-Mbo School Saaxumhuizen,Saaxumhuizen MBO School,mbosaaxumhuizen.nl,privacy@mbosaaxumhuizen.nl,mbo-school-saaxumhuizen
-Mbo School Schokland,Schokland MBO School,mboschokland.nl,privacy@mboschokland.nl,mbo-school-schokland
+Mbo School Saaxumhuizen,Saaxumhuizen MBO School,mbosaaxumhuizen.nl,privacy@mbosaaxumhuizen.nl,mbo-school-saaxumhuizen,01-01-1970
+Mbo School Schokland,Schokland MBO School,mboschokland.nl,privacy@mboschokland.nl,mbo-school-schokland,01-01-1970,3,2
 ```
 
 ## Runthrough
@@ -44,6 +54,7 @@ Checking whether input file exists
   > Input file mbo.csv exists!
 
 Generating privacy documents
+  Generating privacy documents
   Mbo School Saaxumhuizen
     > Creating institution directory mbo-school-saaxumhuizen
     > Copy templates to mbo-school-saaxumhuizen
@@ -59,24 +70,13 @@ Generating privacy documents
       - Changing institution name (NL) to Mbo School Saaxumhuizen
       - Changing institution name (EN) to Saaxumhuizen MBO School
       - Changing institution privacy contact to privacy@mbosaaxumhuizen.nl
+      - Changing institution directory to mbo-school-saaxumhuizen
+      - Changing current date to 01-01-2024
+      - Changing formal legal basis (NL) to Gerechtvaardigd belang
+      - Changing formal legal basis (EN) to Legitimate interest
+      - Changing nonformal legal basis (NL) to Uitvoering overeenkomst
+      - Changing nonformal legal basis (EN) to Performance of agreement
     > Done with Mbo School Saaxumhuizen
-
-  Mbo School Schokland
-    > Creating institution directory mbo-school-schokland
-    > Copy templates to mbo-school-schokland
-      - mbo-school-schokland/edubadges-formal-excerpt-nl.md
-      - mbo-school-schokland/edubadges-formal-excerpt-en.md
-      - mbo-school-schokland/edubadges-formal-text-nl.md
-      - mbo-school-schokland/edubadges-formal-text-en.md
-      - mbo-school-schokland/edubadges-nonformal-excerpt-nl.md
-      - mbo-school-schokland/edubadges-nonformal-excerpt-en.md
-      - mbo-school-schokland/edubadges-nonformal-text-nl.md
-      - mbo-school-schokland/edubadges-nonformal-text-en.md
-    > Customizing templates to institution data
-      - Changing institution name (NL) to Mbo School Schokland
-      - Changing institution name (EN) to Schokland MBO School
-      - Changing institution privacy contact to privacy@mboschokland.nl
-    > Done with Mbo School Schokland
 
 All done! \o/
 ```
