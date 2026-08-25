@@ -137,7 +137,7 @@ In de tabel hieronder staan de persoonsgegevens (met doel en grondslag) die verw
 | Datum van behalen edubadge | Tonen van de datum waarop de edubadge verkregen is | Uitvoering overeenkomst |
 | Unieke identifier | Mogelijk maken om edubadges rechtstreeks aan de student toe te kennen | Uitvoering overeenkomst |
  
-Een edubadge bevat je eduID. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (jouw instelling) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Edubadges gaan in principe je hele leven lang mee. Daarom worden edubadges (met inbegrip van één maand termijn vanwege de backups) bewaart tot je de edubadge of het gebruikersaccount bij ons verwijdert.
+Een edubadge bevat je eduID. Verder bevat de edubadge informatie zoals het tijdstip van uitgifte, de uitgever (jouw instelling) en informatie over de prestatie, onderwijsmodule en/of leeruitkomst. Edubadges gaan in principe je hele leven lang mee. Daarom worden edubadges (met inbegrip van één maand termijn vanwege de backups) bewaard tot je de edubadge of het gebruikersaccount bij ons verwijdert.
 
 Als eigenaar van een edubadge kun je de edubadge in je account/backpack publiekelijk beschikbaar maken. Op die manier kan de edubadge geverifieerd worden, bijvoorbeeld door een potentiële werkgever of een onderwijsinstelling.
 
